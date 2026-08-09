@@ -1,0 +1,75 @@
+cbsa_code,cbsa_title,county,state_fips,county_fips,county_type,county_geoid
+10500,"Albany, GA",Dougherty County,13,095,Central,13095
+10500,"Albany, GA",Lee County,13,177,Central,13177
+10500,"Albany, GA",Terrell County,13,273,Outlying,13273
+10500,"Albany, GA",Worth County,13,321,Outlying,13321
+12020,"Athens-Clarke County, GA",Clarke County,13,059,Central,13059
+12020,"Athens-Clarke County, GA",Madison County,13,195,Outlying,13195
+12020,"Athens-Clarke County, GA",Oconee County,13,219,Central,13219
+12020,"Athens-Clarke County, GA",Oglethorpe County,13,221,Outlying,13221
+12060,"Atlanta-Sandy Springs-Roswell, GA",Barrow County,13,013,Outlying,13013
+12060,"Atlanta-Sandy Springs-Roswell, GA",Bartow County,13,015,Outlying,13015
+12060,"Atlanta-Sandy Springs-Roswell, GA",Butts County,13,035,Outlying,13035
+12060,"Atlanta-Sandy Springs-Roswell, GA",Carroll County,13,045,Outlying,13045
+12060,"Atlanta-Sandy Springs-Roswell, GA",Cherokee County,13,057,Central,13057
+12060,"Atlanta-Sandy Springs-Roswell, GA",Clayton County,13,063,Central,13063
+12060,"Atlanta-Sandy Springs-Roswell, GA",Cobb County,13,067,Central,13067
+12060,"Atlanta-Sandy Springs-Roswell, GA",Coweta County,13,077,Central,13077
+12060,"Atlanta-Sandy Springs-Roswell, GA",Dawson County,13,085,Central,13085
+12060,"Atlanta-Sandy Springs-Roswell, GA",DeKalb County,13,089,Central,13089
+12060,"Atlanta-Sandy Springs-Roswell, GA",Douglas County,13,097,Central,13097
+12060,"Atlanta-Sandy Springs-Roswell, GA",Fayette County,13,113,Central,13113
+12060,"Atlanta-Sandy Springs-Roswell, GA",Forsyth County,13,117,Central,13117
+12060,"Atlanta-Sandy Springs-Roswell, GA",Fulton County,13,121,Central,13121
+12060,"Atlanta-Sandy Springs-Roswell, GA",Gwinnett County,13,135,Central,13135
+12060,"Atlanta-Sandy Springs-Roswell, GA",Haralson County,13,143,Outlying,13143
+12060,"Atlanta-Sandy Springs-Roswell, GA",Heard County,13,149,Outlying,13149
+12060,"Atlanta-Sandy Springs-Roswell, GA",Henry County,13,151,Central,13151
+12060,"Atlanta-Sandy Springs-Roswell, GA",Jasper County,13,159,Outlying,13159
+12060,"Atlanta-Sandy Springs-Roswell, GA",Lumpkin County,13,187,Outlying,13187
+12060,"Atlanta-Sandy Springs-Roswell, GA",Meriwether County,13,199,Outlying,13199
+12060,"Atlanta-Sandy Springs-Roswell, GA",Morgan County,13,211,Outlying,13211
+12060,"Atlanta-Sandy Springs-Roswell, GA",Newton County,13,217,Central,13217
+12060,"Atlanta-Sandy Springs-Roswell, GA",Paulding County,13,223,Central,13223
+12060,"Atlanta-Sandy Springs-Roswell, GA",Pickens County,13,227,Outlying,13227
+12060,"Atlanta-Sandy Springs-Roswell, GA",Pike County,13,231,Outlying,13231
+12060,"Atlanta-Sandy Springs-Roswell, GA",Rockdale County,13,247,Central,13247
+12060,"Atlanta-Sandy Springs-Roswell, GA",Spalding County,13,255,Outlying,13255
+12060,"Atlanta-Sandy Springs-Roswell, GA",Walton County,13,297,Central,13297
+12260,"Augusta-Richmond County, GA-SC",Burke County,13,033,Outlying,13033
+12260,"Augusta-Richmond County, GA-SC",Columbia County,13,073,Central,13073
+12260,"Augusta-Richmond County, GA-SC",Lincoln County,13,181,Outlying,13181
+12260,"Augusta-Richmond County, GA-SC",McDuffie County,13,189,Outlying,13189
+12260,"Augusta-Richmond County, GA-SC",Richmond County,13,245,Central,13245
+15260,"Brunswick-St. Simons, GA",Brantley County,13,025,Outlying,13025
+15260,"Brunswick-St. Simons, GA",Glynn County,13,127,Central,13127
+15260,"Brunswick-St. Simons, GA",McIntosh County,13,191,Outlying,13191
+16860,"Chattanooga, TN-GA",Catoosa County,13,047,Central,13047
+16860,"Chattanooga, TN-GA",Dade County,13,083,Outlying,13083
+16860,"Chattanooga, TN-GA",Walker County,13,295,Central,13295
+17980,"Columbus, GA-AL",Chattahoochee County,13,053,Central,13053
+17980,"Columbus, GA-AL",Harris County,13,145,Outlying,13145
+17980,"Columbus, GA-AL",Marion County,13,197,Outlying,13197
+17980,"Columbus, GA-AL",Muscogee County,13,215,Central,13215
+17980,"Columbus, GA-AL",Stewart County,13,259,Outlying,13259
+17980,"Columbus, GA-AL",Talbot County,13,263,Outlying,13263
+19140,"Dalton, GA",Murray County,13,213,Outlying,13213
+19140,"Dalton, GA",Whitfield County,13,313,Central,13313
+23580,"Gainesville, GA",Hall County,13,139,Central,13139
+25980,"Hinesville, GA",Liberty County,13,179,Central,13179
+25980,"Hinesville, GA",Long County,13,183,Outlying,13183
+31420,"Macon-Bibb County, GA",Bibb County,13,021,Central,13021
+31420,"Macon-Bibb County, GA",Crawford County,13,079,Outlying,13079
+31420,"Macon-Bibb County, GA",Jones County,13,169,Outlying,13169
+31420,"Macon-Bibb County, GA",Monroe County,13,207,Outlying,13207
+31420,"Macon-Bibb County, GA",Twiggs County,13,289,Outlying,13289
+40660,"Rome, GA",Floyd County,13,115,Central,13115
+42340,"Savannah, GA",Bryan County,13,029,Central,13029
+42340,"Savannah, GA",Chatham County,13,051,Central,13051
+42340,"Savannah, GA",Effingham County,13,103,Outlying,13103
+46660,"Valdosta, GA",Brooks County,13,027,Outlying,13027
+46660,"Valdosta, GA",Echols County,13,101,Outlying,13101
+46660,"Valdosta, GA",Lanier County,13,173,Outlying,13173
+46660,"Valdosta, GA",Lowndes County,13,185,Central,13185
+47580,"Warner Robins, GA",Houston County,13,153,Central,13153
+47580,"Warner Robins, GA",Peach County,13,225,Central,13225

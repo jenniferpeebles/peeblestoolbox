@@ -1,0 +1,9 @@
+^peeblestoolbox\.Rproj$
+^\.Rproj\.user$
+^\.Rhistory$
+^\.RData$
+^\.git$
+^\.gitignore$
+^.*\.tar\.gz$
+^.*\.Rcheck$
+^LICENSE\.md$

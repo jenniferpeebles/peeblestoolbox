@@ -1,0 +1,24 @@
+Package: peeblestoolbox
+Title: Reusable Tools for Peebles Data Projects
+Version: 0.1.0
+Authors@R:
+    person("J.", "Peebles", role = c("aut", "cre"),
+           email = "jenniferpeebles@users.noreply.github.com")
+Author: J. Peebles [aut, cre]
+Maintainer: J. Peebles <jenniferpeebles@users.noreply.github.com>
+Description: Reusable helpers for newsroom data projects, including Georgia
+    metropolitan-area classification, Census and TIGER/Line retrieval,
+    database connections, and consistent charts, maps, watermarks, and exports.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Depends:
+    R (>= 4.2.0)
+Imports:
+    ggplot2
+Suggests:
+    DBI,
+    RMariaDB,
+    sf,
+    tidycensus,
+    tigris
