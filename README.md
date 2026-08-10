@@ -14,7 +14,7 @@ Install the released package directly from GitHub with `pak`:
 
 ```r
 install.packages("pak")
-pak::pak("jenniferpeebles/peeblestoolbox@v0.1.0")
+pak::pak("jenniferpeebles/peeblestoolbox@v0.2.0")
 ```
 
 To install from a local checkout instead:
