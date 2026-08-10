@@ -1,0 +1,1253 @@
+﻿cbsa_code,cbsa_title,metropolitan_division_code,metropolitan_division_title,csa_code,csa_title,geoid,state_fips,county_fips,county_or_equivalent,state,central_outlying,delineation_date
+10180,"Abilene, TX",,,101,"Abilene-Sweetwater, TX",48059,48,059,Callahan County,Texas,Outlying,2023-07-21
+10180,"Abilene, TX",,,101,"Abilene-Sweetwater, TX",48253,48,253,Jones County,Texas,Outlying,2023-07-21
+10180,"Abilene, TX",,,101,"Abilene-Sweetwater, TX",48441,48,441,Taylor County,Texas,Central,2023-07-21
+10380,"Aguadilla, PR",,,364,"Mayagüez-Aguadilla, PR",72003,72,003,Aguada Municipio,Puerto Rico,Central,2023-07-21
+10380,"Aguadilla, PR",,,364,"Mayagüez-Aguadilla, PR",72005,72,005,Aguadilla Municipio,Puerto Rico,Central,2023-07-21
+10380,"Aguadilla, PR",,,364,"Mayagüez-Aguadilla, PR",72011,72,011,Añasco Municipio,Puerto Rico,Central,2023-07-21
+10380,"Aguadilla, PR",,,364,"Mayagüez-Aguadilla, PR",72071,72,071,Isabela Municipio,Puerto Rico,Central,2023-07-21
+10380,"Aguadilla, PR",,,364,"Mayagüez-Aguadilla, PR",72099,72,099,Moca Municipio,Puerto Rico,Central,2023-07-21
+10380,"Aguadilla, PR",,,364,"Mayagüez-Aguadilla, PR",72117,72,117,Rincón Municipio,Puerto Rico,Central,2023-07-21
+10380,"Aguadilla, PR",,,364,"Mayagüez-Aguadilla, PR",72131,72,131,San Sebastián Municipio,Puerto Rico,Central,2023-07-21
+10420,"Akron, OH",,,184,"Cleveland-Akron-Canton, OH",39133,39,133,Portage County,Ohio,Central,2023-07-21
+10420,"Akron, OH",,,184,"Cleveland-Akron-Canton, OH",39153,39,153,Summit County,Ohio,Central,2023-07-21
+10500,"Albany, GA",,,,,13095,13,095,Dougherty County,Georgia,Central,2023-07-21
+10500,"Albany, GA",,,,,13177,13,177,Lee County,Georgia,Central,2023-07-21
+10500,"Albany, GA",,,,,13273,13,273,Terrell County,Georgia,Outlying,2023-07-21
+10500,"Albany, GA",,,,,13321,13,321,Worth County,Georgia,Outlying,2023-07-21
+10540,"Albany, OR",,,440,"Portland-Vancouver-Salem, OR-WA",41043,41,043,Linn County,Oregon,Central,2023-07-21
+10580,"Albany-Schenectady-Troy, NY",,,104,"Albany-Schenectady, NY",36001,36,001,Albany County,New York,Central,2023-07-21
+10580,"Albany-Schenectady-Troy, NY",,,104,"Albany-Schenectady, NY",36083,36,083,Rensselaer County,New York,Central,2023-07-21
+10580,"Albany-Schenectady-Troy, NY",,,104,"Albany-Schenectady, NY",36091,36,091,Saratoga County,New York,Outlying,2023-07-21
+10580,"Albany-Schenectady-Troy, NY",,,104,"Albany-Schenectady, NY",36093,36,093,Schenectady County,New York,Central,2023-07-21
+10580,"Albany-Schenectady-Troy, NY",,,104,"Albany-Schenectady, NY",36095,36,095,Schoharie County,New York,Outlying,2023-07-21
+10740,"Albuquerque, NM",,,105,"Albuquerque-Santa Fe-Los Alamos, NM",35001,35,001,Bernalillo County,New Mexico,Central,2023-07-21
+10740,"Albuquerque, NM",,,105,"Albuquerque-Santa Fe-Los Alamos, NM",35043,35,043,Sandoval County,New Mexico,Central,2023-07-21
+10740,"Albuquerque, NM",,,105,"Albuquerque-Santa Fe-Los Alamos, NM",35057,35,057,Torrance County,New Mexico,Outlying,2023-07-21
+10740,"Albuquerque, NM",,,105,"Albuquerque-Santa Fe-Los Alamos, NM",35061,35,061,Valencia County,New Mexico,Outlying,2023-07-21
+10780,"Alexandria, LA",,,,,22043,22,043,Grant Parish,Louisiana,Outlying,2023-07-21
+10780,"Alexandria, LA",,,,,22079,22,079,Rapides Parish,Louisiana,Central,2023-07-21
+10900,"Allentown-Bethlehem-Easton, PA-NJ",,,106,"Allentown-Bethlehem-East Stroudsburg, PA-NJ",34041,34,041,Warren County,New Jersey,Central,2023-07-21
+10900,"Allentown-Bethlehem-Easton, PA-NJ",,,106,"Allentown-Bethlehem-East Stroudsburg, PA-NJ",42025,42,025,Carbon County,Pennsylvania,Outlying,2023-07-21
+10900,"Allentown-Bethlehem-Easton, PA-NJ",,,106,"Allentown-Bethlehem-East Stroudsburg, PA-NJ",42077,42,077,Lehigh County,Pennsylvania,Central,2023-07-21
+10900,"Allentown-Bethlehem-Easton, PA-NJ",,,106,"Allentown-Bethlehem-East Stroudsburg, PA-NJ",42095,42,095,Northampton County,Pennsylvania,Central,2023-07-21
+11020,"Altoona, PA",,,107,"Altoona-Huntingdon, PA",42013,42,013,Blair County,Pennsylvania,Central,2023-07-21
+11100,"Amarillo, TX",,,108,"Amarillo-Borger, TX",48011,48,011,Armstrong County,Texas,Outlying,2023-07-21
+11100,"Amarillo, TX",,,108,"Amarillo-Borger, TX",48065,48,065,Carson County,Texas,Outlying,2023-07-21
+11100,"Amarillo, TX",,,108,"Amarillo-Borger, TX",48359,48,359,Oldham County,Texas,Outlying,2023-07-21
+11100,"Amarillo, TX",,,108,"Amarillo-Borger, TX",48375,48,375,Potter County,Texas,Central,2023-07-21
+11100,"Amarillo, TX",,,108,"Amarillo-Borger, TX",48381,48,381,Randall County,Texas,Central,2023-07-21
+11180,"Ames, IA",,,218,"Des Moines-West Des Moines-Ames, IA",19015,19,015,Boone County,Iowa,Outlying,2023-07-21
+11180,"Ames, IA",,,218,"Des Moines-West Des Moines-Ames, IA",19169,19,169,Story County,Iowa,Central,2023-07-21
+11200,"Amherst Town-Northampton, MA",,,521,"Springfield-Amherst Town-Northampton, MA",25015,25,015,Hampshire County,Massachusetts,Central,2023-07-21
+11260,"Anchorage, AK",,,,,02020,02,020,Anchorage Municipality,Alaska,Central,2023-07-21
+11260,"Anchorage, AK",,,,,02170,02,170,Matanuska-Susitna Borough,Alaska,Outlying,2023-07-21
+11460,"Ann Arbor, MI",,,220,"Detroit-Warren-Ann Arbor, MI",26161,26,161,Washtenaw County,Michigan,Central,2023-07-21
+11500,"Anniston-Oxford, AL",,,,,01015,01,015,Calhoun County,Alabama,Central,2023-07-21
+11540,"Appleton, WI",,,118,"Appleton-Oshkosh-Neenah, WI",55015,55,015,Calumet County,Wisconsin,Central,2023-07-21
+11540,"Appleton, WI",,,118,"Appleton-Oshkosh-Neenah, WI",55087,55,087,Outagamie County,Wisconsin,Central,2023-07-21
+11640,"Arecibo, PR",,,490,"San Juan-Bayamón, PR",72013,72,013,Arecibo Municipio,Puerto Rico,Central,2023-07-21
+11640,"Arecibo, PR",,,490,"San Juan-Bayamón, PR",72027,72,027,Camuy Municipio,Puerto Rico,Central,2023-07-21
+11640,"Arecibo, PR",,,490,"San Juan-Bayamón, PR",72065,72,065,Hatillo Municipio,Puerto Rico,Central,2023-07-21
+11640,"Arecibo, PR",,,490,"San Juan-Bayamón, PR",72115,72,115,Quebradillas Municipio,Puerto Rico,Central,2023-07-21
+11700,"Asheville, NC",,,120,"Asheville-Waynesville-Brevard, NC",37021,37,021,Buncombe County,North Carolina,Central,2023-07-21
+11700,"Asheville, NC",,,120,"Asheville-Waynesville-Brevard, NC",37089,37,089,Henderson County,North Carolina,Central,2023-07-21
+11700,"Asheville, NC",,,120,"Asheville-Waynesville-Brevard, NC",37115,37,115,Madison County,North Carolina,Outlying,2023-07-21
+12020,"Athens-Clarke County, GA",,,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13059,13,059,Clarke County,Georgia,Central,2023-07-21
+12020,"Athens-Clarke County, GA",,,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13195,13,195,Madison County,Georgia,Outlying,2023-07-21
+12020,"Athens-Clarke County, GA",,,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13219,13,219,Oconee County,Georgia,Central,2023-07-21
+12020,"Athens-Clarke County, GA",,,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13221,13,221,Oglethorpe County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13013,13,013,Barrow County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13035,13,035,Butts County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13045,13,045,Carroll County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13063,13,063,Clayton County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13077,13,077,Coweta County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13085,13,085,Dawson County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13089,13,089,DeKalb County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13097,13,097,Douglas County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13113,13,113,Fayette County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13117,13,117,Forsyth County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13121,13,121,Fulton County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13135,13,135,Gwinnett County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13149,13,149,Heard County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13151,13,151,Henry County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13159,13,159,Jasper County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13187,13,187,Lumpkin County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13199,13,199,Meriwether County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13211,13,211,Morgan County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13217,13,217,Newton County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13227,13,227,Pickens County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13231,13,231,Pike County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13247,13,247,Rockdale County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13255,13,255,Spalding County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",12054,"Atlanta-Sandy Springs-Roswell, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13297,13,297,Walton County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",31924,"Marietta, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13015,13,015,Bartow County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",31924,"Marietta, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13057,13,057,Cherokee County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",31924,"Marietta, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13067,13,067,Cobb County,Georgia,Central,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",31924,"Marietta, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13143,13,143,Haralson County,Georgia,Outlying,2023-07-21
+12060,"Atlanta-Sandy Springs-Roswell, GA",31924,"Marietta, GA",122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13223,13,223,Paulding County,Georgia,Central,2023-07-21
+12100,"Atlantic City-Hammonton, NJ",,,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34001,34,001,Atlantic County,New Jersey,Central,2023-07-21
+12100,"Atlantic City-Hammonton, NJ",,,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34009,34,009,Cape May County,New Jersey,Central,2023-07-21
+12220,"Auburn-Opelika, AL",,,194,"Columbus-Auburn-Opelika, GA-AL",01081,01,081,Lee County,Alabama,Central,2023-07-21
+12220,"Auburn-Opelika, AL",,,194,"Columbus-Auburn-Opelika, GA-AL",01087,01,087,Macon County,Alabama,Outlying,2023-07-21
+12260,"Augusta-Richmond County, GA-SC",,,,,13033,13,033,Burke County,Georgia,Outlying,2023-07-21
+12260,"Augusta-Richmond County, GA-SC",,,,,13073,13,073,Columbia County,Georgia,Central,2023-07-21
+12260,"Augusta-Richmond County, GA-SC",,,,,13181,13,181,Lincoln County,Georgia,Outlying,2023-07-21
+12260,"Augusta-Richmond County, GA-SC",,,,,13189,13,189,McDuffie County,Georgia,Outlying,2023-07-21
+12260,"Augusta-Richmond County, GA-SC",,,,,13245,13,245,Richmond County,Georgia,Central,2023-07-21
+12260,"Augusta-Richmond County, GA-SC",,,,,45003,45,003,Aiken County,South Carolina,Central,2023-07-21
+12260,"Augusta-Richmond County, GA-SC",,,,,45037,45,037,Edgefield County,South Carolina,Outlying,2023-07-21
+12420,"Austin-Round Rock-San Marcos, TX",,,,,48021,48,021,Bastrop County,Texas,Outlying,2023-07-21
+12420,"Austin-Round Rock-San Marcos, TX",,,,,48055,48,055,Caldwell County,Texas,Outlying,2023-07-21
+12420,"Austin-Round Rock-San Marcos, TX",,,,,48209,48,209,Hays County,Texas,Central,2023-07-21
+12420,"Austin-Round Rock-San Marcos, TX",,,,,48453,48,453,Travis County,Texas,Central,2023-07-21
+12420,"Austin-Round Rock-San Marcos, TX",,,,,48491,48,491,Williamson County,Texas,Central,2023-07-21
+12540,"Bakersfield-Delano, CA",,,,,06029,06,029,Kern County,California,Central,2023-07-21
+12580,"Baltimore-Columbia-Towson, MD",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24003,24,003,Anne Arundel County,Maryland,Central,2023-07-21
+12580,"Baltimore-Columbia-Towson, MD",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24005,24,005,Baltimore County,Maryland,Central,2023-07-21
+12580,"Baltimore-Columbia-Towson, MD",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24013,24,013,Carroll County,Maryland,Outlying,2023-07-21
+12580,"Baltimore-Columbia-Towson, MD",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24025,24,025,Harford County,Maryland,Outlying,2023-07-21
+12580,"Baltimore-Columbia-Towson, MD",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24027,24,027,Howard County,Maryland,Central,2023-07-21
+12580,"Baltimore-Columbia-Towson, MD",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24035,24,035,Queen Anne's County,Maryland,Outlying,2023-07-21
+12580,"Baltimore-Columbia-Towson, MD",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24510,24,510,Baltimore city,Maryland,Central,2023-07-21
+12620,"Bangor, ME",,,,,23019,23,019,Penobscot County,Maine,Central,2023-07-21
+12700,"Barnstable Town, MA",,,148,"Boston-Worcester-Providence, MA-RI-NH",25001,25,001,Barnstable County,Massachusetts,Central,2023-07-21
+12940,"Baton Rouge, LA",,,132,"Baton Rouge-Hammond, LA",22005,22,005,Ascension Parish,Louisiana,Central,2023-07-21
+12940,"Baton Rouge, LA",,,132,"Baton Rouge-Hammond, LA",22007,22,007,Assumption Parish,Louisiana,Outlying,2023-07-21
+12940,"Baton Rouge, LA",,,132,"Baton Rouge-Hammond, LA",22033,22,033,East Baton Rouge Parish,Louisiana,Central,2023-07-21
+12940,"Baton Rouge, LA",,,132,"Baton Rouge-Hammond, LA",22037,22,037,East Feliciana Parish,Louisiana,Outlying,2023-07-21
+12940,"Baton Rouge, LA",,,132,"Baton Rouge-Hammond, LA",22047,22,047,Iberville Parish,Louisiana,Central,2023-07-21
+12940,"Baton Rouge, LA",,,132,"Baton Rouge-Hammond, LA",22063,22,063,Livingston Parish,Louisiana,Central,2023-07-21
+12940,"Baton Rouge, LA",,,132,"Baton Rouge-Hammond, LA",22077,22,077,Pointe Coupee Parish,Louisiana,Outlying,2023-07-21
+12940,"Baton Rouge, LA",,,132,"Baton Rouge-Hammond, LA",22091,22,091,St. Helena Parish,Louisiana,Outlying,2023-07-21
+12940,"Baton Rouge, LA",,,132,"Baton Rouge-Hammond, LA",22121,22,121,West Baton Rouge Parish,Louisiana,Central,2023-07-21
+12940,"Baton Rouge, LA",,,132,"Baton Rouge-Hammond, LA",22125,22,125,West Feliciana Parish,Louisiana,Outlying,2023-07-21
+12980,"Battle Creek, MI",,,310,"Kalamazoo-Battle Creek-Portage, MI",26025,26,025,Calhoun County,Michigan,Central,2023-07-21
+13020,"Bay City, MI",,,474,"Saginaw-Midland-Bay City, MI",26017,26,017,Bay County,Michigan,Central,2023-07-21
+13140,"Beaumont-Port Arthur, TX",,,,,48199,48,199,Hardin County,Texas,Outlying,2023-07-21
+13140,"Beaumont-Port Arthur, TX",,,,,48245,48,245,Jefferson County,Texas,Central,2023-07-21
+13140,"Beaumont-Port Arthur, TX",,,,,48361,48,361,Orange County,Texas,Outlying,2023-07-21
+13220,"Beckley, WV",,,,,54019,54,019,Fayette County,West Virginia,Central,2023-07-21
+13220,"Beckley, WV",,,,,54081,54,081,Raleigh County,West Virginia,Central,2023-07-21
+13380,"Bellingham, WA",,,,,53073,53,073,Whatcom County,Washington,Central,2023-07-21
+13460,"Bend, OR",,,,,41013,41,013,Crook County,Oregon,Outlying,2023-07-21
+13460,"Bend, OR",,,,,41017,41,017,Deschutes County,Oregon,Central,2023-07-21
+13460,"Bend, OR",,,,,41031,41,031,Jefferson County,Oregon,Outlying,2023-07-21
+13740,"Billings, MT",,,,,30009,30,009,Carbon County,Montana,Outlying,2023-07-21
+13740,"Billings, MT",,,,,30095,30,095,Stillwater County,Montana,Outlying,2023-07-21
+13740,"Billings, MT",,,,,30111,30,111,Yellowstone County,Montana,Central,2023-07-21
+13780,"Binghamton, NY",,,,,36007,36,007,Broome County,New York,Central,2023-07-21
+13780,"Binghamton, NY",,,,,36107,36,107,Tioga County,New York,Central,2023-07-21
+13820,"Birmingham, AL",,,142,"Birmingham-Cullman-Talladega, AL",01007,01,007,Bibb County,Alabama,Outlying,2023-07-21
+13820,"Birmingham, AL",,,142,"Birmingham-Cullman-Talladega, AL",01009,01,009,Blount County,Alabama,Outlying,2023-07-21
+13820,"Birmingham, AL",,,142,"Birmingham-Cullman-Talladega, AL",01021,01,021,Chilton County,Alabama,Outlying,2023-07-21
+13820,"Birmingham, AL",,,142,"Birmingham-Cullman-Talladega, AL",01073,01,073,Jefferson County,Alabama,Central,2023-07-21
+13820,"Birmingham, AL",,,142,"Birmingham-Cullman-Talladega, AL",01115,01,115,St. Clair County,Alabama,Central,2023-07-21
+13820,"Birmingham, AL",,,142,"Birmingham-Cullman-Talladega, AL",01117,01,117,Shelby County,Alabama,Central,2023-07-21
+13820,"Birmingham, AL",,,142,"Birmingham-Cullman-Talladega, AL",01127,01,127,Walker County,Alabama,Outlying,2023-07-21
+13900,"Bismarck, ND",,,,,38015,38,015,Burleigh County,North Dakota,Central,2023-07-21
+13900,"Bismarck, ND",,,,,38059,38,059,Morton County,North Dakota,Central,2023-07-21
+13900,"Bismarck, ND",,,,,38065,38,065,Oliver County,North Dakota,Outlying,2023-07-21
+13980,"Blacksburg-Christiansburg-Radford, VA",,,,,51063,51,063,Floyd County,Virginia,Outlying,2023-07-21
+13980,"Blacksburg-Christiansburg-Radford, VA",,,,,51071,51,071,Giles County,Virginia,Outlying,2023-07-21
+13980,"Blacksburg-Christiansburg-Radford, VA",,,,,51121,51,121,Montgomery County,Virginia,Central,2023-07-21
+13980,"Blacksburg-Christiansburg-Radford, VA",,,,,51155,51,155,Pulaski County,Virginia,Outlying,2023-07-21
+13980,"Blacksburg-Christiansburg-Radford, VA",,,,,51750,51,750,Radford city,Virginia,Central,2023-07-21
+14010,"Bloomington, IL",,,145,"Bloomington-Pontiac, IL",17113,17,113,McLean County,Illinois,Central,2023-07-21
+14020,"Bloomington, IN",,,144,"Bloomington-Bedford, IN",18105,18,105,Monroe County,Indiana,Central,2023-07-21
+14020,"Bloomington, IN",,,144,"Bloomington-Bedford, IN",18119,18,119,Owen County,Indiana,Outlying,2023-07-21
+14260,"Boise City, ID",,,147,"Boise City-Mountain Home-Ontario, ID-OR",16001,16,001,Ada County,Idaho,Central,2023-07-21
+14260,"Boise City, ID",,,147,"Boise City-Mountain Home-Ontario, ID-OR",16015,16,015,Boise County,Idaho,Outlying,2023-07-21
+14260,"Boise City, ID",,,147,"Boise City-Mountain Home-Ontario, ID-OR",16027,16,027,Canyon County,Idaho,Outlying,2023-07-21
+14260,"Boise City, ID",,,147,"Boise City-Mountain Home-Ontario, ID-OR",16045,16,045,Gem County,Idaho,Outlying,2023-07-21
+14260,"Boise City, ID",,,147,"Boise City-Mountain Home-Ontario, ID-OR",16073,16,073,Owyhee County,Idaho,Outlying,2023-07-21
+14460,"Boston-Cambridge-Newton, MA-NH",14454,"Boston, MA",148,"Boston-Worcester-Providence, MA-RI-NH",25021,25,021,Norfolk County,Massachusetts,Central,2023-07-21
+14460,"Boston-Cambridge-Newton, MA-NH",14454,"Boston, MA",148,"Boston-Worcester-Providence, MA-RI-NH",25023,25,023,Plymouth County,Massachusetts,Central,2023-07-21
+14460,"Boston-Cambridge-Newton, MA-NH",14454,"Boston, MA",148,"Boston-Worcester-Providence, MA-RI-NH",25025,25,025,Suffolk County,Massachusetts,Central,2023-07-21
+14460,"Boston-Cambridge-Newton, MA-NH",15764,"Cambridge-Newton-Framingham, MA",148,"Boston-Worcester-Providence, MA-RI-NH",25009,25,009,Essex County,Massachusetts,Central,2023-07-21
+14460,"Boston-Cambridge-Newton, MA-NH",15764,"Cambridge-Newton-Framingham, MA",148,"Boston-Worcester-Providence, MA-RI-NH",25017,25,017,Middlesex County,Massachusetts,Central,2023-07-21
+14460,"Boston-Cambridge-Newton, MA-NH",40484,"Rockingham County-Strafford County, NH",148,"Boston-Worcester-Providence, MA-RI-NH",33015,33,015,Rockingham County,New Hampshire,Central,2023-07-21
+14460,"Boston-Cambridge-Newton, MA-NH",40484,"Rockingham County-Strafford County, NH",148,"Boston-Worcester-Providence, MA-RI-NH",33017,33,017,Strafford County,New Hampshire,Outlying,2023-07-21
+14500,"Boulder, CO",,,216,"Denver-Aurora-Greeley, CO",08013,08,013,Boulder County,Colorado,Central,2023-07-21
+14540,"Bowling Green, KY",,,150,"Bowling Green-Glasgow-Franklin, KY",21003,21,003,Allen County,Kentucky,Outlying,2023-07-21
+14540,"Bowling Green, KY",,,150,"Bowling Green-Glasgow-Franklin, KY",21031,21,031,Butler County,Kentucky,Outlying,2023-07-21
+14540,"Bowling Green, KY",,,150,"Bowling Green-Glasgow-Franklin, KY",21061,21,061,Edmonson County,Kentucky,Outlying,2023-07-21
+14540,"Bowling Green, KY",,,150,"Bowling Green-Glasgow-Franklin, KY",21227,21,227,Warren County,Kentucky,Central,2023-07-21
+14580,"Bozeman, MT",,,,,30031,30,031,Gallatin County,Montana,Central,2023-07-21
+14740,"Bremerton-Silverdale-Port Orchard, WA",,,500,"Seattle-Tacoma, WA",53035,53,035,Kitsap County,Washington,Central,2023-07-21
+14860,"Bridgeport-Stamford-Danbury, CT",,,408,"New York-Newark, NY-NJ-CT-PA",09120,09,120,Greater Bridgeport Planning Region,Connecticut,Central,2023-07-21
+14860,"Bridgeport-Stamford-Danbury, CT",,,408,"New York-Newark, NY-NJ-CT-PA",09190,09,190,Western Connecticut Planning Region,Connecticut,Central,2023-07-21
+15180,"Brownsville-Harlingen, TX",,,154,"Brownsville-Harlingen-Raymondville, TX",48061,48,061,Cameron County,Texas,Central,2023-07-21
+15260,"Brunswick-St. Simons, GA",,,,,13025,13,025,Brantley County,Georgia,Outlying,2023-07-21
+15260,"Brunswick-St. Simons, GA",,,,,13127,13,127,Glynn County,Georgia,Central,2023-07-21
+15260,"Brunswick-St. Simons, GA",,,,,13191,13,191,McIntosh County,Georgia,Outlying,2023-07-21
+15380,"Buffalo-Cheektowaga, NY",,,160,"Buffalo-Cheektowaga-Olean, NY",36029,36,029,Erie County,New York,Central,2023-07-21
+15380,"Buffalo-Cheektowaga, NY",,,160,"Buffalo-Cheektowaga-Olean, NY",36063,36,063,Niagara County,New York,Central,2023-07-21
+15500,"Burlington, NC",,,268,"Greensboro--Winston-Salem--High Point, NC",37001,37,001,Alamance County,North Carolina,Central,2023-07-21
+15540,"Burlington-South Burlington, VT",,,162,"Burlington-South Burlington-Barre, VT",50007,50,007,Chittenden County,Vermont,Central,2023-07-21
+15540,"Burlington-South Burlington, VT",,,162,"Burlington-South Burlington-Barre, VT",50011,50,011,Franklin County,Vermont,Outlying,2023-07-21
+15540,"Burlington-South Burlington, VT",,,162,"Burlington-South Burlington-Barre, VT",50013,50,013,Grand Isle County,Vermont,Outlying,2023-07-21
+15940,"Canton-Massillon, OH",,,184,"Cleveland-Akron-Canton, OH",39019,39,019,Carroll County,Ohio,Outlying,2023-07-21
+15940,"Canton-Massillon, OH",,,184,"Cleveland-Akron-Canton, OH",39151,39,151,Stark County,Ohio,Central,2023-07-21
+15980,"Cape Coral-Fort Myers, FL",,,163,"Cape Coral-Fort Myers-Naples, FL",12071,12,071,Lee County,Florida,Central,2023-07-21
+16020,"Cape Girardeau, MO-IL",,,164,"Cape Girardeau-Sikeston, MO-IL",17003,17,003,Alexander County,Illinois,Outlying,2023-07-21
+16020,"Cape Girardeau, MO-IL",,,164,"Cape Girardeau-Sikeston, MO-IL",29017,29,017,Bollinger County,Missouri,Outlying,2023-07-21
+16020,"Cape Girardeau, MO-IL",,,164,"Cape Girardeau-Sikeston, MO-IL",29031,29,031,Cape Girardeau County,Missouri,Central,2023-07-21
+16180,"Carson City, NV",,,456,"Reno-Carson City-Gardnerville Ranchos, NV-CA",32510,32,510,Carson City,Nevada,Central,2023-07-21
+16220,"Casper, WY",,,,,56025,56,025,Natrona County,Wyoming,Central,2023-07-21
+16300,"Cedar Rapids, IA",,,168,"Cedar Rapids-Iowa City, IA",19011,19,011,Benton County,Iowa,Outlying,2023-07-21
+16300,"Cedar Rapids, IA",,,168,"Cedar Rapids-Iowa City, IA",19105,19,105,Jones County,Iowa,Outlying,2023-07-21
+16300,"Cedar Rapids, IA",,,168,"Cedar Rapids-Iowa City, IA",19113,19,113,Linn County,Iowa,Central,2023-07-21
+16540,"Chambersburg, PA",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",42055,42,055,Franklin County,Pennsylvania,Central,2023-07-21
+16580,"Champaign-Urbana, IL",,,169,"Champaign-Urbana-Danville, IL",17019,17,019,Champaign County,Illinois,Central,2023-07-21
+16580,"Champaign-Urbana, IL",,,169,"Champaign-Urbana-Danville, IL",17053,17,053,Ford County,Illinois,Outlying,2023-07-21
+16580,"Champaign-Urbana, IL",,,169,"Champaign-Urbana-Danville, IL",17147,17,147,Piatt County,Illinois,Outlying,2023-07-21
+16620,"Charleston, WV",,,170,"Charleston-Huntington-Ashland, WV-OH-KY",54005,54,005,Boone County,West Virginia,Outlying,2023-07-21
+16620,"Charleston, WV",,,170,"Charleston-Huntington-Ashland, WV-OH-KY",54015,54,015,Clay County,West Virginia,Outlying,2023-07-21
+16620,"Charleston, WV",,,170,"Charleston-Huntington-Ashland, WV-OH-KY",54039,54,039,Kanawha County,West Virginia,Central,2023-07-21
+16700,"Charleston-North Charleston, SC",,,,,45015,45,015,Berkeley County,South Carolina,Central,2023-07-21
+16700,"Charleston-North Charleston, SC",,,,,45019,45,019,Charleston County,South Carolina,Central,2023-07-21
+16700,"Charleston-North Charleston, SC",,,,,45035,45,035,Dorchester County,South Carolina,Central,2023-07-21
+16740,"Charlotte-Concord-Gastonia, NC-SC",,,172,"Charlotte-Concord, NC-SC",37007,37,007,Anson County,North Carolina,Outlying,2023-07-21
+16740,"Charlotte-Concord-Gastonia, NC-SC",,,172,"Charlotte-Concord, NC-SC",37025,37,025,Cabarrus County,North Carolina,Outlying,2023-07-21
+16740,"Charlotte-Concord-Gastonia, NC-SC",,,172,"Charlotte-Concord, NC-SC",37071,37,071,Gaston County,North Carolina,Outlying,2023-07-21
+16740,"Charlotte-Concord-Gastonia, NC-SC",,,172,"Charlotte-Concord, NC-SC",37097,37,097,Iredell County,North Carolina,Central,2023-07-21
+16740,"Charlotte-Concord-Gastonia, NC-SC",,,172,"Charlotte-Concord, NC-SC",37109,37,109,Lincoln County,North Carolina,Outlying,2023-07-21
+16740,"Charlotte-Concord-Gastonia, NC-SC",,,172,"Charlotte-Concord, NC-SC",37119,37,119,Mecklenburg County,North Carolina,Central,2023-07-21
+16740,"Charlotte-Concord-Gastonia, NC-SC",,,172,"Charlotte-Concord, NC-SC",37159,37,159,Rowan County,North Carolina,Outlying,2023-07-21
+16740,"Charlotte-Concord-Gastonia, NC-SC",,,172,"Charlotte-Concord, NC-SC",37179,37,179,Union County,North Carolina,Central,2023-07-21
+16740,"Charlotte-Concord-Gastonia, NC-SC",,,172,"Charlotte-Concord, NC-SC",45023,45,023,Chester County,South Carolina,Outlying,2023-07-21
+16740,"Charlotte-Concord-Gastonia, NC-SC",,,172,"Charlotte-Concord, NC-SC",45057,45,057,Lancaster County,South Carolina,Outlying,2023-07-21
+16740,"Charlotte-Concord-Gastonia, NC-SC",,,172,"Charlotte-Concord, NC-SC",45091,45,091,York County,South Carolina,Outlying,2023-07-21
+16820,"Charlottesville, VA",,,,,51003,51,003,Albemarle County,Virginia,Central,2023-07-21
+16820,"Charlottesville, VA",,,,,51065,51,065,Fluvanna County,Virginia,Outlying,2023-07-21
+16820,"Charlottesville, VA",,,,,51079,51,079,Greene County,Virginia,Outlying,2023-07-21
+16820,"Charlottesville, VA",,,,,51125,51,125,Nelson County,Virginia,Outlying,2023-07-21
+16820,"Charlottesville, VA",,,,,51540,51,540,Charlottesville city,Virginia,Central,2023-07-21
+16860,"Chattanooga, TN-GA",,,174,"Chattanooga-Cleveland-Dalton, TN-GA-AL",13047,13,047,Catoosa County,Georgia,Central,2023-07-21
+16860,"Chattanooga, TN-GA",,,174,"Chattanooga-Cleveland-Dalton, TN-GA-AL",13083,13,083,Dade County,Georgia,Outlying,2023-07-21
+16860,"Chattanooga, TN-GA",,,174,"Chattanooga-Cleveland-Dalton, TN-GA-AL",13295,13,295,Walker County,Georgia,Central,2023-07-21
+16860,"Chattanooga, TN-GA",,,174,"Chattanooga-Cleveland-Dalton, TN-GA-AL",47065,47,065,Hamilton County,Tennessee,Central,2023-07-21
+16860,"Chattanooga, TN-GA",,,174,"Chattanooga-Cleveland-Dalton, TN-GA-AL",47115,47,115,Marion County,Tennessee,Outlying,2023-07-21
+16860,"Chattanooga, TN-GA",,,174,"Chattanooga-Cleveland-Dalton, TN-GA-AL",47153,47,153,Sequatchie County,Tennessee,Outlying,2023-07-21
+16940,"Cheyenne, WY",,,,,56021,56,021,Laramie County,Wyoming,Central,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",16984,"Chicago-Naperville-Schaumburg, IL",176,"Chicago-Naperville, IL-IN-WI",17031,17,031,Cook County,Illinois,Central,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",16984,"Chicago-Naperville-Schaumburg, IL",176,"Chicago-Naperville, IL-IN-WI",17043,17,043,DuPage County,Illinois,Central,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",16984,"Chicago-Naperville-Schaumburg, IL",176,"Chicago-Naperville, IL-IN-WI",17063,17,063,Grundy County,Illinois,Outlying,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",16984,"Chicago-Naperville-Schaumburg, IL",176,"Chicago-Naperville, IL-IN-WI",17111,17,111,McHenry County,Illinois,Central,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",16984,"Chicago-Naperville-Schaumburg, IL",176,"Chicago-Naperville, IL-IN-WI",17197,17,197,Will County,Illinois,Central,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",20994,"Elgin, IL",176,"Chicago-Naperville, IL-IN-WI",17037,17,037,DeKalb County,Illinois,Outlying,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",20994,"Elgin, IL",176,"Chicago-Naperville, IL-IN-WI",17089,17,089,Kane County,Illinois,Central,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",20994,"Elgin, IL",176,"Chicago-Naperville, IL-IN-WI",17093,17,093,Kendall County,Illinois,Central,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",29404,"Lake County, IL",176,"Chicago-Naperville, IL-IN-WI",17097,17,097,Lake County,Illinois,Central,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",29414,"Lake County-Porter County-Jasper County, IN",176,"Chicago-Naperville, IL-IN-WI",18073,18,073,Jasper County,Indiana,Outlying,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",29414,"Lake County-Porter County-Jasper County, IN",176,"Chicago-Naperville, IL-IN-WI",18089,18,089,Lake County,Indiana,Central,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",29414,"Lake County-Porter County-Jasper County, IN",176,"Chicago-Naperville, IL-IN-WI",18111,18,111,Newton County,Indiana,Outlying,2023-07-21
+16980,"Chicago-Naperville-Elgin, IL-IN",29414,"Lake County-Porter County-Jasper County, IN",176,"Chicago-Naperville, IL-IN-WI",18127,18,127,Porter County,Indiana,Central,2023-07-21
+17020,"Chico, CA",,,,,06007,06,007,Butte County,California,Central,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",18029,18,029,Dearborn County,Indiana,Outlying,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",18047,18,047,Franklin County,Indiana,Outlying,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",18115,18,115,Ohio County,Indiana,Outlying,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",21015,21,015,Boone County,Kentucky,Central,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",21023,21,023,Bracken County,Kentucky,Outlying,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",21037,21,037,Campbell County,Kentucky,Central,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",21077,21,077,Gallatin County,Kentucky,Outlying,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",21081,21,081,Grant County,Kentucky,Outlying,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",21117,21,117,Kenton County,Kentucky,Central,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",21191,21,191,Pendleton County,Kentucky,Outlying,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",39015,39,015,Brown County,Ohio,Outlying,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",39017,39,017,Butler County,Ohio,Central,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",39025,39,025,Clermont County,Ohio,Central,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",39061,39,061,Hamilton County,Ohio,Central,2023-07-21
+17140,"Cincinnati, OH-KY-IN",,,178,"Cincinnati-Wilmington, OH-KY-IN",39165,39,165,Warren County,Ohio,Central,2023-07-21
+17300,"Clarksville, TN-KY",,,,,21047,21,047,Christian County,Kentucky,Outlying,2023-07-21
+17300,"Clarksville, TN-KY",,,,,21221,21,221,Trigg County,Kentucky,Outlying,2023-07-21
+17300,"Clarksville, TN-KY",,,,,47125,47,125,Montgomery County,Tennessee,Central,2023-07-21
+17300,"Clarksville, TN-KY",,,,,47161,47,161,Stewart County,Tennessee,Outlying,2023-07-21
+17410,"Cleveland, OH",,,184,"Cleveland-Akron-Canton, OH",39007,39,007,Ashtabula County,Ohio,Outlying,2023-07-21
+17410,"Cleveland, OH",,,184,"Cleveland-Akron-Canton, OH",39035,39,035,Cuyahoga County,Ohio,Central,2023-07-21
+17410,"Cleveland, OH",,,184,"Cleveland-Akron-Canton, OH",39055,39,055,Geauga County,Ohio,Central,2023-07-21
+17410,"Cleveland, OH",,,184,"Cleveland-Akron-Canton, OH",39085,39,085,Lake County,Ohio,Central,2023-07-21
+17410,"Cleveland, OH",,,184,"Cleveland-Akron-Canton, OH",39093,39,093,Lorain County,Ohio,Outlying,2023-07-21
+17410,"Cleveland, OH",,,184,"Cleveland-Akron-Canton, OH",39103,39,103,Medina County,Ohio,Central,2023-07-21
+17420,"Cleveland, TN",,,174,"Chattanooga-Cleveland-Dalton, TN-GA-AL",47011,47,011,Bradley County,Tennessee,Central,2023-07-21
+17420,"Cleveland, TN",,,174,"Chattanooga-Cleveland-Dalton, TN-GA-AL",47139,47,139,Polk County,Tennessee,Outlying,2023-07-21
+17660,"Coeur d'Alene, ID",,,518,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",16055,16,055,Kootenai County,Idaho,Central,2023-07-21
+17780,"College Station-Bryan, TX",,,,,48041,48,041,Brazos County,Texas,Central,2023-07-21
+17780,"College Station-Bryan, TX",,,,,48051,48,051,Burleson County,Texas,Outlying,2023-07-21
+17780,"College Station-Bryan, TX",,,,,48395,48,395,Robertson County,Texas,Outlying,2023-07-21
+17820,"Colorado Springs, CO",,,,,08041,08,041,El Paso County,Colorado,Central,2023-07-21
+17820,"Colorado Springs, CO",,,,,08119,08,119,Teller County,Colorado,Outlying,2023-07-21
+17860,"Columbia, MO",,,190,"Columbia-Jefferson City-Moberly, MO",29019,29,019,Boone County,Missouri,Central,2023-07-21
+17860,"Columbia, MO",,,190,"Columbia-Jefferson City-Moberly, MO",29053,29,053,Cooper County,Missouri,Outlying,2023-07-21
+17860,"Columbia, MO",,,190,"Columbia-Jefferson City-Moberly, MO",29089,29,089,Howard County,Missouri,Outlying,2023-07-21
+17900,"Columbia, SC",,,192,"Columbia-Sumter-Orangeburg, SC",45017,45,017,Calhoun County,South Carolina,Outlying,2023-07-21
+17900,"Columbia, SC",,,192,"Columbia-Sumter-Orangeburg, SC",45039,45,039,Fairfield County,South Carolina,Outlying,2023-07-21
+17900,"Columbia, SC",,,192,"Columbia-Sumter-Orangeburg, SC",45055,45,055,Kershaw County,South Carolina,Outlying,2023-07-21
+17900,"Columbia, SC",,,192,"Columbia-Sumter-Orangeburg, SC",45063,45,063,Lexington County,South Carolina,Central,2023-07-21
+17900,"Columbia, SC",,,192,"Columbia-Sumter-Orangeburg, SC",45079,45,079,Richland County,South Carolina,Central,2023-07-21
+17900,"Columbia, SC",,,192,"Columbia-Sumter-Orangeburg, SC",45081,45,081,Saluda County,South Carolina,Outlying,2023-07-21
+17980,"Columbus, GA-AL",,,194,"Columbus-Auburn-Opelika, GA-AL",01113,01,113,Russell County,Alabama,Central,2023-07-21
+17980,"Columbus, GA-AL",,,194,"Columbus-Auburn-Opelika, GA-AL",13053,13,053,Chattahoochee County,Georgia,Central,2023-07-21
+17980,"Columbus, GA-AL",,,194,"Columbus-Auburn-Opelika, GA-AL",13145,13,145,Harris County,Georgia,Outlying,2023-07-21
+17980,"Columbus, GA-AL",,,194,"Columbus-Auburn-Opelika, GA-AL",13197,13,197,Marion County,Georgia,Outlying,2023-07-21
+17980,"Columbus, GA-AL",,,194,"Columbus-Auburn-Opelika, GA-AL",13215,13,215,Muscogee County,Georgia,Central,2023-07-21
+17980,"Columbus, GA-AL",,,194,"Columbus-Auburn-Opelika, GA-AL",13259,13,259,Stewart County,Georgia,Outlying,2023-07-21
+17980,"Columbus, GA-AL",,,194,"Columbus-Auburn-Opelika, GA-AL",13263,13,263,Talbot County,Georgia,Outlying,2023-07-21
+18020,"Columbus, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18005,18,005,Bartholomew County,Indiana,Central,2023-07-21
+18140,"Columbus, OH",,,198,"Columbus-Marion-Zanesville, OH",39041,39,041,Delaware County,Ohio,Central,2023-07-21
+18140,"Columbus, OH",,,198,"Columbus-Marion-Zanesville, OH",39045,39,045,Fairfield County,Ohio,Central,2023-07-21
+18140,"Columbus, OH",,,198,"Columbus-Marion-Zanesville, OH",39049,39,049,Franklin County,Ohio,Central,2023-07-21
+18140,"Columbus, OH",,,198,"Columbus-Marion-Zanesville, OH",39073,39,073,Hocking County,Ohio,Outlying,2023-07-21
+18140,"Columbus, OH",,,198,"Columbus-Marion-Zanesville, OH",39089,39,089,Licking County,Ohio,Outlying,2023-07-21
+18140,"Columbus, OH",,,198,"Columbus-Marion-Zanesville, OH",39097,39,097,Madison County,Ohio,Outlying,2023-07-21
+18140,"Columbus, OH",,,198,"Columbus-Marion-Zanesville, OH",39117,39,117,Morrow County,Ohio,Outlying,2023-07-21
+18140,"Columbus, OH",,,198,"Columbus-Marion-Zanesville, OH",39127,39,127,Perry County,Ohio,Outlying,2023-07-21
+18140,"Columbus, OH",,,198,"Columbus-Marion-Zanesville, OH",39129,39,129,Pickaway County,Ohio,Outlying,2023-07-21
+18140,"Columbus, OH",,,198,"Columbus-Marion-Zanesville, OH",39159,39,159,Union County,Ohio,Outlying,2023-07-21
+18580,"Corpus Christi, TX",,,204,"Corpus Christi-Kingsville-Alice, TX",48007,48,007,Aransas County,Texas,Outlying,2023-07-21
+18580,"Corpus Christi, TX",,,204,"Corpus Christi-Kingsville-Alice, TX",48355,48,355,Nueces County,Texas,Central,2023-07-21
+18580,"Corpus Christi, TX",,,204,"Corpus Christi-Kingsville-Alice, TX",48409,48,409,San Patricio County,Texas,Central,2023-07-21
+18700,"Corvallis, OR",,,440,"Portland-Vancouver-Salem, OR-WA",41003,41,003,Benton County,Oregon,Central,2023-07-21
+18880,"Crestview-Fort Walton Beach-Destin, FL",,,,,12091,12,091,Okaloosa County,Florida,Central,2023-07-21
+18880,"Crestview-Fort Walton Beach-Destin, FL",,,,,12131,12,131,Walton County,Florida,Central,2023-07-21
+19100,"Dallas-Fort Worth-Arlington, TX",19124,"Dallas-Plano-Irving, TX",206,"Dallas-Fort Worth, TX-OK",48085,48,085,Collin County,Texas,Central,2023-07-21
+19100,"Dallas-Fort Worth-Arlington, TX",19124,"Dallas-Plano-Irving, TX",206,"Dallas-Fort Worth, TX-OK",48113,48,113,Dallas County,Texas,Central,2023-07-21
+19100,"Dallas-Fort Worth-Arlington, TX",19124,"Dallas-Plano-Irving, TX",206,"Dallas-Fort Worth, TX-OK",48121,48,121,Denton County,Texas,Outlying,2023-07-21
+19100,"Dallas-Fort Worth-Arlington, TX",19124,"Dallas-Plano-Irving, TX",206,"Dallas-Fort Worth, TX-OK",48139,48,139,Ellis County,Texas,Central,2023-07-21
+19100,"Dallas-Fort Worth-Arlington, TX",19124,"Dallas-Plano-Irving, TX",206,"Dallas-Fort Worth, TX-OK",48231,48,231,Hunt County,Texas,Outlying,2023-07-21
+19100,"Dallas-Fort Worth-Arlington, TX",19124,"Dallas-Plano-Irving, TX",206,"Dallas-Fort Worth, TX-OK",48257,48,257,Kaufman County,Texas,Outlying,2023-07-21
+19100,"Dallas-Fort Worth-Arlington, TX",19124,"Dallas-Plano-Irving, TX",206,"Dallas-Fort Worth, TX-OK",48397,48,397,Rockwall County,Texas,Central,2023-07-21
+19100,"Dallas-Fort Worth-Arlington, TX",23104,"Fort Worth-Arlington-Grapevine, TX",206,"Dallas-Fort Worth, TX-OK",48251,48,251,Johnson County,Texas,Central,2023-07-21
+19100,"Dallas-Fort Worth-Arlington, TX",23104,"Fort Worth-Arlington-Grapevine, TX",206,"Dallas-Fort Worth, TX-OK",48367,48,367,Parker County,Texas,Outlying,2023-07-21
+19100,"Dallas-Fort Worth-Arlington, TX",23104,"Fort Worth-Arlington-Grapevine, TX",206,"Dallas-Fort Worth, TX-OK",48439,48,439,Tarrant County,Texas,Central,2023-07-21
+19100,"Dallas-Fort Worth-Arlington, TX",23104,"Fort Worth-Arlington-Grapevine, TX",206,"Dallas-Fort Worth, TX-OK",48497,48,497,Wise County,Texas,Outlying,2023-07-21
+19140,"Dalton, GA",,,174,"Chattanooga-Cleveland-Dalton, TN-GA-AL",13213,13,213,Murray County,Georgia,Outlying,2023-07-21
+19140,"Dalton, GA",,,174,"Chattanooga-Cleveland-Dalton, TN-GA-AL",13313,13,313,Whitfield County,Georgia,Central,2023-07-21
+19300,"Daphne-Fairhope-Foley, AL",,,380,"Mobile-Daphne-Fairhope, AL",01003,01,003,Baldwin County,Alabama,Central,2023-07-21
+19340,"Davenport-Moline-Rock Island, IA-IL",,,209,"Davenport-Moline, IA-IL",17073,17,073,Henry County,Illinois,Outlying,2023-07-21
+19340,"Davenport-Moline-Rock Island, IA-IL",,,209,"Davenport-Moline, IA-IL",17131,17,131,Mercer County,Illinois,Outlying,2023-07-21
+19340,"Davenport-Moline-Rock Island, IA-IL",,,209,"Davenport-Moline, IA-IL",17161,17,161,Rock Island County,Illinois,Central,2023-07-21
+19340,"Davenport-Moline-Rock Island, IA-IL",,,209,"Davenport-Moline, IA-IL",19163,19,163,Scott County,Iowa,Central,2023-07-21
+19430,"Dayton-Kettering-Beavercreek, OH",,,212,"Dayton-Springfield-Kettering, OH",39057,39,057,Greene County,Ohio,Central,2023-07-21
+19430,"Dayton-Kettering-Beavercreek, OH",,,212,"Dayton-Springfield-Kettering, OH",39109,39,109,Miami County,Ohio,Outlying,2023-07-21
+19430,"Dayton-Kettering-Beavercreek, OH",,,212,"Dayton-Springfield-Kettering, OH",39113,39,113,Montgomery County,Ohio,Central,2023-07-21
+19460,"Decatur, AL",,,290,"Huntsville-Decatur-Albertville, AL-TN",01079,01,079,Lawrence County,Alabama,Outlying,2023-07-21
+19460,"Decatur, AL",,,290,"Huntsville-Decatur-Albertville, AL-TN",01103,01,103,Morgan County,Alabama,Central,2023-07-21
+19500,"Decatur, IL",,,,,17115,17,115,Macon County,Illinois,Central,2023-07-21
+19660,"Deltona-Daytona Beach-Ormond Beach, FL",,,422,"Orlando-Lakeland-Deltona, FL",12035,12,035,Flagler County,Florida,Central,2023-07-21
+19660,"Deltona-Daytona Beach-Ormond Beach, FL",,,422,"Orlando-Lakeland-Deltona, FL",12127,12,127,Volusia County,Florida,Central,2023-07-21
+19740,"Denver-Aurora-Centennial, CO",,,216,"Denver-Aurora-Greeley, CO",08001,08,001,Adams County,Colorado,Central,2023-07-21
+19740,"Denver-Aurora-Centennial, CO",,,216,"Denver-Aurora-Greeley, CO",08005,08,005,Arapahoe County,Colorado,Central,2023-07-21
+19740,"Denver-Aurora-Centennial, CO",,,216,"Denver-Aurora-Greeley, CO",08014,08,014,Broomfield County,Colorado,Central,2023-07-21
+19740,"Denver-Aurora-Centennial, CO",,,216,"Denver-Aurora-Greeley, CO",08019,08,019,Clear Creek County,Colorado,Outlying,2023-07-21
+19740,"Denver-Aurora-Centennial, CO",,,216,"Denver-Aurora-Greeley, CO",08031,08,031,Denver County,Colorado,Central,2023-07-21
+19740,"Denver-Aurora-Centennial, CO",,,216,"Denver-Aurora-Greeley, CO",08035,08,035,Douglas County,Colorado,Central,2023-07-21
+19740,"Denver-Aurora-Centennial, CO",,,216,"Denver-Aurora-Greeley, CO",08039,08,039,Elbert County,Colorado,Outlying,2023-07-21
+19740,"Denver-Aurora-Centennial, CO",,,216,"Denver-Aurora-Greeley, CO",08047,08,047,Gilpin County,Colorado,Outlying,2023-07-21
+19740,"Denver-Aurora-Centennial, CO",,,216,"Denver-Aurora-Greeley, CO",08059,08,059,Jefferson County,Colorado,Central,2023-07-21
+19740,"Denver-Aurora-Centennial, CO",,,216,"Denver-Aurora-Greeley, CO",08093,08,093,Park County,Colorado,Outlying,2023-07-21
+19780,"Des Moines-West Des Moines, IA",,,218,"Des Moines-West Des Moines-Ames, IA",19049,19,049,Dallas County,Iowa,Central,2023-07-21
+19780,"Des Moines-West Des Moines, IA",,,218,"Des Moines-West Des Moines-Ames, IA",19077,19,077,Guthrie County,Iowa,Outlying,2023-07-21
+19780,"Des Moines-West Des Moines, IA",,,218,"Des Moines-West Des Moines-Ames, IA",19099,19,099,Jasper County,Iowa,Outlying,2023-07-21
+19780,"Des Moines-West Des Moines, IA",,,218,"Des Moines-West Des Moines-Ames, IA",19121,19,121,Madison County,Iowa,Outlying,2023-07-21
+19780,"Des Moines-West Des Moines, IA",,,218,"Des Moines-West Des Moines-Ames, IA",19153,19,153,Polk County,Iowa,Central,2023-07-21
+19780,"Des Moines-West Des Moines, IA",,,218,"Des Moines-West Des Moines-Ames, IA",19181,19,181,Warren County,Iowa,Outlying,2023-07-21
+19820,"Detroit-Warren-Dearborn, MI",19804,"Detroit-Dearborn-Livonia, MI",220,"Detroit-Warren-Ann Arbor, MI",26163,26,163,Wayne County,Michigan,Central,2023-07-21
+19820,"Detroit-Warren-Dearborn, MI",47664,"Warren-Troy-Farmington Hills, MI",220,"Detroit-Warren-Ann Arbor, MI",26087,26,087,Lapeer County,Michigan,Outlying,2023-07-21
+19820,"Detroit-Warren-Dearborn, MI",47664,"Warren-Troy-Farmington Hills, MI",220,"Detroit-Warren-Ann Arbor, MI",26093,26,093,Livingston County,Michigan,Outlying,2023-07-21
+19820,"Detroit-Warren-Dearborn, MI",47664,"Warren-Troy-Farmington Hills, MI",220,"Detroit-Warren-Ann Arbor, MI",26099,26,099,Macomb County,Michigan,Central,2023-07-21
+19820,"Detroit-Warren-Dearborn, MI",47664,"Warren-Troy-Farmington Hills, MI",220,"Detroit-Warren-Ann Arbor, MI",26125,26,125,Oakland County,Michigan,Central,2023-07-21
+19820,"Detroit-Warren-Dearborn, MI",47664,"Warren-Troy-Farmington Hills, MI",220,"Detroit-Warren-Ann Arbor, MI",26147,26,147,St. Clair County,Michigan,Outlying,2023-07-21
+20020,"Dothan, AL",,,222,"Dothan-Enterprise-Ozark, AL",01061,01,061,Geneva County,Alabama,Outlying,2023-07-21
+20020,"Dothan, AL",,,222,"Dothan-Enterprise-Ozark, AL",01067,01,067,Henry County,Alabama,Outlying,2023-07-21
+20020,"Dothan, AL",,,222,"Dothan-Enterprise-Ozark, AL",01069,01,069,Houston County,Alabama,Central,2023-07-21
+20100,"Dover, DE",,,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",10001,10,001,Kent County,Delaware,Central,2023-07-21
+20220,"Dubuque, IA",,,,,19061,19,061,Dubuque County,Iowa,Central,2023-07-21
+20260,"Duluth, MN-WI",,,228,"Duluth-Grand Rapids, MN-WI",27017,27,017,Carlton County,Minnesota,Outlying,2023-07-21
+20260,"Duluth, MN-WI",,,228,"Duluth-Grand Rapids, MN-WI",27137,27,137,St. Louis County,Minnesota,Central,2023-07-21
+20260,"Duluth, MN-WI",,,228,"Duluth-Grand Rapids, MN-WI",55031,55,031,Douglas County,Wisconsin,Central,2023-07-21
+20500,"Durham-Chapel Hill, NC",,,450,"Raleigh-Durham-Cary, NC",37037,37,037,Chatham County,North Carolina,Central,2023-07-21
+20500,"Durham-Chapel Hill, NC",,,450,"Raleigh-Durham-Cary, NC",37063,37,063,Durham County,North Carolina,Central,2023-07-21
+20500,"Durham-Chapel Hill, NC",,,450,"Raleigh-Durham-Cary, NC",37135,37,135,Orange County,North Carolina,Central,2023-07-21
+20500,"Durham-Chapel Hill, NC",,,450,"Raleigh-Durham-Cary, NC",37145,37,145,Person County,North Carolina,Outlying,2023-07-21
+20580,"Eagle Pass, TX",,,,,48323,48,323,Maverick County,Texas,Central,2023-07-21
+20740,"Eau Claire, WI",,,232,"Eau Claire-Menomonie, WI",55017,55,017,Chippewa County,Wisconsin,Central,2023-07-21
+20740,"Eau Claire, WI",,,232,"Eau Claire-Menomonie, WI",55035,55,035,Eau Claire County,Wisconsin,Central,2023-07-21
+20940,"El Centro, CA",,,,,06025,06,025,Imperial County,California,Central,2023-07-21
+21060,"Elizabethtown, KY",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",21093,21,093,Hardin County,Kentucky,Central,2023-07-21
+21060,"Elizabethtown, KY",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",21123,21,123,Larue County,Kentucky,Outlying,2023-07-21
+21140,"Elkhart-Goshen, IN",,,515,"South Bend-Elkhart-Mishawaka, IN-MI",18039,18,039,Elkhart County,Indiana,Central,2023-07-21
+21300,"Elmira, NY",,,236,"Elmira-Corning, NY",36015,36,015,Chemung County,New York,Central,2023-07-21
+21340,"El Paso, TX",,,238,"El Paso-Las Cruces, TX-NM",48141,48,141,El Paso County,Texas,Central,2023-07-21
+21340,"El Paso, TX",,,238,"El Paso-Las Cruces, TX-NM",48229,48,229,Hudspeth County,Texas,Outlying,2023-07-21
+21420,"Enid, OK",,,,,40047,40,047,Garfield County,Oklahoma,Central,2023-07-21
+21500,"Erie, PA",,,240,"Erie-Meadville, PA",42049,42,049,Erie County,Pennsylvania,Central,2023-07-21
+21660,"Eugene-Springfield, OR",,,,,41039,41,039,Lane County,Oregon,Central,2023-07-21
+21780,"Evansville, IN",,,241,"Evansville-Henderson, IN-KY",18129,18,129,Posey County,Indiana,Outlying,2023-07-21
+21780,"Evansville, IN",,,241,"Evansville-Henderson, IN-KY",18163,18,163,Vanderburgh County,Indiana,Central,2023-07-21
+21780,"Evansville, IN",,,241,"Evansville-Henderson, IN-KY",18173,18,173,Warrick County,Indiana,Central,2023-07-21
+21820,"Fairbanks-College, AK",,,,,02090,02,090,Fairbanks North Star Borough,Alaska,Central,2023-07-21
+22020,"Fargo, ND-MN",,,244,"Fargo-Wahpeton, ND-MN",27027,27,027,Clay County,Minnesota,Central,2023-07-21
+22020,"Fargo, ND-MN",,,244,"Fargo-Wahpeton, ND-MN",38017,38,017,Cass County,North Dakota,Central,2023-07-21
+22140,"Farmington, NM",,,,,35045,35,045,San Juan County,New Mexico,Central,2023-07-21
+22180,"Fayetteville, NC",,,246,"Fayetteville-Lumberton-Pinehurst, NC",37051,37,051,Cumberland County,North Carolina,Central,2023-07-21
+22180,"Fayetteville, NC",,,246,"Fayetteville-Lumberton-Pinehurst, NC",37093,37,093,Hoke County,North Carolina,Central,2023-07-21
+22220,"Fayetteville-Springdale-Rogers, AR",,,,,05007,05,007,Benton County,Arkansas,Central,2023-07-21
+22220,"Fayetteville-Springdale-Rogers, AR",,,,,05087,05,087,Madison County,Arkansas,Outlying,2023-07-21
+22220,"Fayetteville-Springdale-Rogers, AR",,,,,05143,05,143,Washington County,Arkansas,Central,2023-07-21
+22380,"Flagstaff, AZ",,,,,04005,04,005,Coconino County,Arizona,Central,2023-07-21
+22420,"Flint, MI",,,220,"Detroit-Warren-Ann Arbor, MI",26049,26,049,Genesee County,Michigan,Central,2023-07-21
+22500,"Florence, SC",,,,,45031,45,031,Darlington County,South Carolina,Outlying,2023-07-21
+22500,"Florence, SC",,,,,45041,45,041,Florence County,South Carolina,Central,2023-07-21
+22520,"Florence-Muscle Shoals, AL",,,250,"Florence-Muscle Shoals-Russellville, AL",01033,01,033,Colbert County,Alabama,Central,2023-07-21
+22520,"Florence-Muscle Shoals, AL",,,250,"Florence-Muscle Shoals-Russellville, AL",01077,01,077,Lauderdale County,Alabama,Central,2023-07-21
+22540,"Fond du Lac, WI",,,,,55039,55,039,Fond du Lac County,Wisconsin,Central,2023-07-21
+22660,"Fort Collins-Loveland, CO",,,,,08069,08,069,Larimer County,Colorado,Central,2023-07-21
+22900,"Fort Smith, AR-OK",,,,,05033,05,033,Crawford County,Arkansas,Central,2023-07-21
+22900,"Fort Smith, AR-OK",,,,,05131,05,131,Sebastian County,Arkansas,Central,2023-07-21
+22900,"Fort Smith, AR-OK",,,,,40135,40,135,Sequoyah County,Oklahoma,Outlying,2023-07-21
+23060,"Fort Wayne, IN",,,258,"Fort Wayne-Huntington-Auburn, IN",18003,18,003,Allen County,Indiana,Central,2023-07-21
+23060,"Fort Wayne, IN",,,258,"Fort Wayne-Huntington-Auburn, IN",18179,18,179,Wells County,Indiana,Outlying,2023-07-21
+23060,"Fort Wayne, IN",,,258,"Fort Wayne-Huntington-Auburn, IN",18183,18,183,Whitley County,Indiana,Outlying,2023-07-21
+23420,"Fresno, CA",,,260,"Fresno-Hanford-Corcoran, CA",06019,06,019,Fresno County,California,Central,2023-07-21
+23420,"Fresno, CA",,,260,"Fresno-Hanford-Corcoran, CA",06039,06,039,Madera County,California,Outlying,2023-07-21
+23460,"Gadsden, AL",,,,,01055,01,055,Etowah County,Alabama,Central,2023-07-21
+23540,"Gainesville, FL",,,264,"Gainesville-Lake City, FL",12001,12,001,Alachua County,Florida,Central,2023-07-21
+23540,"Gainesville, FL",,,264,"Gainesville-Lake City, FL",12041,12,041,Gilchrist County,Florida,Outlying,2023-07-21
+23540,"Gainesville, FL",,,264,"Gainesville-Lake City, FL",12075,12,075,Levy County,Florida,Outlying,2023-07-21
+23580,"Gainesville, GA",,,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13139,13,139,Hall County,Georgia,Central,2023-07-21
+23900,"Gettysburg, PA",,,276,"Harrisburg-York-Lebanon, PA",42001,42,001,Adams County,Pennsylvania,Central,2023-07-21
+24020,"Glens Falls, NY",,,104,"Albany-Schenectady, NY",36113,36,113,Warren County,New York,Central,2023-07-21
+24020,"Glens Falls, NY",,,104,"Albany-Schenectady, NY",36115,36,115,Washington County,New York,Central,2023-07-21
+24140,"Goldsboro, NC",,,,,37191,37,191,Wayne County,North Carolina,Central,2023-07-21
+24220,"Grand Forks, ND-MN",,,,,27119,27,119,Polk County,Minnesota,Central,2023-07-21
+24220,"Grand Forks, ND-MN",,,,,38035,38,035,Grand Forks County,North Dakota,Central,2023-07-21
+24260,"Grand Island, NE",,,,,31079,31,079,Hall County,Nebraska,Central,2023-07-21
+24260,"Grand Island, NE",,,,,31093,31,093,Howard County,Nebraska,Outlying,2023-07-21
+24260,"Grand Island, NE",,,,,31121,31,121,Merrick County,Nebraska,Outlying,2023-07-21
+24300,"Grand Junction, CO",,,,,08077,08,077,Mesa County,Colorado,Central,2023-07-21
+24340,"Grand Rapids-Wyoming-Kentwood, MI",,,266,"Grand Rapids-Wyoming, MI",26015,26,015,Barry County,Michigan,Outlying,2023-07-21
+24340,"Grand Rapids-Wyoming-Kentwood, MI",,,266,"Grand Rapids-Wyoming, MI",26067,26,067,Ionia County,Michigan,Outlying,2023-07-21
+24340,"Grand Rapids-Wyoming-Kentwood, MI",,,266,"Grand Rapids-Wyoming, MI",26081,26,081,Kent County,Michigan,Central,2023-07-21
+24340,"Grand Rapids-Wyoming-Kentwood, MI",,,266,"Grand Rapids-Wyoming, MI",26117,26,117,Montcalm County,Michigan,Outlying,2023-07-21
+24340,"Grand Rapids-Wyoming-Kentwood, MI",,,266,"Grand Rapids-Wyoming, MI",26139,26,139,Ottawa County,Michigan,Outlying,2023-07-21
+24420,"Grants Pass, OR",,,366,"Medford-Grants Pass, OR",41033,41,033,Josephine County,Oregon,Central,2023-07-21
+24500,"Great Falls, MT",,,,,30013,30,013,Cascade County,Montana,Central,2023-07-21
+24540,"Greeley, CO",,,216,"Denver-Aurora-Greeley, CO",08123,08,123,Weld County,Colorado,Central,2023-07-21
+24580,"Green Bay, WI",,,267,"Green Bay-Shawano, WI",55009,55,009,Brown County,Wisconsin,Central,2023-07-21
+24580,"Green Bay, WI",,,267,"Green Bay-Shawano, WI",55061,55,061,Kewaunee County,Wisconsin,Outlying,2023-07-21
+24580,"Green Bay, WI",,,267,"Green Bay-Shawano, WI",55083,55,083,Oconto County,Wisconsin,Outlying,2023-07-21
+24660,"Greensboro-High Point, NC",,,268,"Greensboro--Winston-Salem--High Point, NC",37081,37,081,Guilford County,North Carolina,Central,2023-07-21
+24660,"Greensboro-High Point, NC",,,268,"Greensboro--Winston-Salem--High Point, NC",37151,37,151,Randolph County,North Carolina,Outlying,2023-07-21
+24660,"Greensboro-High Point, NC",,,268,"Greensboro--Winston-Salem--High Point, NC",37157,37,157,Rockingham County,North Carolina,Outlying,2023-07-21
+24780,"Greenville, NC",,,274,"Greenville-Washington, NC",37147,37,147,Pitt County,North Carolina,Central,2023-07-21
+24860,"Greenville-Anderson-Greer, SC",,,273,"Greenville-Spartanburg-Anderson, SC",45007,45,007,Anderson County,South Carolina,Outlying,2023-07-21
+24860,"Greenville-Anderson-Greer, SC",,,273,"Greenville-Spartanburg-Anderson, SC",45045,45,045,Greenville County,South Carolina,Central,2023-07-21
+24860,"Greenville-Anderson-Greer, SC",,,273,"Greenville-Spartanburg-Anderson, SC",45059,45,059,Laurens County,South Carolina,Outlying,2023-07-21
+24860,"Greenville-Anderson-Greer, SC",,,273,"Greenville-Spartanburg-Anderson, SC",45077,45,077,Pickens County,South Carolina,Central,2023-07-21
+25020,"Guayama, PR",,,490,"San Juan-Bayamón, PR",72015,72,015,Arroyo Municipio,Puerto Rico,Central,2023-07-21
+25020,"Guayama, PR",,,490,"San Juan-Bayamón, PR",72057,72,057,Guayama Municipio,Puerto Rico,Central,2023-07-21
+25020,"Guayama, PR",,,490,"San Juan-Bayamón, PR",72109,72,109,Patillas Municipio,Puerto Rico,Central,2023-07-21
+25060,"Gulfport-Biloxi, MS",,,,,28045,28,045,Hancock County,Mississippi,Central,2023-07-21
+25060,"Gulfport-Biloxi, MS",,,,,28047,28,047,Harrison County,Mississippi,Central,2023-07-21
+25060,"Gulfport-Biloxi, MS",,,,,28059,28,059,Jackson County,Mississippi,Outlying,2023-07-21
+25060,"Gulfport-Biloxi, MS",,,,,28131,28,131,Stone County,Mississippi,Outlying,2023-07-21
+25180,"Hagerstown-Martinsburg, MD-WV",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24043,24,043,Washington County,Maryland,Central,2023-07-21
+25180,"Hagerstown-Martinsburg, MD-WV",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",54003,54,003,Berkeley County,West Virginia,Central,2023-07-21
+25180,"Hagerstown-Martinsburg, MD-WV",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",54065,54,065,Morgan County,West Virginia,Outlying,2023-07-21
+25220,"Hammond, LA",,,132,"Baton Rouge-Hammond, LA",22105,22,105,Tangipahoa Parish,Louisiana,Central,2023-07-21
+25260,"Hanford-Corcoran, CA",,,260,"Fresno-Hanford-Corcoran, CA",06031,06,031,Kings County,California,Central,2023-07-21
+25420,"Harrisburg-Carlisle, PA",,,276,"Harrisburg-York-Lebanon, PA",42041,42,041,Cumberland County,Pennsylvania,Central,2023-07-21
+25420,"Harrisburg-Carlisle, PA",,,276,"Harrisburg-York-Lebanon, PA",42043,42,043,Dauphin County,Pennsylvania,Central,2023-07-21
+25420,"Harrisburg-Carlisle, PA",,,276,"Harrisburg-York-Lebanon, PA",42099,42,099,Perry County,Pennsylvania,Outlying,2023-07-21
+25500,"Harrisonburg, VA",,,277,"Harrisonburg-Staunton-Stuarts Draft, VA",51165,51,165,Rockingham County,Virginia,Central,2023-07-21
+25500,"Harrisonburg, VA",,,277,"Harrisonburg-Staunton-Stuarts Draft, VA",51660,51,660,Harrisonburg city,Virginia,Central,2023-07-21
+25540,"Hartford-West Hartford-East Hartford, CT",,,405,"New Haven-Hartford-Waterbury, CT",09110,09,110,Capitol Planning Region,Connecticut,Central,2023-07-21
+25540,"Hartford-West Hartford-East Hartford, CT",,,405,"New Haven-Hartford-Waterbury, CT",09130,09,130,Lower Connecticut River Valley Planning Region,Connecticut,Central,2023-07-21
+25620,"Hattiesburg, MS",,,279,"Hattiesburg-Laurel, MS",28035,28,035,Forrest County,Mississippi,Central,2023-07-21
+25620,"Hattiesburg, MS",,,279,"Hattiesburg-Laurel, MS",28073,28,073,Lamar County,Mississippi,Central,2023-07-21
+25620,"Hattiesburg, MS",,,279,"Hattiesburg-Laurel, MS",28111,28,111,Perry County,Mississippi,Outlying,2023-07-21
+25740,"Helena, MT",,,,,30007,30,007,Broadwater County,Montana,Outlying,2023-07-21
+25740,"Helena, MT",,,,,30043,30,043,Jefferson County,Montana,Outlying,2023-07-21
+25740,"Helena, MT",,,,,30049,30,049,Lewis and Clark County,Montana,Central,2023-07-21
+25860,"Hickory-Lenoir-Morganton, NC",,,172,"Charlotte-Concord, NC-SC",37003,37,003,Alexander County,North Carolina,Outlying,2023-07-21
+25860,"Hickory-Lenoir-Morganton, NC",,,172,"Charlotte-Concord, NC-SC",37023,37,023,Burke County,North Carolina,Central,2023-07-21
+25860,"Hickory-Lenoir-Morganton, NC",,,172,"Charlotte-Concord, NC-SC",37027,37,027,Caldwell County,North Carolina,Central,2023-07-21
+25860,"Hickory-Lenoir-Morganton, NC",,,172,"Charlotte-Concord, NC-SC",37035,37,035,Catawba County,North Carolina,Central,2023-07-21
+25940,"Hilton Head Island-Bluffton-Port Royal, SC",,,,,45013,45,013,Beaufort County,South Carolina,Central,2023-07-21
+25940,"Hilton Head Island-Bluffton-Port Royal, SC",,,,,45053,45,053,Jasper County,South Carolina,Outlying,2023-07-21
+25980,"Hinesville, GA",,,496,"Savannah-Hinesville-Statesboro, GA",13179,13,179,Liberty County,Georgia,Central,2023-07-21
+25980,"Hinesville, GA",,,496,"Savannah-Hinesville-Statesboro, GA",13183,13,183,Long County,Georgia,Outlying,2023-07-21
+26140,"Homosassa Springs, FL",,,,,12017,12,017,Citrus County,Florida,Central,2023-07-21
+26300,"Hot Springs, AR",,,284,"Hot Springs-Malvern, AR",05051,05,051,Garland County,Arkansas,Central,2023-07-21
+26380,"Houma-Bayou Cane-Thibodaux, LA",,,,,22057,22,057,Lafourche Parish,Louisiana,Central,2023-07-21
+26380,"Houma-Bayou Cane-Thibodaux, LA",,,,,22109,22,109,Terrebonne Parish,Louisiana,Central,2023-07-21
+26420,"Houston-Pasadena-The Woodlands, TX",,,288,"Houston-Pasadena, TX",48015,48,015,Austin County,Texas,Outlying,2023-07-21
+26420,"Houston-Pasadena-The Woodlands, TX",,,288,"Houston-Pasadena, TX",48039,48,039,Brazoria County,Texas,Central,2023-07-21
+26420,"Houston-Pasadena-The Woodlands, TX",,,288,"Houston-Pasadena, TX",48071,48,071,Chambers County,Texas,Outlying,2023-07-21
+26420,"Houston-Pasadena-The Woodlands, TX",,,288,"Houston-Pasadena, TX",48157,48,157,Fort Bend County,Texas,Central,2023-07-21
+26420,"Houston-Pasadena-The Woodlands, TX",,,288,"Houston-Pasadena, TX",48167,48,167,Galveston County,Texas,Outlying,2023-07-21
+26420,"Houston-Pasadena-The Woodlands, TX",,,288,"Houston-Pasadena, TX",48201,48,201,Harris County,Texas,Central,2023-07-21
+26420,"Houston-Pasadena-The Woodlands, TX",,,288,"Houston-Pasadena, TX",48291,48,291,Liberty County,Texas,Outlying,2023-07-21
+26420,"Houston-Pasadena-The Woodlands, TX",,,288,"Houston-Pasadena, TX",48339,48,339,Montgomery County,Texas,Outlying,2023-07-21
+26420,"Houston-Pasadena-The Woodlands, TX",,,288,"Houston-Pasadena, TX",48407,48,407,San Jacinto County,Texas,Outlying,2023-07-21
+26420,"Houston-Pasadena-The Woodlands, TX",,,288,"Houston-Pasadena, TX",48473,48,473,Waller County,Texas,Central,2023-07-21
+26580,"Huntington-Ashland, WV-KY-OH",,,170,"Charleston-Huntington-Ashland, WV-OH-KY",21019,21,019,Boyd County,Kentucky,Central,2023-07-21
+26580,"Huntington-Ashland, WV-KY-OH",,,170,"Charleston-Huntington-Ashland, WV-OH-KY",21043,21,043,Carter County,Kentucky,Outlying,2023-07-21
+26580,"Huntington-Ashland, WV-KY-OH",,,170,"Charleston-Huntington-Ashland, WV-OH-KY",21089,21,089,Greenup County,Kentucky,Central,2023-07-21
+26580,"Huntington-Ashland, WV-KY-OH",,,170,"Charleston-Huntington-Ashland, WV-OH-KY",21127,21,127,Lawrence County,Kentucky,Outlying,2023-07-21
+26580,"Huntington-Ashland, WV-KY-OH",,,170,"Charleston-Huntington-Ashland, WV-OH-KY",39087,39,087,Lawrence County,Ohio,Central,2023-07-21
+26580,"Huntington-Ashland, WV-KY-OH",,,170,"Charleston-Huntington-Ashland, WV-OH-KY",54011,54,011,Cabell County,West Virginia,Central,2023-07-21
+26580,"Huntington-Ashland, WV-KY-OH",,,170,"Charleston-Huntington-Ashland, WV-OH-KY",54079,54,079,Putnam County,West Virginia,Central,2023-07-21
+26580,"Huntington-Ashland, WV-KY-OH",,,170,"Charleston-Huntington-Ashland, WV-OH-KY",54099,54,099,Wayne County,West Virginia,Central,2023-07-21
+26620,"Huntsville, AL",,,290,"Huntsville-Decatur-Albertville, AL-TN",01083,01,083,Limestone County,Alabama,Central,2023-07-21
+26620,"Huntsville, AL",,,290,"Huntsville-Decatur-Albertville, AL-TN",01089,01,089,Madison County,Alabama,Central,2023-07-21
+26820,"Idaho Falls, ID",,,292,"Idaho Falls-Rexburg-Blackfoot, ID",16019,16,019,Bonneville County,Idaho,Central,2023-07-21
+26820,"Idaho Falls, ID",,,292,"Idaho Falls-Rexburg-Blackfoot, ID",16023,16,023,Butte County,Idaho,Outlying,2023-07-21
+26820,"Idaho Falls, ID",,,292,"Idaho Falls-Rexburg-Blackfoot, ID",16051,16,051,Jefferson County,Idaho,Outlying,2023-07-21
+26900,"Indianapolis-Carmel-Greenwood, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18011,18,011,Boone County,Indiana,Central,2023-07-21
+26900,"Indianapolis-Carmel-Greenwood, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18013,18,013,Brown County,Indiana,Outlying,2023-07-21
+26900,"Indianapolis-Carmel-Greenwood, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18057,18,057,Hamilton County,Indiana,Central,2023-07-21
+26900,"Indianapolis-Carmel-Greenwood, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18059,18,059,Hancock County,Indiana,Central,2023-07-21
+26900,"Indianapolis-Carmel-Greenwood, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18063,18,063,Hendricks County,Indiana,Central,2023-07-21
+26900,"Indianapolis-Carmel-Greenwood, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18081,18,081,Johnson County,Indiana,Central,2023-07-21
+26900,"Indianapolis-Carmel-Greenwood, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18095,18,095,Madison County,Indiana,Outlying,2023-07-21
+26900,"Indianapolis-Carmel-Greenwood, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18097,18,097,Marion County,Indiana,Central,2023-07-21
+26900,"Indianapolis-Carmel-Greenwood, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18109,18,109,Morgan County,Indiana,Central,2023-07-21
+26900,"Indianapolis-Carmel-Greenwood, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18145,18,145,Shelby County,Indiana,Outlying,2023-07-21
+26900,"Indianapolis-Carmel-Greenwood, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18159,18,159,Tipton County,Indiana,Outlying,2023-07-21
+26980,"Iowa City, IA",,,168,"Cedar Rapids-Iowa City, IA",19103,19,103,Johnson County,Iowa,Central,2023-07-21
+26980,"Iowa City, IA",,,168,"Cedar Rapids-Iowa City, IA",19183,19,183,Washington County,Iowa,Outlying,2023-07-21
+27060,"Ithaca, NY",,,296,"Ithaca-Cortland, NY",36109,36,109,Tompkins County,New York,Central,2023-07-21
+27100,"Jackson, MI",,,,,26075,26,075,Jackson County,Michigan,Central,2023-07-21
+27140,"Jackson, MS",,,298,"Jackson-Vicksburg-Brookhaven, MS",28029,28,029,Copiah County,Mississippi,Outlying,2023-07-21
+27140,"Jackson, MS",,,298,"Jackson-Vicksburg-Brookhaven, MS",28049,28,049,Hinds County,Mississippi,Central,2023-07-21
+27140,"Jackson, MS",,,298,"Jackson-Vicksburg-Brookhaven, MS",28051,28,051,Holmes County,Mississippi,Outlying,2023-07-21
+27140,"Jackson, MS",,,298,"Jackson-Vicksburg-Brookhaven, MS",28089,28,089,Madison County,Mississippi,Central,2023-07-21
+27140,"Jackson, MS",,,298,"Jackson-Vicksburg-Brookhaven, MS",28121,28,121,Rankin County,Mississippi,Central,2023-07-21
+27140,"Jackson, MS",,,298,"Jackson-Vicksburg-Brookhaven, MS",28123,28,123,Scott County,Mississippi,Outlying,2023-07-21
+27140,"Jackson, MS",,,298,"Jackson-Vicksburg-Brookhaven, MS",28127,28,127,Simpson County,Mississippi,Outlying,2023-07-21
+27140,"Jackson, MS",,,298,"Jackson-Vicksburg-Brookhaven, MS",28163,28,163,Yazoo County,Mississippi,Outlying,2023-07-21
+27180,"Jackson, TN",,,,,47023,47,023,Chester County,Tennessee,Outlying,2023-07-21
+27180,"Jackson, TN",,,,,47033,47,033,Crockett County,Tennessee,Outlying,2023-07-21
+27180,"Jackson, TN",,,,,47053,47,053,Gibson County,Tennessee,Outlying,2023-07-21
+27180,"Jackson, TN",,,,,47113,47,113,Madison County,Tennessee,Central,2023-07-21
+27260,"Jacksonville, FL",,,300,"Jacksonville-Kingsland-Palatka, FL-GA",12003,12,003,Baker County,Florida,Outlying,2023-07-21
+27260,"Jacksonville, FL",,,300,"Jacksonville-Kingsland-Palatka, FL-GA",12019,12,019,Clay County,Florida,Central,2023-07-21
+27260,"Jacksonville, FL",,,300,"Jacksonville-Kingsland-Palatka, FL-GA",12031,12,031,Duval County,Florida,Central,2023-07-21
+27260,"Jacksonville, FL",,,300,"Jacksonville-Kingsland-Palatka, FL-GA",12089,12,089,Nassau County,Florida,Outlying,2023-07-21
+27260,"Jacksonville, FL",,,300,"Jacksonville-Kingsland-Palatka, FL-GA",12109,12,109,St. Johns County,Florida,Central,2023-07-21
+27340,"Jacksonville, NC",,,,,37133,37,133,Onslow County,North Carolina,Central,2023-07-21
+27500,"Janesville-Beloit, WI",,,357,"Madison-Janesville-Beloit, WI",55105,55,105,Rock County,Wisconsin,Central,2023-07-21
+27620,"Jefferson City, MO",,,190,"Columbia-Jefferson City-Moberly, MO",29027,29,027,Callaway County,Missouri,Outlying,2023-07-21
+27620,"Jefferson City, MO",,,190,"Columbia-Jefferson City-Moberly, MO",29051,29,051,Cole County,Missouri,Central,2023-07-21
+27620,"Jefferson City, MO",,,190,"Columbia-Jefferson City-Moberly, MO",29135,29,135,Moniteau County,Missouri,Outlying,2023-07-21
+27620,"Jefferson City, MO",,,190,"Columbia-Jefferson City-Moberly, MO",29151,29,151,Osage County,Missouri,Outlying,2023-07-21
+27740,"Johnson City, TN",,,304,"Johnson City-Kingsport-Bristol, TN-VA",47019,47,019,Carter County,Tennessee,Central,2023-07-21
+27740,"Johnson City, TN",,,304,"Johnson City-Kingsport-Bristol, TN-VA",47171,47,171,Unicoi County,Tennessee,Outlying,2023-07-21
+27740,"Johnson City, TN",,,304,"Johnson City-Kingsport-Bristol, TN-VA",47179,47,179,Washington County,Tennessee,Central,2023-07-21
+27780,"Johnstown, PA",,,306,"Johnstown-Somerset, PA",42021,42,021,Cambria County,Pennsylvania,Central,2023-07-21
+27860,"Jonesboro, AR",,,308,"Jonesboro-Paragould, AR",05031,05,031,Craighead County,Arkansas,Central,2023-07-21
+27860,"Jonesboro, AR",,,308,"Jonesboro-Paragould, AR",05111,05,111,Poinsett County,Arkansas,Outlying,2023-07-21
+27900,"Joplin, MO-KS",,,309,"Joplin-Miami, MO-OK-KS",20021,20,021,Cherokee County,Kansas,Outlying,2023-07-21
+27900,"Joplin, MO-KS",,,309,"Joplin-Miami, MO-OK-KS",29097,29,097,Jasper County,Missouri,Central,2023-07-21
+27900,"Joplin, MO-KS",,,309,"Joplin-Miami, MO-OK-KS",29145,29,145,Newton County,Missouri,Outlying,2023-07-21
+27980,"Kahului-Wailuku, HI",,,,,15005,15,005,Kalawao County,Hawaii,Outlying,2023-07-21
+27980,"Kahului-Wailuku, HI",,,,,15009,15,009,Maui County,Hawaii,Central,2023-07-21
+28020,"Kalamazoo-Portage, MI",,,310,"Kalamazoo-Battle Creek-Portage, MI",26077,26,077,Kalamazoo County,Michigan,Central,2023-07-21
+28100,"Kankakee, IL",,,176,"Chicago-Naperville, IL-IN-WI",17091,17,091,Kankakee County,Illinois,Central,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",20091,20,091,Johnson County,Kansas,Central,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",20103,20,103,Leavenworth County,Kansas,Outlying,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",20107,20,107,Linn County,Kansas,Outlying,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",20121,20,121,Miami County,Kansas,Outlying,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",20209,20,209,Wyandotte County,Kansas,Central,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29013,29,013,Bates County,Missouri,Outlying,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29025,29,025,Caldwell County,Missouri,Outlying,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29037,29,037,Cass County,Missouri,Central,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29047,29,047,Clay County,Missouri,Central,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29049,29,049,Clinton County,Missouri,Outlying,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29095,29,095,Jackson County,Missouri,Central,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29107,29,107,Lafayette County,Missouri,Outlying,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29165,29,165,Platte County,Missouri,Central,2023-07-21
+28140,"Kansas City, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29177,29,177,Ray County,Missouri,Outlying,2023-07-21
+28420,"Kennewick-Richland, WA",,,314,"Kennewick-Richland-Walla Walla, WA",53005,53,005,Benton County,Washington,Central,2023-07-21
+28420,"Kennewick-Richland, WA",,,314,"Kennewick-Richland-Walla Walla, WA",53021,53,021,Franklin County,Washington,Central,2023-07-21
+28450,"Kenosha, WI",,,176,"Chicago-Naperville, IL-IN-WI",55059,55,059,Kenosha County,Wisconsin,Central,2023-07-21
+28660,"Killeen-Temple, TX",,,,,48027,48,027,Bell County,Texas,Central,2023-07-21
+28660,"Killeen-Temple, TX",,,,,48099,48,099,Coryell County,Texas,Central,2023-07-21
+28660,"Killeen-Temple, TX",,,,,48281,48,281,Lampasas County,Texas,Outlying,2023-07-21
+28700,"Kingsport-Bristol, TN-VA",,,304,"Johnson City-Kingsport-Bristol, TN-VA",47073,47,073,Hawkins County,Tennessee,Central,2023-07-21
+28700,"Kingsport-Bristol, TN-VA",,,304,"Johnson City-Kingsport-Bristol, TN-VA",47163,47,163,Sullivan County,Tennessee,Central,2023-07-21
+28700,"Kingsport-Bristol, TN-VA",,,304,"Johnson City-Kingsport-Bristol, TN-VA",51169,51,169,Scott County,Virginia,Outlying,2023-07-21
+28700,"Kingsport-Bristol, TN-VA",,,304,"Johnson City-Kingsport-Bristol, TN-VA",51191,51,191,Washington County,Virginia,Outlying,2023-07-21
+28700,"Kingsport-Bristol, TN-VA",,,304,"Johnson City-Kingsport-Bristol, TN-VA",51520,51,520,Bristol city,Virginia,Outlying,2023-07-21
+28740,"Kingston, NY",,,408,"New York-Newark, NY-NJ-CT-PA",36111,36,111,Ulster County,New York,Central,2023-07-21
+28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",,,408,"New York-Newark, NY-NJ-CT-PA",36027,36,027,Dutchess County,New York,Central,2023-07-21
+28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",,,408,"New York-Newark, NY-NJ-CT-PA",36071,36,071,Orange County,New York,Central,2023-07-21
+28940,"Knoxville, TN",,,315,"Knoxville-Morristown-Sevierville, TN",47001,47,001,Anderson County,Tennessee,Central,2023-07-21
+28940,"Knoxville, TN",,,315,"Knoxville-Morristown-Sevierville, TN",47009,47,009,Blount County,Tennessee,Central,2023-07-21
+28940,"Knoxville, TN",,,315,"Knoxville-Morristown-Sevierville, TN",47013,47,013,Campbell County,Tennessee,Outlying,2023-07-21
+28940,"Knoxville, TN",,,315,"Knoxville-Morristown-Sevierville, TN",47057,47,057,Grainger County,Tennessee,Outlying,2023-07-21
+28940,"Knoxville, TN",,,315,"Knoxville-Morristown-Sevierville, TN",47093,47,093,Knox County,Tennessee,Central,2023-07-21
+28940,"Knoxville, TN",,,315,"Knoxville-Morristown-Sevierville, TN",47105,47,105,Loudon County,Tennessee,Central,2023-07-21
+28940,"Knoxville, TN",,,315,"Knoxville-Morristown-Sevierville, TN",47129,47,129,Morgan County,Tennessee,Outlying,2023-07-21
+28940,"Knoxville, TN",,,315,"Knoxville-Morristown-Sevierville, TN",47145,47,145,Roane County,Tennessee,Outlying,2023-07-21
+28940,"Knoxville, TN",,,315,"Knoxville-Morristown-Sevierville, TN",47173,47,173,Union County,Tennessee,Outlying,2023-07-21
+29020,"Kokomo, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18067,18,067,Howard County,Indiana,Central,2023-07-21
+29100,"La Crosse-Onalaska, WI-MN",,,317,"La Crosse-Onalaska-Sparta, WI-MN",27055,27,055,Houston County,Minnesota,Central,2023-07-21
+29100,"La Crosse-Onalaska, WI-MN",,,317,"La Crosse-Onalaska-Sparta, WI-MN",55063,55,063,La Crosse County,Wisconsin,Central,2023-07-21
+29100,"La Crosse-Onalaska, WI-MN",,,317,"La Crosse-Onalaska-Sparta, WI-MN",55123,55,123,Vernon County,Wisconsin,Outlying,2023-07-21
+29180,"Lafayette, LA",,,318,"Lafayette-New Iberia-Opelousas, LA",22001,22,001,Acadia Parish,Louisiana,Outlying,2023-07-21
+29180,"Lafayette, LA",,,318,"Lafayette-New Iberia-Opelousas, LA",22055,22,055,Lafayette Parish,Louisiana,Central,2023-07-21
+29180,"Lafayette, LA",,,318,"Lafayette-New Iberia-Opelousas, LA",22099,22,099,St. Martin Parish,Louisiana,Outlying,2023-07-21
+29180,"Lafayette, LA",,,318,"Lafayette-New Iberia-Opelousas, LA",22113,22,113,Vermilion Parish,Louisiana,Outlying,2023-07-21
+29200,"Lafayette-West Lafayette, IN",,,320,"Lafayette-West Lafayette-Frankfort, IN",18007,18,007,Benton County,Indiana,Outlying,2023-07-21
+29200,"Lafayette-West Lafayette, IN",,,320,"Lafayette-West Lafayette-Frankfort, IN",18015,18,015,Carroll County,Indiana,Outlying,2023-07-21
+29200,"Lafayette-West Lafayette, IN",,,320,"Lafayette-West Lafayette-Frankfort, IN",18157,18,157,Tippecanoe County,Indiana,Central,2023-07-21
+29200,"Lafayette-West Lafayette, IN",,,320,"Lafayette-West Lafayette-Frankfort, IN",18171,18,171,Warren County,Indiana,Outlying,2023-07-21
+29340,"Lake Charles, LA",,,324,"Lake Charles-DeRidder, LA",22019,22,019,Calcasieu Parish,Louisiana,Central,2023-07-21
+29340,"Lake Charles, LA",,,324,"Lake Charles-DeRidder, LA",22023,22,023,Cameron Parish,Louisiana,Outlying,2023-07-21
+29340,"Lake Charles, LA",,,324,"Lake Charles-DeRidder, LA",22053,22,053,Jefferson Davis Parish,Louisiana,Outlying,2023-07-21
+29420,"Lake Havasu City-Kingman, AZ",,,,,04015,04,015,Mohave County,Arizona,Central,2023-07-21
+29460,"Lakeland-Winter Haven, FL",,,422,"Orlando-Lakeland-Deltona, FL",12105,12,105,Polk County,Florida,Central,2023-07-21
+29540,"Lancaster, PA",,,,,42071,42,071,Lancaster County,Pennsylvania,Central,2023-07-21
+29620,"Lansing-East Lansing, MI",,,330,"Lansing-East Lansing-Owosso, MI",26037,26,037,Clinton County,Michigan,Central,2023-07-21
+29620,"Lansing-East Lansing, MI",,,330,"Lansing-East Lansing-Owosso, MI",26045,26,045,Eaton County,Michigan,Central,2023-07-21
+29620,"Lansing-East Lansing, MI",,,330,"Lansing-East Lansing-Owosso, MI",26065,26,065,Ingham County,Michigan,Central,2023-07-21
+29700,"Laredo, TX",,,,,48479,48,479,Webb County,Texas,Central,2023-07-21
+29740,"Las Cruces, NM",,,238,"El Paso-Las Cruces, TX-NM",35013,35,013,Doña Ana County,New Mexico,Central,2023-07-21
+29820,"Las Vegas-Henderson-North Las Vegas, NV",,,332,"Las Vegas-Henderson, NV",32003,32,003,Clark County,Nevada,Central,2023-07-21
+29940,"Lawrence, KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",20045,20,045,Douglas County,Kansas,Central,2023-07-21
+30020,"Lawton, OK",,,334,"Lawton-Duncan, OK",40031,40,031,Comanche County,Oklahoma,Central,2023-07-21
+30020,"Lawton, OK",,,334,"Lawton-Duncan, OK",40033,40,033,Cotton County,Oklahoma,Outlying,2023-07-21
+30140,"Lebanon, PA",,,276,"Harrisburg-York-Lebanon, PA",42075,42,075,Lebanon County,Pennsylvania,Central,2023-07-21
+30300,"Lewiston, ID-WA",,,,,16069,16,069,Nez Perce County,Idaho,Central,2023-07-21
+30300,"Lewiston, ID-WA",,,,,53003,53,003,Asotin County,Washington,Central,2023-07-21
+30340,"Lewiston-Auburn, ME",,,438,"Portland-Lewiston-South Portland, ME",23001,23,001,Androscoggin County,Maine,Central,2023-07-21
+30460,"Lexington-Fayette, KY",,,336,"Lexington-Fayette--Richmond--Frankfort, KY",21017,21,017,Bourbon County,Kentucky,Outlying,2023-07-21
+30460,"Lexington-Fayette, KY",,,336,"Lexington-Fayette--Richmond--Frankfort, KY",21049,21,049,Clark County,Kentucky,Outlying,2023-07-21
+30460,"Lexington-Fayette, KY",,,336,"Lexington-Fayette--Richmond--Frankfort, KY",21067,21,067,Fayette County,Kentucky,Central,2023-07-21
+30460,"Lexington-Fayette, KY",,,336,"Lexington-Fayette--Richmond--Frankfort, KY",21113,21,113,Jessamine County,Kentucky,Outlying,2023-07-21
+30460,"Lexington-Fayette, KY",,,336,"Lexington-Fayette--Richmond--Frankfort, KY",21209,21,209,Scott County,Kentucky,Outlying,2023-07-21
+30460,"Lexington-Fayette, KY",,,336,"Lexington-Fayette--Richmond--Frankfort, KY",21239,21,239,Woodford County,Kentucky,Outlying,2023-07-21
+30500,"Lexington Park, MD",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24009,24,009,Calvert County,Maryland,Central,2023-07-21
+30500,"Lexington Park, MD",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24037,24,037,St. Mary's County,Maryland,Central,2023-07-21
+30620,"Lima, OH",,,338,"Lima-Van Wert-Celina, OH",39003,39,003,Allen County,Ohio,Central,2023-07-21
+30700,"Lincoln, NE",,,339,"Lincoln-Beatrice, NE",31109,31,109,Lancaster County,Nebraska,Central,2023-07-21
+30700,"Lincoln, NE",,,339,"Lincoln-Beatrice, NE",31159,31,159,Seward County,Nebraska,Outlying,2023-07-21
+30780,"Little Rock-North Little Rock-Conway, AR",,,340,"Little Rock-North Little Rock, AR",05045,05,045,Faulkner County,Arkansas,Outlying,2023-07-21
+30780,"Little Rock-North Little Rock-Conway, AR",,,340,"Little Rock-North Little Rock, AR",05053,05,053,Grant County,Arkansas,Outlying,2023-07-21
+30780,"Little Rock-North Little Rock-Conway, AR",,,340,"Little Rock-North Little Rock, AR",05085,05,085,Lonoke County,Arkansas,Central,2023-07-21
+30780,"Little Rock-North Little Rock-Conway, AR",,,340,"Little Rock-North Little Rock, AR",05105,05,105,Perry County,Arkansas,Outlying,2023-07-21
+30780,"Little Rock-North Little Rock-Conway, AR",,,340,"Little Rock-North Little Rock, AR",05119,05,119,Pulaski County,Arkansas,Central,2023-07-21
+30780,"Little Rock-North Little Rock-Conway, AR",,,340,"Little Rock-North Little Rock, AR",05125,05,125,Saline County,Arkansas,Central,2023-07-21
+30860,"Logan, UT-ID",,,,,16041,16,041,Franklin County,Idaho,Outlying,2023-07-21
+30860,"Logan, UT-ID",,,,,49005,49,005,Cache County,Utah,Central,2023-07-21
+30980,"Longview, TX",,,,,48183,48,183,Gregg County,Texas,Central,2023-07-21
+30980,"Longview, TX",,,,,48203,48,203,Harrison County,Texas,Outlying,2023-07-21
+30980,"Longview, TX",,,,,48401,48,401,Rusk County,Texas,Outlying,2023-07-21
+30980,"Longview, TX",,,,,48459,48,459,Upshur County,Texas,Outlying,2023-07-21
+31020,"Longview-Kelso, WA",,,440,"Portland-Vancouver-Salem, OR-WA",53015,53,015,Cowlitz County,Washington,Central,2023-07-21
+31080,"Los Angeles-Long Beach-Anaheim, CA",11244,"Anaheim-Santa Ana-Irvine, CA",348,"Los Angeles-Long Beach, CA",06059,06,059,Orange County,California,Central,2023-07-21
+31080,"Los Angeles-Long Beach-Anaheim, CA",31084,"Los Angeles-Long Beach-Glendale, CA",348,"Los Angeles-Long Beach, CA",06037,06,037,Los Angeles County,California,Central,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",18019,18,019,Clark County,Indiana,Central,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",18043,18,043,Floyd County,Indiana,Central,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",18061,18,061,Harrison County,Indiana,Outlying,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",18175,18,175,Washington County,Indiana,Outlying,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",21029,21,029,Bullitt County,Kentucky,Central,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",21103,21,103,Henry County,Kentucky,Outlying,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",21111,21,111,Jefferson County,Kentucky,Central,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",21163,21,163,Meade County,Kentucky,Outlying,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",21179,21,179,Nelson County,Kentucky,Outlying,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",21185,21,185,Oldham County,Kentucky,Central,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",21211,21,211,Shelby County,Kentucky,Outlying,2023-07-21
+31140,"Louisville/Jefferson County, KY-IN",,,350,"Louisville/Jefferson County--Elizabethtown, KY-IN",21215,21,215,Spencer County,Kentucky,Outlying,2023-07-21
+31180,"Lubbock, TX",,,352,"Lubbock-Plainview, TX",48079,48,079,Cochran County,Texas,Outlying,2023-07-21
+31180,"Lubbock, TX",,,352,"Lubbock-Plainview, TX",48107,48,107,Crosby County,Texas,Outlying,2023-07-21
+31180,"Lubbock, TX",,,352,"Lubbock-Plainview, TX",48169,48,169,Garza County,Texas,Outlying,2023-07-21
+31180,"Lubbock, TX",,,352,"Lubbock-Plainview, TX",48219,48,219,Hockley County,Texas,Outlying,2023-07-21
+31180,"Lubbock, TX",,,352,"Lubbock-Plainview, TX",48303,48,303,Lubbock County,Texas,Central,2023-07-21
+31180,"Lubbock, TX",,,352,"Lubbock-Plainview, TX",48305,48,305,Lynn County,Texas,Outlying,2023-07-21
+31340,"Lynchburg, VA",,,,,51009,51,009,Amherst County,Virginia,Central,2023-07-21
+31340,"Lynchburg, VA",,,,,51011,51,011,Appomattox County,Virginia,Outlying,2023-07-21
+31340,"Lynchburg, VA",,,,,51019,51,019,Bedford County,Virginia,Central,2023-07-21
+31340,"Lynchburg, VA",,,,,51031,51,031,Campbell County,Virginia,Central,2023-07-21
+31340,"Lynchburg, VA",,,,,51680,51,680,Lynchburg city,Virginia,Central,2023-07-21
+31420,"Macon-Bibb County, GA",,,356,"Macon-Bibb County--Warner Robins, GA",13021,13,021,Bibb County,Georgia,Central,2023-07-21
+31420,"Macon-Bibb County, GA",,,356,"Macon-Bibb County--Warner Robins, GA",13079,13,079,Crawford County,Georgia,Outlying,2023-07-21
+31420,"Macon-Bibb County, GA",,,356,"Macon-Bibb County--Warner Robins, GA",13169,13,169,Jones County,Georgia,Outlying,2023-07-21
+31420,"Macon-Bibb County, GA",,,356,"Macon-Bibb County--Warner Robins, GA",13207,13,207,Monroe County,Georgia,Outlying,2023-07-21
+31420,"Macon-Bibb County, GA",,,356,"Macon-Bibb County--Warner Robins, GA",13289,13,289,Twiggs County,Georgia,Outlying,2023-07-21
+31540,"Madison, WI",,,357,"Madison-Janesville-Beloit, WI",55021,55,021,Columbia County,Wisconsin,Outlying,2023-07-21
+31540,"Madison, WI",,,357,"Madison-Janesville-Beloit, WI",55025,55,025,Dane County,Wisconsin,Central,2023-07-21
+31540,"Madison, WI",,,357,"Madison-Janesville-Beloit, WI",55045,55,045,Green County,Wisconsin,Outlying,2023-07-21
+31540,"Madison, WI",,,357,"Madison-Janesville-Beloit, WI",55049,55,049,Iowa County,Wisconsin,Outlying,2023-07-21
+31700,"Manchester-Nashua, NH",,,148,"Boston-Worcester-Providence, MA-RI-NH",33011,33,011,Hillsborough County,New Hampshire,Central,2023-07-21
+31740,"Manhattan, KS",,,,,20061,20,061,Geary County,Kansas,Outlying,2023-07-21
+31740,"Manhattan, KS",,,,,20149,20,149,Pottawatomie County,Kansas,Outlying,2023-07-21
+31740,"Manhattan, KS",,,,,20161,20,161,Riley County,Kansas,Central,2023-07-21
+31860,"Mankato, MN",,,359,"Mankato-New Ulm, MN",27013,27,013,Blue Earth County,Minnesota,Central,2023-07-21
+31860,"Mankato, MN",,,359,"Mankato-New Ulm, MN",27103,27,103,Nicollet County,Minnesota,Central,2023-07-21
+31900,"Mansfield, OH",,,360,"Mansfield-Ashland-Bucyrus, OH",39139,39,139,Richland County,Ohio,Central,2023-07-21
+32420,"Mayagüez, PR",,,364,"Mayagüez-Aguadilla, PR",72023,72,023,Cabo Rojo Municipio,Puerto Rico,Central,2023-07-21
+32420,"Mayagüez, PR",,,364,"Mayagüez-Aguadilla, PR",72067,72,067,Hormigueros Municipio,Puerto Rico,Outlying,2023-07-21
+32420,"Mayagüez, PR",,,364,"Mayagüez-Aguadilla, PR",72079,72,079,Lajas Municipio,Puerto Rico,Central,2023-07-21
+32420,"Mayagüez, PR",,,364,"Mayagüez-Aguadilla, PR",72097,72,097,Mayagüez Municipio,Puerto Rico,Outlying,2023-07-21
+32420,"Mayagüez, PR",,,364,"Mayagüez-Aguadilla, PR",72121,72,121,Sabana Grande Municipio,Puerto Rico,Central,2023-07-21
+32420,"Mayagüez, PR",,,364,"Mayagüez-Aguadilla, PR",72125,72,125,San Germán Municipio,Puerto Rico,Central,2023-07-21
+32580,"McAllen-Edinburg-Mission, TX",,,365,"McAllen-Edinburg, TX",48215,48,215,Hidalgo County,Texas,Central,2023-07-21
+32780,"Medford, OR",,,366,"Medford-Grants Pass, OR",41029,41,029,Jackson County,Oregon,Central,2023-07-21
+32820,"Memphis, TN-MS-AR",,,368,"Memphis-Clarksdale-Forrest City, TN-MS-AR",05035,05,035,Crittenden County,Arkansas,Central,2023-07-21
+32820,"Memphis, TN-MS-AR",,,368,"Memphis-Clarksdale-Forrest City, TN-MS-AR",28009,28,009,Benton County,Mississippi,Outlying,2023-07-21
+32820,"Memphis, TN-MS-AR",,,368,"Memphis-Clarksdale-Forrest City, TN-MS-AR",28033,28,033,DeSoto County,Mississippi,Central,2023-07-21
+32820,"Memphis, TN-MS-AR",,,368,"Memphis-Clarksdale-Forrest City, TN-MS-AR",28093,28,093,Marshall County,Mississippi,Outlying,2023-07-21
+32820,"Memphis, TN-MS-AR",,,368,"Memphis-Clarksdale-Forrest City, TN-MS-AR",28137,28,137,Tate County,Mississippi,Outlying,2023-07-21
+32820,"Memphis, TN-MS-AR",,,368,"Memphis-Clarksdale-Forrest City, TN-MS-AR",28143,28,143,Tunica County,Mississippi,Outlying,2023-07-21
+32820,"Memphis, TN-MS-AR",,,368,"Memphis-Clarksdale-Forrest City, TN-MS-AR",47047,47,047,Fayette County,Tennessee,Outlying,2023-07-21
+32820,"Memphis, TN-MS-AR",,,368,"Memphis-Clarksdale-Forrest City, TN-MS-AR",47157,47,157,Shelby County,Tennessee,Central,2023-07-21
+32820,"Memphis, TN-MS-AR",,,368,"Memphis-Clarksdale-Forrest City, TN-MS-AR",47167,47,167,Tipton County,Tennessee,Outlying,2023-07-21
+32900,"Merced, CA",,,488,"San Jose-San Francisco-Oakland, CA",06047,06,047,Merced County,California,Central,2023-07-21
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL",22744,"Fort Lauderdale-Pompano Beach-Sunrise, FL",370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12011,12,011,Broward County,Florida,Central,2023-07-21
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL",33124,"Miami-Miami Beach-Kendall, FL",370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12086,12,086,Miami-Dade County,Florida,Central,2023-07-21
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL",48424,"West Palm Beach-Boca Raton-Delray Beach, FL",370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12099,12,099,Palm Beach County,Florida,Central,2023-07-21
+33140,"Michigan City-La Porte, IN",,,176,"Chicago-Naperville, IL-IN-WI",18091,18,091,LaPorte County,Indiana,Central,2023-07-21
+33220,"Midland, MI",,,474,"Saginaw-Midland-Bay City, MI",26111,26,111,Midland County,Michigan,Central,2023-07-21
+33260,"Midland, TX",,,372,"Midland-Odessa-Andrews, TX",48317,48,317,Martin County,Texas,Outlying,2023-07-21
+33260,"Midland, TX",,,372,"Midland-Odessa-Andrews, TX",48329,48,329,Midland County,Texas,Central,2023-07-21
+33340,"Milwaukee-Waukesha, WI",,,376,"Milwaukee-Racine-Waukesha, WI",55079,55,079,Milwaukee County,Wisconsin,Central,2023-07-21
+33340,"Milwaukee-Waukesha, WI",,,376,"Milwaukee-Racine-Waukesha, WI",55089,55,089,Ozaukee County,Wisconsin,Outlying,2023-07-21
+33340,"Milwaukee-Waukesha, WI",,,376,"Milwaukee-Racine-Waukesha, WI",55131,55,131,Washington County,Wisconsin,Outlying,2023-07-21
+33340,"Milwaukee-Waukesha, WI",,,376,"Milwaukee-Racine-Waukesha, WI",55133,55,133,Waukesha County,Wisconsin,Central,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27003,27,003,Anoka County,Minnesota,Central,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27019,27,019,Carver County,Minnesota,Central,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27025,27,025,Chisago County,Minnesota,Outlying,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27037,27,037,Dakota County,Minnesota,Central,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27053,27,053,Hennepin County,Minnesota,Central,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27059,27,059,Isanti County,Minnesota,Outlying,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27079,27,079,Le Sueur County,Minnesota,Outlying,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27095,27,095,Mille Lacs County,Minnesota,Outlying,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27123,27,123,Ramsey County,Minnesota,Central,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27139,27,139,Scott County,Minnesota,Central,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27141,27,141,Sherburne County,Minnesota,Central,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27163,27,163,Washington County,Minnesota,Central,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",27171,27,171,Wright County,Minnesota,Central,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",55093,55,093,Pierce County,Wisconsin,Outlying,2023-07-21
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",,,378,"Minneapolis-St. Paul, MN-WI",55109,55,109,St. Croix County,Wisconsin,Outlying,2023-07-21
+33500,"Minot, ND",,,,,38049,38,049,McHenry County,North Dakota,Outlying,2023-07-21
+33500,"Minot, ND",,,,,38075,38,075,Renville County,North Dakota,Outlying,2023-07-21
+33500,"Minot, ND",,,,,38101,38,101,Ward County,North Dakota,Central,2023-07-21
+33540,"Missoula, MT",,,,,30061,30,061,Mineral County,Montana,Outlying,2023-07-21
+33540,"Missoula, MT",,,,,30063,30,063,Missoula County,Montana,Central,2023-07-21
+33660,"Mobile, AL",,,380,"Mobile-Daphne-Fairhope, AL",01097,01,097,Mobile County,Alabama,Central,2023-07-21
+33700,"Modesto, CA",,,488,"San Jose-San Francisco-Oakland, CA",06099,06,099,Stanislaus County,California,Central,2023-07-21
+33740,"Monroe, LA",,,384,"Monroe-Ruston, LA",22067,22,067,Morehouse Parish,Louisiana,Outlying,2023-07-21
+33740,"Monroe, LA",,,384,"Monroe-Ruston, LA",22073,22,073,Ouachita Parish,Louisiana,Central,2023-07-21
+33740,"Monroe, LA",,,384,"Monroe-Ruston, LA",22083,22,083,Richland Parish,Louisiana,Outlying,2023-07-21
+33740,"Monroe, LA",,,384,"Monroe-Ruston, LA",22111,22,111,Union Parish,Louisiana,Outlying,2023-07-21
+33780,"Monroe, MI",,,220,"Detroit-Warren-Ann Arbor, MI",26115,26,115,Monroe County,Michigan,Central,2023-07-21
+33860,"Montgomery, AL",,,388,"Montgomery-Selma, AL",01001,01,001,Autauga County,Alabama,Central,2023-07-21
+33860,"Montgomery, AL",,,388,"Montgomery-Selma, AL",01051,01,051,Elmore County,Alabama,Central,2023-07-21
+33860,"Montgomery, AL",,,388,"Montgomery-Selma, AL",01085,01,085,Lowndes County,Alabama,Outlying,2023-07-21
+33860,"Montgomery, AL",,,388,"Montgomery-Selma, AL",01101,01,101,Montgomery County,Alabama,Central,2023-07-21
+34060,"Morgantown, WV",,,,,54061,54,061,Monongalia County,West Virginia,Central,2023-07-21
+34060,"Morgantown, WV",,,,,54077,54,077,Preston County,West Virginia,Outlying,2023-07-21
+34100,"Morristown, TN",,,315,"Knoxville-Morristown-Sevierville, TN",47063,47,063,Hamblen County,Tennessee,Central,2023-07-21
+34100,"Morristown, TN",,,315,"Knoxville-Morristown-Sevierville, TN",47089,47,089,Jefferson County,Tennessee,Central,2023-07-21
+34580,"Mount Vernon-Anacortes, WA",,,500,"Seattle-Tacoma, WA",53057,53,057,Skagit County,Washington,Central,2023-07-21
+34620,"Muncie, IN",,,294,"Indianapolis-Carmel-Muncie, IN",18035,18,035,Delaware County,Indiana,Central,2023-07-21
+34740,"Muskegon-Norton Shores, MI",,,266,"Grand Rapids-Wyoming, MI",26121,26,121,Muskegon County,Michigan,Central,2023-07-21
+34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",,,396,"Myrtle Beach-Conway, SC",45051,45,051,Horry County,South Carolina,Central,2023-07-21
+34900,"Napa, CA",,,488,"San Jose-San Francisco-Oakland, CA",06055,06,055,Napa County,California,Central,2023-07-21
+34940,"Naples-Marco Island, FL",,,163,"Cape Coral-Fort Myers-Naples, FL",12021,12,021,Collier County,Florida,Central,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47015,47,015,Cannon County,Tennessee,Outlying,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47021,47,021,Cheatham County,Tennessee,Outlying,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47037,47,037,Davidson County,Tennessee,Central,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47043,47,043,Dickson County,Tennessee,Outlying,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47081,47,081,Hickman County,Tennessee,Outlying,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47111,47,111,Macon County,Tennessee,Outlying,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47119,47,119,Maury County,Tennessee,Outlying,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47147,47,147,Robertson County,Tennessee,Outlying,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47149,47,149,Rutherford County,Tennessee,Outlying,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47159,47,159,Smith County,Tennessee,Outlying,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47165,47,165,Sumner County,Tennessee,Central,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47169,47,169,Trousdale County,Tennessee,Outlying,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47187,47,187,Williamson County,Tennessee,Central,2023-07-21
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",,,400,"Nashville-Davidson--Murfreesboro, TN",47189,47,189,Wilson County,Tennessee,Central,2023-07-21
+35300,"New Haven, CT",,,405,"New Haven-Hartford-Waterbury, CT",09170,09,170,South Central Connecticut Planning Region,Connecticut,Central,2023-07-21
+35380,"New Orleans-Metairie, LA",,,406,"New Orleans-Metairie-Slidell, LA-MS",22051,22,051,Jefferson Parish,Louisiana,Central,2023-07-21
+35380,"New Orleans-Metairie, LA",,,406,"New Orleans-Metairie-Slidell, LA-MS",22071,22,071,Orleans Parish,Louisiana,Central,2023-07-21
+35380,"New Orleans-Metairie, LA",,,406,"New Orleans-Metairie-Slidell, LA-MS",22075,22,075,Plaquemines Parish,Louisiana,Central,2023-07-21
+35380,"New Orleans-Metairie, LA",,,406,"New Orleans-Metairie-Slidell, LA-MS",22087,22,087,St. Bernard Parish,Louisiana,Central,2023-07-21
+35380,"New Orleans-Metairie, LA",,,406,"New Orleans-Metairie-Slidell, LA-MS",22089,22,089,St. Charles Parish,Louisiana,Central,2023-07-21
+35380,"New Orleans-Metairie, LA",,,406,"New Orleans-Metairie-Slidell, LA-MS",22093,22,093,St. James Parish,Louisiana,Central,2023-07-21
+35380,"New Orleans-Metairie, LA",,,406,"New Orleans-Metairie-Slidell, LA-MS",22095,22,095,St. John the Baptist Parish,Louisiana,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",29484,"Lakewood-New Brunswick, NJ",408,"New York-Newark, NY-NJ-CT-PA",34023,34,023,Middlesex County,New Jersey,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",29484,"Lakewood-New Brunswick, NJ",408,"New York-Newark, NY-NJ-CT-PA",34025,34,025,Monmouth County,New Jersey,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",29484,"Lakewood-New Brunswick, NJ",408,"New York-Newark, NY-NJ-CT-PA",34029,34,029,Ocean County,New Jersey,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",29484,"Lakewood-New Brunswick, NJ",408,"New York-Newark, NY-NJ-CT-PA",34035,34,035,Somerset County,New Jersey,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35004,"Nassau County-Suffolk County, NY",408,"New York-Newark, NY-NJ-CT-PA",36059,36,059,Nassau County,New York,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35004,"Nassau County-Suffolk County, NY",408,"New York-Newark, NY-NJ-CT-PA",36103,36,103,Suffolk County,New York,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35084,"Newark, NJ",408,"New York-Newark, NY-NJ-CT-PA",34013,34,013,Essex County,New Jersey,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35084,"Newark, NJ",408,"New York-Newark, NY-NJ-CT-PA",34019,34,019,Hunterdon County,New Jersey,Outlying,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35084,"Newark, NJ",408,"New York-Newark, NY-NJ-CT-PA",34027,34,027,Morris County,New Jersey,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35084,"Newark, NJ",408,"New York-Newark, NY-NJ-CT-PA",34037,34,037,Sussex County,New Jersey,Outlying,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35084,"Newark, NJ",408,"New York-Newark, NY-NJ-CT-PA",34039,34,039,Union County,New Jersey,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35614,"New York-Jersey City-White Plains, NY-NJ",408,"New York-Newark, NY-NJ-CT-PA",34003,34,003,Bergen County,New Jersey,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35614,"New York-Jersey City-White Plains, NY-NJ",408,"New York-Newark, NY-NJ-CT-PA",34017,34,017,Hudson County,New Jersey,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35614,"New York-Jersey City-White Plains, NY-NJ",408,"New York-Newark, NY-NJ-CT-PA",34031,34,031,Passaic County,New Jersey,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35614,"New York-Jersey City-White Plains, NY-NJ",408,"New York-Newark, NY-NJ-CT-PA",36005,36,005,Bronx County,New York,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35614,"New York-Jersey City-White Plains, NY-NJ",408,"New York-Newark, NY-NJ-CT-PA",36047,36,047,Kings County,New York,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35614,"New York-Jersey City-White Plains, NY-NJ",408,"New York-Newark, NY-NJ-CT-PA",36061,36,061,New York County,New York,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35614,"New York-Jersey City-White Plains, NY-NJ",408,"New York-Newark, NY-NJ-CT-PA",36079,36,079,Putnam County,New York,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35614,"New York-Jersey City-White Plains, NY-NJ",408,"New York-Newark, NY-NJ-CT-PA",36081,36,081,Queens County,New York,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35614,"New York-Jersey City-White Plains, NY-NJ",408,"New York-Newark, NY-NJ-CT-PA",36085,36,085,Richmond County,New York,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35614,"New York-Jersey City-White Plains, NY-NJ",408,"New York-Newark, NY-NJ-CT-PA",36087,36,087,Rockland County,New York,Central,2023-07-21
+35620,"New York-Newark-Jersey City, NY-NJ",35614,"New York-Jersey City-White Plains, NY-NJ",408,"New York-Newark, NY-NJ-CT-PA",36119,36,119,Westchester County,New York,Central,2023-07-21
+35660,"Niles, MI",,,515,"South Bend-Elkhart-Mishawaka, IN-MI",26021,26,021,Berrien County,Michigan,Central,2023-07-21
+35840,"North Port-Bradenton-Sarasota, FL",,,412,"North Port-Bradenton, FL",12081,12,081,Manatee County,Florida,Central,2023-07-21
+35840,"North Port-Bradenton-Sarasota, FL",,,412,"North Port-Bradenton, FL",12115,12,115,Sarasota County,Florida,Central,2023-07-21
+35980,"Norwich-New London-Willimantic, CT",,,405,"New Haven-Hartford-Waterbury, CT",09180,09,180,Southeastern Connecticut Planning Region,Connecticut,Central,2023-07-21
+36100,"Ocala, FL",,,,,12083,12,083,Marion County,Florida,Central,2023-07-21
+36220,"Odessa, TX",,,372,"Midland-Odessa-Andrews, TX",48135,48,135,Ector County,Texas,Central,2023-07-21
+36260,"Ogden, UT",,,482,"Salt Lake City-Provo-Orem, UT-ID",49011,49,011,Davis County,Utah,Central,2023-07-21
+36260,"Ogden, UT",,,482,"Salt Lake City-Provo-Orem, UT-ID",49029,49,029,Morgan County,Utah,Outlying,2023-07-21
+36260,"Ogden, UT",,,482,"Salt Lake City-Provo-Orem, UT-ID",49057,49,057,Weber County,Utah,Central,2023-07-21
+36420,"Oklahoma City, OK",,,416,"Oklahoma City-Shawnee, OK",40017,40,017,Canadian County,Oklahoma,Central,2023-07-21
+36420,"Oklahoma City, OK",,,416,"Oklahoma City-Shawnee, OK",40027,40,027,Cleveland County,Oklahoma,Central,2023-07-21
+36420,"Oklahoma City, OK",,,416,"Oklahoma City-Shawnee, OK",40051,40,051,Grady County,Oklahoma,Outlying,2023-07-21
+36420,"Oklahoma City, OK",,,416,"Oklahoma City-Shawnee, OK",40081,40,081,Lincoln County,Oklahoma,Outlying,2023-07-21
+36420,"Oklahoma City, OK",,,416,"Oklahoma City-Shawnee, OK",40083,40,083,Logan County,Oklahoma,Central,2023-07-21
+36420,"Oklahoma City, OK",,,416,"Oklahoma City-Shawnee, OK",40087,40,087,McClain County,Oklahoma,Outlying,2023-07-21
+36420,"Oklahoma City, OK",,,416,"Oklahoma City-Shawnee, OK",40109,40,109,Oklahoma County,Oklahoma,Central,2023-07-21
+36500,"Olympia-Lacey-Tumwater, WA",,,500,"Seattle-Tacoma, WA",53067,53,067,Thurston County,Washington,Central,2023-07-21
+36540,"Omaha, NE-IA",,,420,"Omaha-Fremont, NE-IA",19085,19,085,Harrison County,Iowa,Outlying,2023-07-21
+36540,"Omaha, NE-IA",,,420,"Omaha-Fremont, NE-IA",19129,19,129,Mills County,Iowa,Outlying,2023-07-21
+36540,"Omaha, NE-IA",,,420,"Omaha-Fremont, NE-IA",19155,19,155,Pottawattamie County,Iowa,Central,2023-07-21
+36540,"Omaha, NE-IA",,,420,"Omaha-Fremont, NE-IA",31025,31,025,Cass County,Nebraska,Outlying,2023-07-21
+36540,"Omaha, NE-IA",,,420,"Omaha-Fremont, NE-IA",31055,31,055,Douglas County,Nebraska,Central,2023-07-21
+36540,"Omaha, NE-IA",,,420,"Omaha-Fremont, NE-IA",31153,31,153,Sarpy County,Nebraska,Central,2023-07-21
+36540,"Omaha, NE-IA",,,420,"Omaha-Fremont, NE-IA",31155,31,155,Saunders County,Nebraska,Outlying,2023-07-21
+36540,"Omaha, NE-IA",,,420,"Omaha-Fremont, NE-IA",31177,31,177,Washington County,Nebraska,Outlying,2023-07-21
+36740,"Orlando-Kissimmee-Sanford, FL",,,422,"Orlando-Lakeland-Deltona, FL",12069,12,069,Lake County,Florida,Outlying,2023-07-21
+36740,"Orlando-Kissimmee-Sanford, FL",,,422,"Orlando-Lakeland-Deltona, FL",12095,12,095,Orange County,Florida,Central,2023-07-21
+36740,"Orlando-Kissimmee-Sanford, FL",,,422,"Orlando-Lakeland-Deltona, FL",12097,12,097,Osceola County,Florida,Outlying,2023-07-21
+36740,"Orlando-Kissimmee-Sanford, FL",,,422,"Orlando-Lakeland-Deltona, FL",12117,12,117,Seminole County,Florida,Central,2023-07-21
+36780,"Oshkosh-Neenah, WI",,,118,"Appleton-Oshkosh-Neenah, WI",55139,55,139,Winnebago County,Wisconsin,Central,2023-07-21
+36980,"Owensboro, KY",,,,,21059,21,059,Daviess County,Kentucky,Central,2023-07-21
+36980,"Owensboro, KY",,,,,21149,21,149,McLean County,Kentucky,Outlying,2023-07-21
+37100,"Oxnard-Thousand Oaks-Ventura, CA",,,348,"Los Angeles-Long Beach, CA",06111,06,111,Ventura County,California,Central,2023-07-21
+37140,"Paducah, KY-IL",,,424,"Paducah-Mayfield, KY-IL",17127,17,127,Massac County,Illinois,Outlying,2023-07-21
+37140,"Paducah, KY-IL",,,424,"Paducah-Mayfield, KY-IL",21007,21,007,Ballard County,Kentucky,Outlying,2023-07-21
+37140,"Paducah, KY-IL",,,424,"Paducah-Mayfield, KY-IL",21039,21,039,Carlisle County,Kentucky,Outlying,2023-07-21
+37140,"Paducah, KY-IL",,,424,"Paducah-Mayfield, KY-IL",21139,21,139,Livingston County,Kentucky,Outlying,2023-07-21
+37140,"Paducah, KY-IL",,,424,"Paducah-Mayfield, KY-IL",21145,21,145,McCracken County,Kentucky,Central,2023-07-21
+37340,"Palm Bay-Melbourne-Titusville, FL",,,,,12009,12,009,Brevard County,Florida,Central,2023-07-21
+37460,"Panama City-Panama City Beach, FL",,,,,12005,12,005,Bay County,Florida,Central,2023-07-21
+37460,"Panama City-Panama City Beach, FL",,,,,12133,12,133,Washington County,Florida,Outlying,2023-07-21
+37620,"Parkersburg-Vienna, WV",,,425,"Parkersburg-Marietta-Vienna, WV-OH",54105,54,105,Wirt County,West Virginia,Outlying,2023-07-21
+37620,"Parkersburg-Vienna, WV",,,425,"Parkersburg-Marietta-Vienna, WV-OH",54107,54,107,Wood County,West Virginia,Central,2023-07-21
+37860,"Pensacola-Ferry Pass-Brent, FL",,,,,12033,12,033,Escambia County,Florida,Central,2023-07-21
+37860,"Pensacola-Ferry Pass-Brent, FL",,,,,12113,12,113,Santa Rosa County,Florida,Central,2023-07-21
+37900,"Peoria, IL",,,427,"Peoria-Canton, IL",17123,17,123,Marshall County,Illinois,Outlying,2023-07-21
+37900,"Peoria, IL",,,427,"Peoria-Canton, IL",17143,17,143,Peoria County,Illinois,Central,2023-07-21
+37900,"Peoria, IL",,,427,"Peoria-Canton, IL",17175,17,175,Stark County,Illinois,Outlying,2023-07-21
+37900,"Peoria, IL",,,427,"Peoria-Canton, IL",17179,17,179,Tazewell County,Illinois,Central,2023-07-21
+37900,"Peoria, IL",,,427,"Peoria-Canton, IL",17203,17,203,Woodford County,Illinois,Central,2023-07-21
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",15804,"Camden, NJ",428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34005,34,005,Burlington County,New Jersey,Central,2023-07-21
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",15804,"Camden, NJ",428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34007,34,007,Camden County,New Jersey,Central,2023-07-21
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",15804,"Camden, NJ",428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34015,34,015,Gloucester County,New Jersey,Central,2023-07-21
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",33874,"Montgomery County-Bucks County-Chester County, PA",428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42017,42,017,Bucks County,Pennsylvania,Central,2023-07-21
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",33874,"Montgomery County-Bucks County-Chester County, PA",428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42029,42,029,Chester County,Pennsylvania,Central,2023-07-21
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",33874,"Montgomery County-Bucks County-Chester County, PA",428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42091,42,091,Montgomery County,Pennsylvania,Central,2023-07-21
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37964,"Philadelphia, PA",428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42045,42,045,Delaware County,Pennsylvania,Central,2023-07-21
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37964,"Philadelphia, PA",428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42101,42,101,Philadelphia County,Pennsylvania,Central,2023-07-21
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",48864,"Wilmington, DE-MD-NJ",428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",10003,10,003,New Castle County,Delaware,Central,2023-07-21
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",48864,"Wilmington, DE-MD-NJ",428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",24015,24,015,Cecil County,Maryland,Central,2023-07-21
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",48864,"Wilmington, DE-MD-NJ",428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34033,34,033,Salem County,New Jersey,Central,2023-07-21
+38060,"Phoenix-Mesa-Chandler, AZ",,,429,"Phoenix-Mesa, AZ",04013,04,013,Maricopa County,Arizona,Central,2023-07-21
+38060,"Phoenix-Mesa-Chandler, AZ",,,429,"Phoenix-Mesa, AZ",04021,04,021,Pinal County,Arizona,Central,2023-07-21
+38240,"Pinehurst-Southern Pines, NC",,,246,"Fayetteville-Lumberton-Pinehurst, NC",37125,37,125,Moore County,North Carolina,Central,2023-07-21
+38300,"Pittsburgh, PA",,,430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",42003,42,003,Allegheny County,Pennsylvania,Central,2023-07-21
+38300,"Pittsburgh, PA",,,430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",42005,42,005,Armstrong County,Pennsylvania,Outlying,2023-07-21
+38300,"Pittsburgh, PA",,,430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",42007,42,007,Beaver County,Pennsylvania,Central,2023-07-21
+38300,"Pittsburgh, PA",,,430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",42019,42,019,Butler County,Pennsylvania,Central,2023-07-21
+38300,"Pittsburgh, PA",,,430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",42051,42,051,Fayette County,Pennsylvania,Outlying,2023-07-21
+38300,"Pittsburgh, PA",,,430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",42073,42,073,Lawrence County,Pennsylvania,Outlying,2023-07-21
+38300,"Pittsburgh, PA",,,430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",42125,42,125,Washington County,Pennsylvania,Central,2023-07-21
+38300,"Pittsburgh, PA",,,430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",42129,42,129,Westmoreland County,Pennsylvania,Central,2023-07-21
+38340,"Pittsfield, MA",,,,,25003,25,003,Berkshire County,Massachusetts,Central,2023-07-21
+38540,"Pocatello, ID",,,,,16005,16,005,Bannock County,Idaho,Central,2023-07-21
+38660,"Ponce, PR",,,434,"Ponce-Coamo, PR",72059,72,059,Guayanilla Municipio,Puerto Rico,Outlying,2023-07-21
+38660,"Ponce, PR",,,434,"Ponce-Coamo, PR",72075,72,075,Juana Díaz Municipio,Puerto Rico,Outlying,2023-07-21
+38660,"Ponce, PR",,,434,"Ponce-Coamo, PR",72111,72,111,Peñuelas Municipio,Puerto Rico,Outlying,2023-07-21
+38660,"Ponce, PR",,,434,"Ponce-Coamo, PR",72113,72,113,Ponce Municipio,Puerto Rico,Central,2023-07-21
+38660,"Ponce, PR",,,434,"Ponce-Coamo, PR",72149,72,149,Villalba Municipio,Puerto Rico,Outlying,2023-07-21
+38660,"Ponce, PR",,,434,"Ponce-Coamo, PR",72153,72,153,Yauco Municipio,Puerto Rico,Outlying,2023-07-21
+38860,"Portland-South Portland, ME",,,438,"Portland-Lewiston-South Portland, ME",23005,23,005,Cumberland County,Maine,Central,2023-07-21
+38860,"Portland-South Portland, ME",,,438,"Portland-Lewiston-South Portland, ME",23023,23,023,Sagadahoc County,Maine,Outlying,2023-07-21
+38860,"Portland-South Portland, ME",,,438,"Portland-Lewiston-South Portland, ME",23031,23,031,York County,Maine,Central,2023-07-21
+38900,"Portland-Vancouver-Hillsboro, OR-WA",,,440,"Portland-Vancouver-Salem, OR-WA",41005,41,005,Clackamas County,Oregon,Central,2023-07-21
+38900,"Portland-Vancouver-Hillsboro, OR-WA",,,440,"Portland-Vancouver-Salem, OR-WA",41009,41,009,Columbia County,Oregon,Outlying,2023-07-21
+38900,"Portland-Vancouver-Hillsboro, OR-WA",,,440,"Portland-Vancouver-Salem, OR-WA",41051,41,051,Multnomah County,Oregon,Central,2023-07-21
+38900,"Portland-Vancouver-Hillsboro, OR-WA",,,440,"Portland-Vancouver-Salem, OR-WA",41067,41,067,Washington County,Oregon,Central,2023-07-21
+38900,"Portland-Vancouver-Hillsboro, OR-WA",,,440,"Portland-Vancouver-Salem, OR-WA",41071,41,071,Yamhill County,Oregon,Outlying,2023-07-21
+38900,"Portland-Vancouver-Hillsboro, OR-WA",,,440,"Portland-Vancouver-Salem, OR-WA",53011,53,011,Clark County,Washington,Central,2023-07-21
+38900,"Portland-Vancouver-Hillsboro, OR-WA",,,440,"Portland-Vancouver-Salem, OR-WA",53059,53,059,Skamania County,Washington,Outlying,2023-07-21
+38940,"Port St. Lucie, FL",,,370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12085,12,085,Martin County,Florida,Central,2023-07-21
+38940,"Port St. Lucie, FL",,,370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12111,12,111,St. Lucie County,Florida,Central,2023-07-21
+39150,"Prescott Valley-Prescott, AZ",,,,,04025,04,025,Yavapai County,Arizona,Central,2023-07-21
+39300,"Providence-Warwick, RI-MA",,,148,"Boston-Worcester-Providence, MA-RI-NH",25005,25,005,Bristol County,Massachusetts,Central,2023-07-21
+39300,"Providence-Warwick, RI-MA",,,148,"Boston-Worcester-Providence, MA-RI-NH",44001,44,001,Bristol County,Rhode Island,Central,2023-07-21
+39300,"Providence-Warwick, RI-MA",,,148,"Boston-Worcester-Providence, MA-RI-NH",44003,44,003,Kent County,Rhode Island,Central,2023-07-21
+39300,"Providence-Warwick, RI-MA",,,148,"Boston-Worcester-Providence, MA-RI-NH",44005,44,005,Newport County,Rhode Island,Central,2023-07-21
+39300,"Providence-Warwick, RI-MA",,,148,"Boston-Worcester-Providence, MA-RI-NH",44007,44,007,Providence County,Rhode Island,Central,2023-07-21
+39300,"Providence-Warwick, RI-MA",,,148,"Boston-Worcester-Providence, MA-RI-NH",44009,44,009,Washington County,Rhode Island,Central,2023-07-21
+39340,"Provo-Orem-Lehi, UT",,,482,"Salt Lake City-Provo-Orem, UT-ID",49023,49,023,Juab County,Utah,Outlying,2023-07-21
+39340,"Provo-Orem-Lehi, UT",,,482,"Salt Lake City-Provo-Orem, UT-ID",49049,49,049,Utah County,Utah,Central,2023-07-21
+39380,"Pueblo, CO",,,444,"Pueblo-Cañon City, CO",08101,08,101,Pueblo County,Colorado,Central,2023-07-21
+39460,"Punta Gorda, FL",,,412,"North Port-Bradenton, FL",12015,12,015,Charlotte County,Florida,Central,2023-07-21
+39540,"Racine-Mount Pleasant, WI",,,376,"Milwaukee-Racine-Waukesha, WI",55101,55,101,Racine County,Wisconsin,Central,2023-07-21
+39580,"Raleigh-Cary, NC",,,450,"Raleigh-Durham-Cary, NC",37069,37,069,Franklin County,North Carolina,Central,2023-07-21
+39580,"Raleigh-Cary, NC",,,450,"Raleigh-Durham-Cary, NC",37101,37,101,Johnston County,North Carolina,Outlying,2023-07-21
+39580,"Raleigh-Cary, NC",,,450,"Raleigh-Durham-Cary, NC",37183,37,183,Wake County,North Carolina,Central,2023-07-21
+39660,"Rapid City, SD",,,452,"Rapid City-Spearfish, SD",46033,46,033,Custer County,South Dakota,Outlying,2023-07-21
+39660,"Rapid City, SD",,,452,"Rapid City-Spearfish, SD",46093,46,093,Meade County,South Dakota,Outlying,2023-07-21
+39660,"Rapid City, SD",,,452,"Rapid City-Spearfish, SD",46103,46,103,Pennington County,South Dakota,Central,2023-07-21
+39740,"Reading, PA",,,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",42011,42,011,Berks County,Pennsylvania,Central,2023-07-21
+39820,"Redding, CA",,,454,"Redding-Red Bluff, CA",06089,06,089,Shasta County,California,Central,2023-07-21
+39900,"Reno, NV",,,456,"Reno-Carson City-Gardnerville Ranchos, NV-CA",32019,32,019,Lyon County,Nevada,Outlying,2023-07-21
+39900,"Reno, NV",,,456,"Reno-Carson City-Gardnerville Ranchos, NV-CA",32029,32,029,Storey County,Nevada,Outlying,2023-07-21
+39900,"Reno, NV",,,456,"Reno-Carson City-Gardnerville Ranchos, NV-CA",32031,32,031,Washoe County,Nevada,Central,2023-07-21
+40060,"Richmond, VA",,,,,51007,51,007,Amelia County,Virginia,Outlying,2023-07-21
+40060,"Richmond, VA",,,,,51036,51,036,Charles City County,Virginia,Outlying,2023-07-21
+40060,"Richmond, VA",,,,,51041,51,041,Chesterfield County,Virginia,Central,2023-07-21
+40060,"Richmond, VA",,,,,51053,51,053,Dinwiddie County,Virginia,Central,2023-07-21
+40060,"Richmond, VA",,,,,51075,51,075,Goochland County,Virginia,Outlying,2023-07-21
+40060,"Richmond, VA",,,,,51085,51,085,Hanover County,Virginia,Central,2023-07-21
+40060,"Richmond, VA",,,,,51087,51,087,Henrico County,Virginia,Central,2023-07-21
+40060,"Richmond, VA",,,,,51097,51,097,King and Queen County,Virginia,Outlying,2023-07-21
+40060,"Richmond, VA",,,,,51101,51,101,King William County,Virginia,Outlying,2023-07-21
+40060,"Richmond, VA",,,,,51127,51,127,New Kent County,Virginia,Outlying,2023-07-21
+40060,"Richmond, VA",,,,,51145,51,145,Powhatan County,Virginia,Outlying,2023-07-21
+40060,"Richmond, VA",,,,,51149,51,149,Prince George County,Virginia,Central,2023-07-21
+40060,"Richmond, VA",,,,,51183,51,183,Sussex County,Virginia,Outlying,2023-07-21
+40060,"Richmond, VA",,,,,51570,51,570,Colonial Heights city,Virginia,Central,2023-07-21
+40060,"Richmond, VA",,,,,51670,51,670,Hopewell city,Virginia,Central,2023-07-21
+40060,"Richmond, VA",,,,,51730,51,730,Petersburg city,Virginia,Central,2023-07-21
+40060,"Richmond, VA",,,,,51760,51,760,Richmond city,Virginia,Central,2023-07-21
+40140,"Riverside-San Bernardino-Ontario, CA",,,348,"Los Angeles-Long Beach, CA",06065,06,065,Riverside County,California,Central,2023-07-21
+40140,"Riverside-San Bernardino-Ontario, CA",,,348,"Los Angeles-Long Beach, CA",06071,06,071,San Bernardino County,California,Central,2023-07-21
+40220,"Roanoke, VA",,,,,51023,51,023,Botetourt County,Virginia,Central,2023-07-21
+40220,"Roanoke, VA",,,,,51045,51,045,Craig County,Virginia,Outlying,2023-07-21
+40220,"Roanoke, VA",,,,,51067,51,067,Franklin County,Virginia,Outlying,2023-07-21
+40220,"Roanoke, VA",,,,,51161,51,161,Roanoke County,Virginia,Central,2023-07-21
+40220,"Roanoke, VA",,,,,51770,51,770,Roanoke city,Virginia,Central,2023-07-21
+40220,"Roanoke, VA",,,,,51775,51,775,Salem city,Virginia,Central,2023-07-21
+40340,"Rochester, MN",,,462,"Rochester-Austin-Winona, MN",27039,27,039,Dodge County,Minnesota,Outlying,2023-07-21
+40340,"Rochester, MN",,,462,"Rochester-Austin-Winona, MN",27045,27,045,Fillmore County,Minnesota,Outlying,2023-07-21
+40340,"Rochester, MN",,,462,"Rochester-Austin-Winona, MN",27109,27,109,Olmsted County,Minnesota,Central,2023-07-21
+40340,"Rochester, MN",,,462,"Rochester-Austin-Winona, MN",27157,27,157,Wabasha County,Minnesota,Outlying,2023-07-21
+40380,"Rochester, NY",,,464,"Rochester-Batavia-Seneca Falls, NY",36051,36,051,Livingston County,New York,Outlying,2023-07-21
+40380,"Rochester, NY",,,464,"Rochester-Batavia-Seneca Falls, NY",36055,36,055,Monroe County,New York,Central,2023-07-21
+40380,"Rochester, NY",,,464,"Rochester-Batavia-Seneca Falls, NY",36069,36,069,Ontario County,New York,Central,2023-07-21
+40380,"Rochester, NY",,,464,"Rochester-Batavia-Seneca Falls, NY",36073,36,073,Orleans County,New York,Outlying,2023-07-21
+40380,"Rochester, NY",,,464,"Rochester-Batavia-Seneca Falls, NY",36117,36,117,Wayne County,New York,Outlying,2023-07-21
+40420,"Rockford, IL",,,466,"Rockford-Freeport-Rochelle, IL",17007,17,007,Boone County,Illinois,Central,2023-07-21
+40420,"Rockford, IL",,,466,"Rockford-Freeport-Rochelle, IL",17201,17,201,Winnebago County,Illinois,Central,2023-07-21
+40580,"Rocky Mount, NC",,,468,"Rocky Mount-Wilson-Roanoke Rapids, NC",37065,37,065,Edgecombe County,North Carolina,Central,2023-07-21
+40580,"Rocky Mount, NC",,,468,"Rocky Mount-Wilson-Roanoke Rapids, NC",37127,37,127,Nash County,North Carolina,Central,2023-07-21
+40660,"Rome, GA",,,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",13115,13,115,Floyd County,Georgia,Central,2023-07-21
+40900,"Sacramento-Roseville-Folsom, CA",,,472,"Sacramento-Roseville, CA",06017,06,017,El Dorado County,California,Central,2023-07-21
+40900,"Sacramento-Roseville-Folsom, CA",,,472,"Sacramento-Roseville, CA",06061,06,061,Placer County,California,Central,2023-07-21
+40900,"Sacramento-Roseville-Folsom, CA",,,472,"Sacramento-Roseville, CA",06067,06,067,Sacramento County,California,Central,2023-07-21
+40900,"Sacramento-Roseville-Folsom, CA",,,472,"Sacramento-Roseville, CA",06113,06,113,Yolo County,California,Outlying,2023-07-21
+40980,"Saginaw, MI",,,474,"Saginaw-Midland-Bay City, MI",26145,26,145,Saginaw County,Michigan,Central,2023-07-21
+41060,"St. Cloud, MN",,,378,"Minneapolis-St. Paul, MN-WI",27009,27,009,Benton County,Minnesota,Central,2023-07-21
+41060,"St. Cloud, MN",,,378,"Minneapolis-St. Paul, MN-WI",27145,27,145,Stearns County,Minnesota,Central,2023-07-21
+41100,"St. George, UT",,,,,49053,49,053,Washington County,Utah,Central,2023-07-21
+41140,"St. Joseph, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",20043,20,043,Doniphan County,Kansas,Outlying,2023-07-21
+41140,"St. Joseph, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29003,29,003,Andrew County,Missouri,Outlying,2023-07-21
+41140,"St. Joseph, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29021,29,021,Buchanan County,Missouri,Central,2023-07-21
+41140,"St. Joseph, MO-KS",,,312,"Kansas City-Overland Park-Kansas City, MO-KS",29063,29,063,DeKalb County,Missouri,Outlying,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",17005,17,005,Bond County,Illinois,Outlying,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",17013,17,013,Calhoun County,Illinois,Outlying,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",17027,17,027,Clinton County,Illinois,Outlying,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",17083,17,083,Jersey County,Illinois,Outlying,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",17117,17,117,Macoupin County,Illinois,Outlying,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",17119,17,119,Madison County,Illinois,Central,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",17133,17,133,Monroe County,Illinois,Central,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",17163,17,163,St. Clair County,Illinois,Central,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",29071,29,071,Franklin County,Missouri,Outlying,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",29099,29,099,Jefferson County,Missouri,Central,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",29113,29,113,Lincoln County,Missouri,Outlying,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",29183,29,183,St. Charles County,Missouri,Central,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",29189,29,189,St. Louis County,Missouri,Central,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",29219,29,219,Warren County,Missouri,Outlying,2023-07-21
+41180,"St. Louis, MO-IL",,,476,"St. Louis-St. Charles-Farmington, MO-IL",29510,29,510,St. Louis city,Missouri,Central,2023-07-21
+41420,"Salem, OR",,,440,"Portland-Vancouver-Salem, OR-WA",41047,41,047,Marion County,Oregon,Central,2023-07-21
+41420,"Salem, OR",,,440,"Portland-Vancouver-Salem, OR-WA",41053,41,053,Polk County,Oregon,Central,2023-07-21
+41500,"Salinas, CA",,,,,06053,06,053,Monterey County,California,Central,2023-07-21
+41540,"Salisbury, MD",,,480,"Salisbury-Ocean Pines, MD",24039,24,039,Somerset County,Maryland,Outlying,2023-07-21
+41540,"Salisbury, MD",,,480,"Salisbury-Ocean Pines, MD",24045,24,045,Wicomico County,Maryland,Central,2023-07-21
+41620,"Salt Lake City-Murray, UT",,,482,"Salt Lake City-Provo-Orem, UT-ID",49035,49,035,Salt Lake County,Utah,Central,2023-07-21
+41620,"Salt Lake City-Murray, UT",,,482,"Salt Lake City-Provo-Orem, UT-ID",49045,49,045,Tooele County,Utah,Outlying,2023-07-21
+41660,"San Angelo, TX",,,,,48235,48,235,Irion County,Texas,Outlying,2023-07-21
+41660,"San Angelo, TX",,,,,48451,48,451,Tom Green County,Texas,Central,2023-07-21
+41700,"San Antonio-New Braunfels, TX",,,484,"San Antonio-New Braunfels-Kerrville, TX",48013,48,013,Atascosa County,Texas,Outlying,2023-07-21
+41700,"San Antonio-New Braunfels, TX",,,484,"San Antonio-New Braunfels-Kerrville, TX",48019,48,019,Bandera County,Texas,Outlying,2023-07-21
+41700,"San Antonio-New Braunfels, TX",,,484,"San Antonio-New Braunfels-Kerrville, TX",48029,48,029,Bexar County,Texas,Central,2023-07-21
+41700,"San Antonio-New Braunfels, TX",,,484,"San Antonio-New Braunfels-Kerrville, TX",48091,48,091,Comal County,Texas,Outlying,2023-07-21
+41700,"San Antonio-New Braunfels, TX",,,484,"San Antonio-New Braunfels-Kerrville, TX",48187,48,187,Guadalupe County,Texas,Central,2023-07-21
+41700,"San Antonio-New Braunfels, TX",,,484,"San Antonio-New Braunfels-Kerrville, TX",48259,48,259,Kendall County,Texas,Outlying,2023-07-21
+41700,"San Antonio-New Braunfels, TX",,,484,"San Antonio-New Braunfels-Kerrville, TX",48325,48,325,Medina County,Texas,Outlying,2023-07-21
+41700,"San Antonio-New Braunfels, TX",,,484,"San Antonio-New Braunfels-Kerrville, TX",48493,48,493,Wilson County,Texas,Outlying,2023-07-21
+41740,"San Diego-Chula Vista-Carlsbad, CA",,,,,06073,06,073,San Diego County,California,Central,2023-07-21
+41780,"Sandusky, OH",,,184,"Cleveland-Akron-Canton, OH",39043,39,043,Erie County,Ohio,Central,2023-07-21
+41780,"Sandusky, OH",,,184,"Cleveland-Akron-Canton, OH",39123,39,123,Ottawa County,Ohio,Central,2023-07-21
+41860,"San Francisco-Oakland-Fremont, CA",36084,"Oakland-Fremont-Berkeley, CA",488,"San Jose-San Francisco-Oakland, CA",06001,06,001,Alameda County,California,Central,2023-07-21
+41860,"San Francisco-Oakland-Fremont, CA",36084,"Oakland-Fremont-Berkeley, CA",488,"San Jose-San Francisco-Oakland, CA",06013,06,013,Contra Costa County,California,Outlying,2023-07-21
+41860,"San Francisco-Oakland-Fremont, CA",41884,"San Francisco-San Mateo-Redwood City, CA",488,"San Jose-San Francisco-Oakland, CA",06075,06,075,San Francisco County,California,Central,2023-07-21
+41860,"San Francisco-Oakland-Fremont, CA",41884,"San Francisco-San Mateo-Redwood City, CA",488,"San Jose-San Francisco-Oakland, CA",06081,06,081,San Mateo County,California,Central,2023-07-21
+41860,"San Francisco-Oakland-Fremont, CA",42034,"San Rafael, CA",488,"San Jose-San Francisco-Oakland, CA",06041,06,041,Marin County,California,Central,2023-07-21
+41940,"San Jose-Sunnyvale-Santa Clara, CA",,,488,"San Jose-San Francisco-Oakland, CA",06069,06,069,San Benito County,California,Outlying,2023-07-21
+41940,"San Jose-Sunnyvale-Santa Clara, CA",,,488,"San Jose-San Francisco-Oakland, CA",06085,06,085,Santa Clara County,California,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72007,72,007,Aguas Buenas Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72009,72,009,Aibonito Municipio,Puerto Rico,Outlying,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72017,72,017,Barceloneta Municipio,Puerto Rico,Outlying,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72019,72,019,Barranquitas Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72021,72,021,Bayamón Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72025,72,025,Caguas Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72029,72,029,Canóvanas Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72031,72,031,Carolina Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72033,72,033,Cataño Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72035,72,035,Cayey Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72037,72,037,Ceiba Municipio,Puerto Rico,Outlying,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72039,72,039,Ciales Municipio,Puerto Rico,Outlying,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72041,72,041,Cidra Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72045,72,045,Comerío Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72047,72,047,Corozal Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72051,72,051,Dorado Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72053,72,053,Fajardo Municipio,Puerto Rico,Outlying,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72054,72,054,Florida Municipio,Puerto Rico,Outlying,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72061,72,061,Guaynabo Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72063,72,063,Gurabo Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72069,72,069,Humacao Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72077,72,077,Juncos Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72085,72,085,Las Piedras Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72087,72,087,Loíza Municipio,Puerto Rico,Outlying,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72089,72,089,Luquillo Municipio,Puerto Rico,Outlying,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72091,72,091,Manatí Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72095,72,095,Maunabo Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72101,72,101,Morovis Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72103,72,103,Naguabo Municipio,Puerto Rico,Outlying,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72105,72,105,Naranjito Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72107,72,107,Orocovis Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72119,72,119,Río Grande Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72127,72,127,San Juan Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72129,72,129,San Lorenzo Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72135,72,135,Toa Alta Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72137,72,137,Toa Baja Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72139,72,139,Trujillo Alto Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72143,72,143,Vega Alta Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72145,72,145,Vega Baja Municipio,Puerto Rico,Central,2023-07-21
+41980,"San Juan-Bayamón-Caguas, PR",,,490,"San Juan-Bayamón, PR",72151,72,151,Yabucoa Municipio,Puerto Rico,Central,2023-07-21
+42020,"San Luis Obispo-Paso Robles, CA",,,,,06079,06,079,San Luis Obispo County,California,Central,2023-07-21
+42100,"Santa Cruz-Watsonville, CA",,,488,"San Jose-San Francisco-Oakland, CA",06087,06,087,Santa Cruz County,California,Central,2023-07-21
+42140,"Santa Fe, NM",,,105,"Albuquerque-Santa Fe-Los Alamos, NM",35049,35,049,Santa Fe County,New Mexico,Central,2023-07-21
+42200,"Santa Maria-Santa Barbara, CA",,,,,06083,06,083,Santa Barbara County,California,Central,2023-07-21
+42220,"Santa Rosa-Petaluma, CA",,,,,06097,06,097,Sonoma County,California,Central,2023-07-21
+42340,"Savannah, GA",,,496,"Savannah-Hinesville-Statesboro, GA",13029,13,029,Bryan County,Georgia,Central,2023-07-21
+42340,"Savannah, GA",,,496,"Savannah-Hinesville-Statesboro, GA",13051,13,051,Chatham County,Georgia,Central,2023-07-21
+42340,"Savannah, GA",,,496,"Savannah-Hinesville-Statesboro, GA",13103,13,103,Effingham County,Georgia,Outlying,2023-07-21
+42540,"Scranton--Wilkes-Barre, PA",,,,,42069,42,069,Lackawanna County,Pennsylvania,Central,2023-07-21
+42540,"Scranton--Wilkes-Barre, PA",,,,,42079,42,079,Luzerne County,Pennsylvania,Central,2023-07-21
+42540,"Scranton--Wilkes-Barre, PA",,,,,42131,42,131,Wyoming County,Pennsylvania,Outlying,2023-07-21
+42660,"Seattle-Tacoma-Bellevue, WA",21794,"Everett, WA",500,"Seattle-Tacoma, WA",53061,53,061,Snohomish County,Washington,Central,2023-07-21
+42660,"Seattle-Tacoma-Bellevue, WA",42644,"Seattle-Bellevue-Kent, WA",500,"Seattle-Tacoma, WA",53033,53,033,King County,Washington,Central,2023-07-21
+42660,"Seattle-Tacoma-Bellevue, WA",45104,"Tacoma-Lakewood, WA",500,"Seattle-Tacoma, WA",53053,53,053,Pierce County,Washington,Central,2023-07-21
+42680,"Sebastian-Vero Beach-West Vero Corridor, FL",,,370,"Miami-Port St. Lucie-Fort Lauderdale, FL",12061,12,061,Indian River County,Florida,Central,2023-07-21
+42700,"Sebring, FL",,,,,12055,12,055,Highlands County,Florida,Central,2023-07-21
+43100,"Sheboygan, WI",,,,,55117,55,117,Sheboygan County,Wisconsin,Central,2023-07-21
+43300,"Sherman-Denison, TX",,,206,"Dallas-Fort Worth, TX-OK",48181,48,181,Grayson County,Texas,Central,2023-07-21
+43340,"Shreveport-Bossier City, LA",,,508,"Shreveport-Bossier City-Minden, LA",22015,22,015,Bossier Parish,Louisiana,Central,2023-07-21
+43340,"Shreveport-Bossier City, LA",,,508,"Shreveport-Bossier City-Minden, LA",22017,22,017,Caddo Parish,Louisiana,Central,2023-07-21
+43340,"Shreveport-Bossier City, LA",,,508,"Shreveport-Bossier City-Minden, LA",22031,22,031,De Soto Parish,Louisiana,Outlying,2023-07-21
+43420,"Sierra Vista-Douglas, AZ",,,,,04003,04,003,Cochise County,Arizona,Central,2023-07-21
+43580,"Sioux City, IA-NE-SD",,,512,"Sioux City-Le Mars, IA-NE-SD",19193,19,193,Woodbury County,Iowa,Central,2023-07-21
+43580,"Sioux City, IA-NE-SD",,,512,"Sioux City-Le Mars, IA-NE-SD",31043,31,043,Dakota County,Nebraska,Central,2023-07-21
+43580,"Sioux City, IA-NE-SD",,,512,"Sioux City-Le Mars, IA-NE-SD",46127,46,127,Union County,South Dakota,Central,2023-07-21
+43620,"Sioux Falls, SD-MN",,,,,27133,27,133,Rock County,Minnesota,Outlying,2023-07-21
+43620,"Sioux Falls, SD-MN",,,,,46083,46,083,Lincoln County,South Dakota,Central,2023-07-21
+43620,"Sioux Falls, SD-MN",,,,,46087,46,087,McCook County,South Dakota,Outlying,2023-07-21
+43620,"Sioux Falls, SD-MN",,,,,46099,46,099,Minnehaha County,South Dakota,Central,2023-07-21
+43620,"Sioux Falls, SD-MN",,,,,46125,46,125,Turner County,South Dakota,Outlying,2023-07-21
+43640,"Slidell-Mandeville-Covington, LA",,,406,"New Orleans-Metairie-Slidell, LA-MS",22103,22,103,St. Tammany Parish,Louisiana,Central,2023-07-21
+43780,"South Bend-Mishawaka, IN-MI",,,515,"South Bend-Elkhart-Mishawaka, IN-MI",18141,18,141,St. Joseph County,Indiana,Central,2023-07-21
+43780,"South Bend-Mishawaka, IN-MI",,,515,"South Bend-Elkhart-Mishawaka, IN-MI",26027,26,027,Cass County,Michigan,Central,2023-07-21
+43900,"Spartanburg, SC",,,273,"Greenville-Spartanburg-Anderson, SC",45083,45,083,Spartanburg County,South Carolina,Central,2023-07-21
+43900,"Spartanburg, SC",,,273,"Greenville-Spartanburg-Anderson, SC",45087,45,087,Union County,South Carolina,Outlying,2023-07-21
+44060,"Spokane-Spokane Valley, WA",,,518,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",53063,53,063,Spokane County,Washington,Central,2023-07-21
+44060,"Spokane-Spokane Valley, WA",,,518,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",53065,53,065,Stevens County,Washington,Outlying,2023-07-21
+44100,"Springfield, IL",,,522,"Springfield-Jacksonville-Lincoln, IL",17129,17,129,Menard County,Illinois,Outlying,2023-07-21
+44100,"Springfield, IL",,,522,"Springfield-Jacksonville-Lincoln, IL",17167,17,167,Sangamon County,Illinois,Central,2023-07-21
+44140,"Springfield, MA",,,521,"Springfield-Amherst Town-Northampton, MA",25013,25,013,Hampden County,Massachusetts,Central,2023-07-21
+44180,"Springfield, MO",,,,,29043,29,043,Christian County,Missouri,Central,2023-07-21
+44180,"Springfield, MO",,,,,29059,29,059,Dallas County,Missouri,Outlying,2023-07-21
+44180,"Springfield, MO",,,,,29077,29,077,Greene County,Missouri,Central,2023-07-21
+44180,"Springfield, MO",,,,,29167,29,167,Polk County,Missouri,Outlying,2023-07-21
+44180,"Springfield, MO",,,,,29225,29,225,Webster County,Missouri,Outlying,2023-07-21
+44220,"Springfield, OH",,,212,"Dayton-Springfield-Kettering, OH",39023,39,023,Clark County,Ohio,Central,2023-07-21
+44300,"State College, PA",,,524,"State College-DuBois, PA",42027,42,027,Centre County,Pennsylvania,Central,2023-07-21
+44420,"Staunton-Stuarts Draft, VA",,,277,"Harrisonburg-Staunton-Stuarts Draft, VA",51015,51,015,Augusta County,Virginia,Central,2023-07-21
+44420,"Staunton-Stuarts Draft, VA",,,277,"Harrisonburg-Staunton-Stuarts Draft, VA",51790,51,790,Staunton city,Virginia,Central,2023-07-21
+44420,"Staunton-Stuarts Draft, VA",,,277,"Harrisonburg-Staunton-Stuarts Draft, VA",51820,51,820,Waynesboro city,Virginia,Central,2023-07-21
+44700,"Stockton-Lodi, CA",,,488,"San Jose-San Francisco-Oakland, CA",06077,06,077,San Joaquin County,California,Central,2023-07-21
+44940,"Sumter, SC",,,192,"Columbia-Sumter-Orangeburg, SC",45085,45,085,Sumter County,South Carolina,Central,2023-07-21
+45060,"Syracuse, NY",,,532,"Syracuse-Auburn, NY",36053,36,053,Madison County,New York,Outlying,2023-07-21
+45060,"Syracuse, NY",,,532,"Syracuse-Auburn, NY",36067,36,067,Onondaga County,New York,Central,2023-07-21
+45060,"Syracuse, NY",,,532,"Syracuse-Auburn, NY",36075,36,075,Oswego County,New York,Outlying,2023-07-21
+45220,"Tallahassee, FL",,,533,"Tallahassee-Bainbridge, FL-GA",12039,12,039,Gadsden County,Florida,Outlying,2023-07-21
+45220,"Tallahassee, FL",,,533,"Tallahassee-Bainbridge, FL-GA",12065,12,065,Jefferson County,Florida,Outlying,2023-07-21
+45220,"Tallahassee, FL",,,533,"Tallahassee-Bainbridge, FL-GA",12073,12,073,Leon County,Florida,Central,2023-07-21
+45220,"Tallahassee, FL",,,533,"Tallahassee-Bainbridge, FL-GA",12129,12,129,Wakulla County,Florida,Outlying,2023-07-21
+45300,"Tampa-St. Petersburg-Clearwater, FL",41304,"St. Petersburg-Clearwater-Largo, FL",,,12103,12,103,Pinellas County,Florida,Central,2023-07-21
+45300,"Tampa-St. Petersburg-Clearwater, FL",45294,"Tampa, FL",,,12053,12,053,Hernando County,Florida,Outlying,2023-07-21
+45300,"Tampa-St. Petersburg-Clearwater, FL",45294,"Tampa, FL",,,12057,12,057,Hillsborough County,Florida,Central,2023-07-21
+45300,"Tampa-St. Petersburg-Clearwater, FL",45294,"Tampa, FL",,,12101,12,101,Pasco County,Florida,Central,2023-07-21
+45460,"Terre Haute, IN",,,,,18021,18,021,Clay County,Indiana,Outlying,2023-07-21
+45460,"Terre Haute, IN",,,,,18153,18,153,Sullivan County,Indiana,Outlying,2023-07-21
+45460,"Terre Haute, IN",,,,,18165,18,165,Vermillion County,Indiana,Outlying,2023-07-21
+45460,"Terre Haute, IN",,,,,18167,18,167,Vigo County,Indiana,Central,2023-07-21
+45500,"Texarkana, TX-AR",,,,,05081,05,081,Little River County,Arkansas,Outlying,2023-07-21
+45500,"Texarkana, TX-AR",,,,,05091,05,091,Miller County,Arkansas,Central,2023-07-21
+45500,"Texarkana, TX-AR",,,,,48037,48,037,Bowie County,Texas,Central,2023-07-21
+45780,"Toledo, OH",,,,,39051,39,051,Fulton County,Ohio,Outlying,2023-07-21
+45780,"Toledo, OH",,,,,39095,39,095,Lucas County,Ohio,Central,2023-07-21
+45780,"Toledo, OH",,,,,39173,39,173,Wood County,Ohio,Central,2023-07-21
+45820,"Topeka, KS",,,,,20085,20,085,Jackson County,Kansas,Outlying,2023-07-21
+45820,"Topeka, KS",,,,,20087,20,087,Jefferson County,Kansas,Outlying,2023-07-21
+45820,"Topeka, KS",,,,,20139,20,139,Osage County,Kansas,Outlying,2023-07-21
+45820,"Topeka, KS",,,,,20177,20,177,Shawnee County,Kansas,Central,2023-07-21
+45820,"Topeka, KS",,,,,20197,20,197,Wabaunsee County,Kansas,Outlying,2023-07-21
+45900,"Traverse City, MI",,,,,26019,26,019,Benzie County,Michigan,Outlying,2023-07-21
+45900,"Traverse City, MI",,,,,26055,26,055,Grand Traverse County,Michigan,Central,2023-07-21
+45900,"Traverse City, MI",,,,,26079,26,079,Kalkaska County,Michigan,Outlying,2023-07-21
+45900,"Traverse City, MI",,,,,26089,26,089,Leelanau County,Michigan,Outlying,2023-07-21
+45940,"Trenton-Princeton, NJ",,,408,"New York-Newark, NY-NJ-CT-PA",34021,34,021,Mercer County,New Jersey,Central,2023-07-21
+46060,"Tucson, AZ",,,536,"Tucson-Nogales, AZ",04019,04,019,Pima County,Arizona,Central,2023-07-21
+46140,"Tulsa, OK",,,538,"Tulsa-Bartlesville-Muskogee, OK",40037,40,037,Creek County,Oklahoma,Central,2023-07-21
+46140,"Tulsa, OK",,,538,"Tulsa-Bartlesville-Muskogee, OK",40111,40,111,Okmulgee County,Oklahoma,Outlying,2023-07-21
+46140,"Tulsa, OK",,,538,"Tulsa-Bartlesville-Muskogee, OK",40113,40,113,Osage County,Oklahoma,Central,2023-07-21
+46140,"Tulsa, OK",,,538,"Tulsa-Bartlesville-Muskogee, OK",40117,40,117,Pawnee County,Oklahoma,Outlying,2023-07-21
+46140,"Tulsa, OK",,,538,"Tulsa-Bartlesville-Muskogee, OK",40131,40,131,Rogers County,Oklahoma,Outlying,2023-07-21
+46140,"Tulsa, OK",,,538,"Tulsa-Bartlesville-Muskogee, OK",40143,40,143,Tulsa County,Oklahoma,Central,2023-07-21
+46140,"Tulsa, OK",,,538,"Tulsa-Bartlesville-Muskogee, OK",40145,40,145,Wagoner County,Oklahoma,Central,2023-07-21
+46220,"Tuscaloosa, AL",,,,,01063,01,063,Greene County,Alabama,Outlying,2023-07-21
+46220,"Tuscaloosa, AL",,,,,01065,01,065,Hale County,Alabama,Outlying,2023-07-21
+46220,"Tuscaloosa, AL",,,,,01107,01,107,Pickens County,Alabama,Outlying,2023-07-21
+46220,"Tuscaloosa, AL",,,,,01125,01,125,Tuscaloosa County,Alabama,Central,2023-07-21
+46300,"Twin Falls, ID",,,,,16053,16,053,Jerome County,Idaho,Outlying,2023-07-21
+46300,"Twin Falls, ID",,,,,16083,16,083,Twin Falls County,Idaho,Central,2023-07-21
+46340,"Tyler, TX",,,540,"Tyler-Jacksonville, TX",48423,48,423,Smith County,Texas,Central,2023-07-21
+46520,"Urban Honolulu, HI",,,,,15003,15,003,Honolulu County,Hawaii,Central,2023-07-21
+46540,"Utica-Rome, NY",,,,,36043,36,043,Herkimer County,New York,Outlying,2023-07-21
+46540,"Utica-Rome, NY",,,,,36065,36,065,Oneida County,New York,Central,2023-07-21
+46660,"Valdosta, GA",,,,,13027,13,027,Brooks County,Georgia,Outlying,2023-07-21
+46660,"Valdosta, GA",,,,,13101,13,101,Echols County,Georgia,Outlying,2023-07-21
+46660,"Valdosta, GA",,,,,13173,13,173,Lanier County,Georgia,Outlying,2023-07-21
+46660,"Valdosta, GA",,,,,13185,13,185,Lowndes County,Georgia,Central,2023-07-21
+46700,"Vallejo, CA",,,488,"San Jose-San Francisco-Oakland, CA",06095,06,095,Solano County,California,Central,2023-07-21
+47020,"Victoria, TX",,,544,"Victoria-Port Lavaca, TX",48175,48,175,Goliad County,Texas,Outlying,2023-07-21
+47020,"Victoria, TX",,,544,"Victoria-Port Lavaca, TX",48469,48,469,Victoria County,Texas,Central,2023-07-21
+47220,"Vineland, NJ",,,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",34011,34,011,Cumberland County,New Jersey,Central,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",37029,37,029,Camden County,North Carolina,Outlying,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",37053,37,053,Currituck County,North Carolina,Outlying,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",37073,37,073,Gates County,North Carolina,Outlying,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51073,51,073,Gloucester County,Virginia,Central,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51093,51,093,Isle of Wight County,Virginia,Central,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51095,51,095,James City County,Virginia,Outlying,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51115,51,115,Mathews County,Virginia,Outlying,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51181,51,181,Surry County,Virginia,Outlying,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51199,51,199,York County,Virginia,Central,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51550,51,550,Chesapeake city,Virginia,Central,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51650,51,650,Hampton city,Virginia,Central,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51700,51,700,Newport News city,Virginia,Central,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51710,51,710,Norfolk city,Virginia,Central,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51735,51,735,Poquoson city,Virginia,Central,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51740,51,740,Portsmouth city,Virginia,Central,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51800,51,800,Suffolk city,Virginia,Outlying,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51810,51,810,Virginia Beach city,Virginia,Central,2023-07-21
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",,,545,"Virginia Beach-Chesapeake, VA-NC",51830,51,830,Williamsburg city,Virginia,Outlying,2023-07-21
+47300,"Visalia, CA",,,,,06107,06,107,Tulare County,California,Central,2023-07-21
+47380,"Waco, TX",,,,,48035,48,035,Bosque County,Texas,Outlying,2023-07-21
+47380,"Waco, TX",,,,,48145,48,145,Falls County,Texas,Outlying,2023-07-21
+47380,"Waco, TX",,,,,48309,48,309,McLennan County,Texas,Central,2023-07-21
+47460,"Walla Walla, WA",,,314,"Kennewick-Richland-Walla Walla, WA",53071,53,071,Walla Walla County,Washington,Central,2023-07-21
+47580,"Warner Robins, GA",,,356,"Macon-Bibb County--Warner Robins, GA",13153,13,153,Houston County,Georgia,Central,2023-07-21
+47580,"Warner Robins, GA",,,356,"Macon-Bibb County--Warner Robins, GA",13225,13,225,Peach County,Georgia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51013,51,013,Arlington County,Virginia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51043,51,043,Clarke County,Virginia,Outlying,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51047,51,047,Culpeper County,Virginia,Outlying,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51059,51,059,Fairfax County,Virginia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51061,51,061,Fauquier County,Virginia,Outlying,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51107,51,107,Loudoun County,Virginia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51153,51,153,Prince William County,Virginia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51157,51,157,Rappahannock County,Virginia,Outlying,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51177,51,177,Spotsylvania County,Virginia,Outlying,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51179,51,179,Stafford County,Virginia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51187,51,187,Warren County,Virginia,Outlying,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51510,51,510,Alexandria city,Virginia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51600,51,600,Fairfax city,Virginia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51610,51,610,Falls Church city,Virginia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51630,51,630,Fredericksburg city,Virginia,Outlying,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51683,51,683,Manassas city,Virginia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51685,51,685,Manassas Park city,Virginia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11694,"Arlington-Alexandria-Reston, VA-WV",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",54037,54,037,Jefferson County,West Virginia,Outlying,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",23224,"Frederick-Gaithersburg-Bethesda, MD",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24021,24,021,Frederick County,Maryland,Outlying,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",23224,"Frederick-Gaithersburg-Bethesda, MD",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24031,24,031,Montgomery County,Maryland,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47764,"Washington, DC-MD",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",11001,11,001,District of Columbia,District of Columbia,Central,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47764,"Washington, DC-MD",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24017,24,017,Charles County,Maryland,Outlying,2023-07-21
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47764,"Washington, DC-MD",548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",24033,24,033,Prince George's County,Maryland,Central,2023-07-21
+47930,"Waterbury-Shelton, CT",,,405,"New Haven-Hartford-Waterbury, CT",09140,09,140,Naugatuck Valley Planning Region,Connecticut,Central,2023-07-21
+47940,"Waterloo-Cedar Falls, IA",,,,,19013,19,013,Black Hawk County,Iowa,Central,2023-07-21
+47940,"Waterloo-Cedar Falls, IA",,,,,19017,19,017,Bremer County,Iowa,Outlying,2023-07-21
+47940,"Waterloo-Cedar Falls, IA",,,,,19075,19,075,Grundy County,Iowa,Outlying,2023-07-21
+48060,"Watertown-Fort Drum, NY",,,,,36045,36,045,Jefferson County,New York,Central,2023-07-21
+48140,"Wausau, WI",,,554,"Wausau-Stevens Point-Wisconsin Rapids, WI",55073,55,073,Marathon County,Wisconsin,Central,2023-07-21
+48260,"Weirton-Steubenville, WV-OH",,,430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",39081,39,081,Jefferson County,Ohio,Central,2023-07-21
+48260,"Weirton-Steubenville, WV-OH",,,430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",54009,54,009,Brooke County,West Virginia,Central,2023-07-21
+48260,"Weirton-Steubenville, WV-OH",,,430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",54029,54,029,Hancock County,West Virginia,Central,2023-07-21
+48300,"Wenatchee-East Wenatchee, WA",,,,,53007,53,007,Chelan County,Washington,Central,2023-07-21
+48300,"Wenatchee-East Wenatchee, WA",,,,,53017,53,017,Douglas County,Washington,Central,2023-07-21
+48540,"Wheeling, WV-OH",,,,,39013,39,013,Belmont County,Ohio,Central,2023-07-21
+48540,"Wheeling, WV-OH",,,,,54051,54,051,Marshall County,West Virginia,Outlying,2023-07-21
+48540,"Wheeling, WV-OH",,,,,54069,54,069,Ohio County,West Virginia,Central,2023-07-21
+48620,"Wichita, KS",,,556,"Wichita-Arkansas City-Winfield, KS",20015,20,015,Butler County,Kansas,Central,2023-07-21
+48620,"Wichita, KS",,,556,"Wichita-Arkansas City-Winfield, KS",20079,20,079,Harvey County,Kansas,Outlying,2023-07-21
+48620,"Wichita, KS",,,556,"Wichita-Arkansas City-Winfield, KS",20173,20,173,Sedgwick County,Kansas,Central,2023-07-21
+48620,"Wichita, KS",,,556,"Wichita-Arkansas City-Winfield, KS",20191,20,191,Sumner County,Kansas,Outlying,2023-07-21
+48660,"Wichita Falls, TX",,,,,48009,48,009,Archer County,Texas,Outlying,2023-07-21
+48660,"Wichita Falls, TX",,,,,48077,48,077,Clay County,Texas,Outlying,2023-07-21
+48660,"Wichita Falls, TX",,,,,48485,48,485,Wichita County,Texas,Central,2023-07-21
+48680,"Wildwood-The Villages, FL",,,422,"Orlando-Lakeland-Deltona, FL",12119,12,119,Sumter County,Florida,Central,2023-07-21
+48700,"Williamsport, PA",,,558,"Williamsport-Lock Haven, PA",42081,42,081,Lycoming County,Pennsylvania,Central,2023-07-21
+48900,"Wilmington, NC",,,,,37019,37,019,Brunswick County,North Carolina,Central,2023-07-21
+48900,"Wilmington, NC",,,,,37129,37,129,New Hanover County,North Carolina,Central,2023-07-21
+48900,"Wilmington, NC",,,,,37141,37,141,Pender County,North Carolina,Outlying,2023-07-21
+49020,"Winchester, VA-WV",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51069,51,069,Frederick County,Virginia,Central,2023-07-21
+49020,"Winchester, VA-WV",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",51840,51,840,Winchester city,Virginia,Central,2023-07-21
+49020,"Winchester, VA-WV",,,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",54027,54,027,Hampshire County,West Virginia,Outlying,2023-07-21
+49180,"Winston-Salem, NC",,,268,"Greensboro--Winston-Salem--High Point, NC",37057,37,057,Davidson County,North Carolina,Central,2023-07-21
+49180,"Winston-Salem, NC",,,268,"Greensboro--Winston-Salem--High Point, NC",37059,37,059,Davie County,North Carolina,Central,2023-07-21
+49180,"Winston-Salem, NC",,,268,"Greensboro--Winston-Salem--High Point, NC",37067,37,067,Forsyth County,North Carolina,Central,2023-07-21
+49180,"Winston-Salem, NC",,,268,"Greensboro--Winston-Salem--High Point, NC",37169,37,169,Stokes County,North Carolina,Central,2023-07-21
+49180,"Winston-Salem, NC",,,268,"Greensboro--Winston-Salem--High Point, NC",37197,37,197,Yadkin County,North Carolina,Outlying,2023-07-21
+49340,"Worcester, MA",,,148,"Boston-Worcester-Providence, MA-RI-NH",25027,25,027,Worcester County,Massachusetts,Central,2023-07-21
+49420,"Yakima, WA",,,,,53077,53,077,Yakima County,Washington,Central,2023-07-21
+49620,"York-Hanover, PA",,,276,"Harrisburg-York-Lebanon, PA",42133,42,133,York County,Pennsylvania,Central,2023-07-21
+49660,"Youngstown-Warren, OH",,,566,"Youngstown-Warren-Salem, OH",39099,39,099,Mahoning County,Ohio,Central,2023-07-21
+49660,"Youngstown-Warren, OH",,,566,"Youngstown-Warren-Salem, OH",39155,39,155,Trumbull County,Ohio,Central,2023-07-21
+49700,"Yuba City, CA",,,472,"Sacramento-Roseville, CA",06101,06,101,Sutter County,California,Central,2023-07-21
+49700,"Yuba City, CA",,,472,"Sacramento-Roseville, CA",06115,06,115,Yuba County,California,Central,2023-07-21
+49740,"Yuma, AZ",,,,,04027,04,027,Yuma County,Arizona,Central,2023-07-21

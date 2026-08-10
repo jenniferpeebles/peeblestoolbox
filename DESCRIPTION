@@ -1,13 +1,13 @@
 Package: peeblestoolbox
 Title: Reusable Tools for Peebles Data Projects
-Version: 0.1.0
+Version: 0.2.0
 Authors@R:
     person("J.", "Peebles", role = c("aut", "cre"),
            email = "jenniferpeebles@users.noreply.github.com")
 Author: J. Peebles [aut, cre]
 Maintainer: J. Peebles <jenniferpeebles@users.noreply.github.com>
-Description: Reusable helpers for newsroom data projects, including Georgia
-    metropolitan-area classification, Census and TIGER/Line retrieval,
+Description: Reusable helpers for newsroom data projects, including national
+    metropolitan-area classification, state Census and TIGER/Line retrieval,
     database connections, and consistent charts, maps, watermarks, and exports.
 License: MIT + file LICENSE
 Encoding: UTF-8

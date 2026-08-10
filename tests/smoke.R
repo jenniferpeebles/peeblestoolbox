@@ -18,6 +18,63 @@ if (is.na(original_census_key)) {
   Sys.setenv(CENSUS_API_KEY = original_census_key)
 }
 
+original_state_option <- getOption("peeblestoolbox.state")
+original_state_env <- Sys.getenv("PEEBLESTOOLBOX_STATE", unset = NA_character_)
+options(peeblestoolbox.state = NULL)
+Sys.unsetenv("PEEBLESTOOLBOX_STATE")
+stopifnot(identical(peebles_state(), "GA"))
+set_peebles_state("North Carolina")
+stopifnot(identical(peebles_state(), "NC"))
+set_peebles_state("13")
+stopifnot(identical(peebles_state(), "GA"))
+
+national_lookup <- msa_counties(state = NULL)
+charlotte_lookup <- msa_counties(state = NULL, cbsa_code = "16740")
+stopifnot(
+  nrow(national_lookup) == 1252L,
+  length(unique(national_lookup$state_abbr)) == 52L,
+  identical(sort(unique(charlotte_lookup$state_abbr)), c("NC", "SC")),
+  all(c(
+    "metro_division_code", "csa_code", "county_geoid", "state_abbr",
+    "state_name", "county_type", "delineation_date"
+  ) %in% names(national_lookup)),
+  isTRUE(is_msa_county("Mecklenburg", "16740", state = "NC")),
+  !isTRUE(is_msa_county("Wake", "16740", state = "NC"))
+)
+
+multi_state <- add_msa(
+  data.frame(
+    county = c("Mecklenburg", "York", "Wake", "Unknown"),
+    state = c("NC", "SC", "NC", NA_character_)
+  ),
+  county = "county",
+  state_column = "state"
+)
+stopifnot(
+  identical(multi_state$msa_code, c("16740", "16740", "39580", NA_character_)),
+  identical(multi_state$in_msa, c(TRUE, TRUE, TRUE, FALSE))
+)
+
+multi_state_fips <- add_msa(
+  data.frame(fips = c("119", "45091", "999"), state = c("NC", "SC", "NC")),
+  county_fips = "fips",
+  state_column = "state"
+)
+stopifnot(
+  identical(multi_state_fips$msa_code, c("16740", "16740", NA_character_))
+)
+
+if (is.null(original_state_option)) {
+  options(peeblestoolbox.state = NULL)
+} else {
+  options(peeblestoolbox.state = original_state_option)
+}
+if (is.na(original_state_env)) {
+  Sys.unsetenv("PEEBLESTOOLBOX_STATE")
+} else {
+  Sys.setenv(PEEBLESTOOLBOX_STATE = original_state_env)
+}
+
 lookup <- ga_msa_counties()
 stopifnot(
   nrow(lookup) == 74L,
