@@ -43,41 +43,114 @@ Then every project can start with:
 library(peeblestoolbox)
 ```
 
-## Georgia MSAs
+## Choose your state
+
+Georgia is the default, so existing users do not need to change anything. To
+use the state-aware functions somewhere else, set your working state once per
+R session:
+
+```r
+peebles_state()
+#> [1] "GA"
+
+set_peebles_state("North Carolina")
+peebles_state()
+#> [1] "NC"
+```
+
+The setting accepts a postal abbreviation, full state name, or state FIPS
+code. To make another state the default in every R session, add this line to
+your user-level `.Renviron`:
+
+```text
+PEEBLESTOOLBOX_STATE=NC
+```
+
+You can still override the default for an individual function call with its
+`state` argument.
+
+## Metropolitan statistical areas
+
+Quickly classify counties and county equivalents using the official July 2023
+OMB metropolitan-area definitions. The bundled national lookup covers all 50
+states, the District of Columbia, and Puerto Rico. It includes CBSA,
+metropolitan-division, combined-statistical-area, state, county GEOID,
+central/outlying, and delineation-date fields.
+
+With no state configuration, Georgia remains the default:
+
+```r
+msa_counties()
+```
+
+Supply `state = NULL` when looking up an entire cross-state MSA:
+
+```r
+charlotte_msa <- msa_counties(state = NULL, cbsa_code = "16740")
+unique(charlotte_msa$state_abbr)
+#> [1] "NC" "SC"
+```
+
+Add MSA information to data containing one or several states. County names are
+matched without regard to capitalization or whether they include `"County"`:
+
+```r
+counties <- data.frame(
+  county = c("Mecklenburg", "York", "Wake"),
+  state = c("NC", "SC", "NC")
+)
+
+add_msa(counties, county = "county", state_column = "state")
+```
+
+The result retains every row and adds the MSA and CSA classifications. For the
+most reliable match, especially in multistate data, use a column containing
+five-digit county GEOIDs with the `county_fips` argument.
+
+The original Georgia conveniences remain available and backward compatible:
 
 ```r
 is_atlanta_msa(c("Fulton", "Lumpkin County", "Lamar"))
+#> [1]  TRUE  TRUE FALSE
 
-counties <- data.frame(county = c("Fulton", "Chatham", "Hall", "Lamar"))
-add_ga_msa(counties, county = "county")
-
-ga_msa_counties()
 ga_msa_counties("12060")
+add_ga_msa(data.frame(county = c("Fulton", "Lamar")), county = "county")
 ```
 
-The bundled lookup uses the July 2023 OMB delineations (OMB Bulletin 23-01),
-distributed by the U.S. Census Bureau. It contains all Georgia counties that
-belong to a metropolitan statistical area, including Georgia counties in
-cross-state MSAs.
+The lookup comes from the July 2023 OMB delineations (OMB Bulletin 23-01),
+distributed by the U.S. Census Bureau.
 
 Source: <https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files.html>
 
 ## Census and boundaries
 
+The state-aware Census and boundary helpers use Georgia unless you select
+another default with `set_peebles_state()`. You can also pass `state` directly
+for a one-time request:
+
 ```r
-population <- get_ga_acs(
+population <- get_state_acs(
   geography = "county",
   variables = c(population = "B01003_001"),
+  state = "NC",
   year = 2024
 )
 
-ga_counties <- get_ga_counties(year = 2024)
-ga_tracts <- get_ga_tracts(year = 2024)
+counties <- get_state_counties()
+tracts <- get_state_tracts()
 ```
+
+The existing `get_ga_acs()` and `get_ga_*()` boundary functions always select
+Georgia and remain available for older projects.
 
 ## Warehouse
 
-Save credentials in your user `.Renviron`, never in a project:
+Do you frequently have to log in to a data warehouse or another cloud database
+to retrieve data? These helpers read your login information from a private
+`.Renviron` file on your local machine, so you can share your R code without
+also sharing your username, password, or other credentials.
+
+Save the credentials in your user-level `.Renviron`, never in a project file:
 
 ```text
 WAREHOUSE_HOST=your-host
@@ -96,6 +169,13 @@ warehouse_disconnect(con)
 ```
 
 ## Charts and maps
+
+These helpers give `ggplot2` charts and maps a clean, consistent appearance
+without repeating the same formatting code in every project.
+`theme_peebles_chart()` formats a standard chart, while
+`theme_peebles_map()` removes axes and other clutter from a map. You can also
+mark a graphic as a draft with `add_peebles_watermark()` and export it at a
+consistent size and print-ready resolution with `save_peebles_plot()`.
 
 ```r
 chart <- ggplot2::ggplot(mtcars, ggplot2::aes(factor(cyl))) +
