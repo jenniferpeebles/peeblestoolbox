@@ -1,6 +1,6 @@
 Package: peeblestoolbox
 Title: Reusable Tools for Peebles Data Projects
-Version: 0.2.0
+Version: 0.3.0.9000
 Authors@R:
     person("J.", "Peebles", role = c("aut", "cre"),
            email = "jenniferpeebles@users.noreply.github.com")

@@ -109,6 +109,41 @@ plot <- ggplot2::ggplot(mtcars, ggplot2::aes(factor(cyl))) +
   add_peebles_watermark("TEST")
 stopifnot(inherits(plot, "ggplot"))
 
+dirty_text <- data.frame(
+  name = c("  Jane\tDoe  ", "Acme\u00a0LLC", "Line\nBreak", NA_character_),
+  value = 1:4,
+  stringsAsFactors = FALSE
+)
+text_profile <- warehouse_profile_text(dirty_text)
+stopifnot(
+  identical(text_profile$column, "name"),
+  text_profile$control_character_n == 2L,
+  text_profile$nonbreaking_space_n == 1L
+)
+
+clean_text <- warehouse_clean_text(dirty_text)
+clean_audit <- attr(clean_text, "warehouse_cleaning_audit")
+stopifnot(
+  identical(clean_text$name, c("Jane Doe", "Acme LLC", "Line Break", NA_character_)),
+  clean_audit$changed_n == 3L,
+  identical(clean_text$value, dirty_text$value)
+)
+
+valid_schema <- warehouse_validate_schema(
+  data.frame(id = "001", amount = 10),
+  c(id = "VARCHAR(3)", amount = "DECIMAL(12,2)")
+)
+invalid_schema <- warehouse_validate_schema(
+  data.frame(id = "001", surprise = "x"),
+  c(id = "VARCHAR(3)", amount = "DECIMAL(12,2)")
+)
+stopifnot(
+  isTRUE(valid_schema$ok),
+  !isTRUE(invalid_schema$ok),
+  identical(invalid_schema$missing_columns, "amount"),
+  identical(invalid_schema$extra_columns, "surprise")
+)
+
 if (requireNamespace("sf", quietly = TRUE)) {
   geojson_input <- sf::st_sf(
     name = "test",

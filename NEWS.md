@@ -1,3 +1,12 @@
+# peeblestoolbox 0.3.0.9000
+
+- Added conservative warehouse text profiling and cleaning helpers that audit
+  changes and stop on invalid encodings by default.
+- Added schema validation and dry-run load planning.
+- Added an opt-in chunk writer that only appends to an existing table, requires
+  exact column order, and reconciles row counts after loading.
+- Warehouse loading helpers never create, drop, truncate, or replace tables.
+
 # peeblestoolbox 0.2.0
 
 - Added a national July 2023 OMB county-to-MSA lookup covering all 50 states,

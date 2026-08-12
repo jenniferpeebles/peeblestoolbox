@@ -168,6 +168,40 @@ con <- warehouse_connect()
 warehouse_disconnect(con)
 ```
 
+For difficult government exports, profile the text before loading it:
+
+```r
+text_qa <- warehouse_profile_text(teamworks_data)
+clean_data <- warehouse_clean_text(
+  teamworks_data,
+  from = "latin1",
+  repair_mojibake = TRUE
+)
+attr(clean_data, "warehouse_cleaning_audit")
+```
+
+Invalid encodings stop cleaning by default instead of being silently deleted.
+Before any insert, validate the project-owned schema and inspect a dry-run plan:
+
+```r
+warehouse_validate_schema(clean_data, personnel_schema)
+warehouse_plan_load(con, clean_data, "personnel_actions_jan2026")
+```
+
+The shared chunk writer is intentionally narrow and safe. It only appends to an
+existing table, defaults to a dry run, requires exact destination column order,
+and reconciles row counts. It never creates, drops, truncates, or replaces tables:
+
+```r
+warehouse_write_chunks(
+  con,
+  clean_data,
+  "personnel_actions_jan2026",
+  chunk_size = 100000L,
+  execute = TRUE
+)
+```
+
 ## Charts and maps
 
 These helpers give `ggplot2` charts and maps a clean, consistent appearance
