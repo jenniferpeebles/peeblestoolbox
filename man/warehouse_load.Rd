@@ -42,5 +42,7 @@ attribute, or completed-load audit, depending on the function.
 Profile and conservatively clean difficult government-export text, validate
 explicit schemas, inspect a proposed warehouse load, and append in controlled
 chunks. The writer defaults to a dry run and never creates, drops, truncates,
-or replaces a table.
+or replaces a table. Text profiling reports leading Unicode byte-order marks,
+and text cleaning removes them from column names and character values. Header
+changes are recorded in the \code{warehouse_column_name_audit} attribute.
 }

@@ -178,9 +178,12 @@ clean_data <- warehouse_clean_text(
   repair_mojibake = TRUE
 )
 attr(clean_data, "warehouse_cleaning_audit")
+attr(clean_data, "warehouse_column_name_audit")
 ```
 
 Invalid encodings stop cleaning by default instead of being silently deleted.
+Leading UTF byte-order marks are reported by `warehouse_profile_text()` and
+removed from column names and character values by `warehouse_clean_text()`.
 Before any insert, validate the project-owned schema and inspect a dry-run plan:
 
 ```r

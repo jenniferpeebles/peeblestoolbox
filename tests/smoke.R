@@ -129,6 +129,38 @@ stopifnot(
   identical(clean_text$value, dirty_text$value)
 )
 
+bom <- intToUtf8(0xfeff)
+bom_text <- data.frame(
+  value = c(paste0(bom, "first"), paste0("middle", bom, "mark")),
+  stringsAsFactors = FALSE
+)
+names(bom_text) <- paste0(bom, "value")
+bom_profile <- warehouse_profile_text(bom_text)
+stopifnot(
+  bom_profile$leading_bom_n == 1L,
+  isTRUE(bom_profile$column_name_has_bom)
+)
+bom_clean <- warehouse_clean_text(bom_text)
+bom_audit <- attr(bom_clean, "warehouse_cleaning_audit")
+bom_name_audit <- attr(bom_clean, "warehouse_column_name_audit")
+stopifnot(
+  identical(names(bom_clean), "value"),
+  identical(bom_clean$value, c("first", paste0("middle", bom, "mark"))),
+  bom_audit$leading_bom_n == 1L,
+  identical(bom_name_audit$original, paste0(bom, "value")),
+  identical(bom_name_audit$cleaned, "value"),
+  isTRUE(warehouse_validate_schema(bom_clean, c(value = "TEXT"))$ok)
+)
+
+duplicate_bom_error <- tryCatch(
+  warehouse_clean_text(setNames(data.frame(a = "x", b = "y"), c("value", paste0(bom, "value")))),
+  error = identity
+)
+stopifnot(
+  inherits(duplicate_bom_error, "error"),
+  grepl("duplicate column names", conditionMessage(duplicate_bom_error), fixed = TRUE)
+)
+
 valid_schema <- warehouse_validate_schema(
   data.frame(id = "001", amount = 10),
   c(id = "VARCHAR(3)", amount = "DECIMAL(12,2)")
