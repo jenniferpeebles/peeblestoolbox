@@ -1,5 +1,7 @@
 # peeblestoolbox 0.3.0.9000
 
+- Detect and remove leading UTF byte-order marks from warehouse column names
+  and character values, with audit details and duplicate-name protection.
 - Added conservative warehouse text profiling and cleaning helpers that audit
   changes and stop on invalid encodings by default.
 - Added schema validation and dry-run load planning.

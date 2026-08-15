@@ -1,3 +1,11 @@
+# Remove a decoded Unicode byte-order mark only when it appears at the start.
+# A BOM elsewhere in text may be an intentional zero-width no-break space.
+.strip_leading_bom <- function(x) {
+  has_bom <- !is.na(x) & startsWith(x, "\ufeff")
+  x[has_bom] <- substring(x[has_bom], 2L)
+  list(value = x, found = has_bom)
+}
+
 #' Profile character data before a warehouse load
 #'
 #' @param data A data frame.
@@ -20,6 +28,7 @@ warehouse_profile_text <- function(data, columns = NULL) {
     nonmissing <- !is.na(x)
     utf8 <- iconv(x, from = "", to = "UTF-8", sub = NA_character_)
     invalid <- nonmissing & is.na(utf8)
+    leading_bom <- nonmissing & startsWith(x, "\ufeff")
     has_control <- nonmissing & grepl("[[:cntrl:]]", x)
     has_nbsp <- nonmissing & grepl("\u00a0", x, fixed = TRUE)
     lengths <- nchar(x, type = "chars", allowNA = TRUE, keepNA = TRUE)
@@ -29,6 +38,8 @@ warehouse_profile_text <- function(data, columns = NULL) {
       rows = length(x),
       missing_n = sum(!nonmissing),
       invalid_encoding_n = sum(invalid),
+      leading_bom_n = sum(leading_bom),
+      column_name_has_bom = startsWith(column, "\ufeff"),
       control_character_n = sum(has_control),
       nonbreaking_space_n = sum(has_nbsp),
       max_characters = if (all(is.na(lengths))) NA_integer_ else max(lengths, na.rm = TRUE),
@@ -39,7 +50,8 @@ warehouse_profile_text <- function(data, columns = NULL) {
   if (!length(rows)) {
     return(data.frame(
       column = character(), rows = integer(), missing_n = integer(),
-      invalid_encoding_n = integer(), control_character_n = integer(),
+      invalid_encoding_n = integer(), leading_bom_n = integer(),
+      column_name_has_bom = logical(), control_character_n = integer(),
       nonbreaking_space_n = integer(), max_characters = integer()
     ))
   }
@@ -51,6 +63,9 @@ warehouse_profile_text <- function(data, columns = NULL) {
 #' Cleaning is deliberately conservative. Invalid encodings stop the function by
 #' default instead of silently deleting bytes. The returned data frame carries a
 #' `warehouse_cleaning_audit` attribute describing changes by column.
+#' Leading Unicode byte-order marks (`U+FEFF`) are removed from column names
+#' and character values. Header changes are recorded in the
+#' `warehouse_column_name_audit` attribute.
 #'
 #' @param data A data frame.
 #' @param columns Character columns to clean. By default all character columns.
@@ -74,6 +89,20 @@ warehouse_clean_text <- function(
 ) {
   if (!is.data.frame(data)) stop("`data` must be a data frame.", call. = FALSE)
   invalid <- match.arg(invalid)
+
+  original_names <- names(data)
+  cleaned_names <- .strip_leading_bom(original_names)$value
+  if (anyDuplicated(cleaned_names)) {
+    stop("Removing leading byte-order marks would create duplicate column names.", call. = FALSE)
+  }
+  name_changed <- original_names != cleaned_names
+  names(data) <- cleaned_names
+  name_audit <- data.frame(
+    original = original_names[name_changed],
+    cleaned = cleaned_names[name_changed],
+    stringsAsFactors = FALSE
+  )
+
   if (is.null(columns)) columns <- names(data)[vapply(data, is.character, logical(1))]
   missing <- setdiff(columns, names(data))
   if (length(missing)) stop("Missing column(s): ", paste(missing, collapse = ", "), call. = FALSE)
@@ -95,6 +124,8 @@ warehouse_clean_text <- function(
     } else {
       checked
     }
+    bom <- .strip_leading_bom(x)
+    x <- bom$value
     x <- gsub("\u00a0", " ", x, fixed = TRUE)
     if (repair_mojibake) {
       mojibake_patterns <- c(
@@ -122,13 +153,16 @@ warehouse_clean_text <- function(
       column = column,
       changed_n = sum(changed, na.rm = TRUE),
       invalid_encoding_n = sum(bad),
+      leading_bom_n = sum(bom$found),
       stringsAsFactors = FALSE
     )
   })
 
   attr(data, "warehouse_cleaning_audit") <- if (length(audit)) do.call(rbind, audit) else data.frame(
-    column = character(), changed_n = integer(), invalid_encoding_n = integer()
+    column = character(), changed_n = integer(), invalid_encoding_n = integer(),
+    leading_bom_n = integer()
   )
+  attr(data, "warehouse_column_name_audit") <- name_audit
   data
 }
 
