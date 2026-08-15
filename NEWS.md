@@ -1,3 +1,7 @@
+# peeblestoolbox 0.3.0.9000
+
+- Development version following the v0.3.0 release.
+
 # peeblestoolbox 0.3.0
 
 - Detect and remove leading UTF byte-order marks from warehouse column names
