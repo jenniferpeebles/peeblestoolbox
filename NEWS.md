@@ -1,4 +1,4 @@
-# peeblestoolbox 0.3.0.9000
+# peeblestoolbox 0.3.0
 
 - Detect and remove leading UTF byte-order marks from warehouse column names
   and character values, with audit details and duplicate-name protection.
