@@ -1,12 +1,11 @@
 # peeblestoolbox
 
-Reusable helpers for Peebles data projects.
+Reusable helpers for Peebles-built data projects.
 
 ## License
 
 PeeblesToolbox is available under the [MIT License](LICENSE.md). You may use,
-copy, modify, publish, and distribute it subject to the license's notice and
-disclaimer requirements.
+copy, modify, publish, and distribute it subject to the license's notice and disclaimer requirements.
 
 ## Installation
 
@@ -45,7 +44,7 @@ library(peeblestoolbox)
 
 ## Choose your state
 
-Georgia is the default, so existing users do not need to change anything. To
+Georgia is the default (because I live here!), so existing users do not need to change anything. To
 use the state-aware functions somewhere else, set your working state once per
 R session:
 
@@ -246,3 +245,9 @@ export_geojson(
 The helper transforms the layer to WGS84 (EPSG:4326) and saves it in
 `output/geojson/`. It will not overwrite an existing file unless
 `overwrite = TRUE`.
+
+## Authorship
+
+[Jennifer Peebles](https://www.ajc.com/staff/jennifer-peebles/) / [Atlanta Journal-Constitution](https://www.ajc.com/)
+
+A note from JP: I built this project with help from ChatGPT/Codex, which drafted this README from the project's code, outputs and my instructions (and to which I have made edits). I want to be transparent about the help I received. 
