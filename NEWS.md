@@ -1,6 +1,8 @@
 # peeblestoolbox 0.3.0.9000
 
 - Development version following the v0.3.0 release.
+- Restore the MIT license metadata file and exclude GitHub configuration from
+  package builds to resolve the R CMD check license warning and hidden-file note.
 
 # peeblestoolbox 0.3.0
 
