@@ -3,6 +3,7 @@
 ^\.Rhistory$
 ^\.RData$
 ^\.git$
+^\.github$
 ^\.gitignore$
 ^.*\.tar\.gz$
 ^.*\.Rcheck$
