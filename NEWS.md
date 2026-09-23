@@ -1,6 +1,9 @@
 # peeblestoolbox 0.3.0.9000
 
 - Development version following the v0.3.0 release.
+- Added `arc_counties()` and `is_arc_county()` to look up and filter the
+  11-county Atlanta Regional Commission footprint by county name or FIPS code,
+  including state-aware matching for national datasets.
 - Read the bundled MSA lookup as UTF-8 with optional BOM handling so the first
   column remains `cbsa_code`, including on systems with a non-UTF-8 locale.
 - Restore the MIT license metadata file and exclude GitHub configuration from

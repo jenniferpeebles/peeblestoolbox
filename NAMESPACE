@@ -1,4 +1,6 @@
 export(add_atlanta_msa)
+export(arc_counties)
+export(is_arc_county)
 export(add_ga_msa)
 export(add_msa)
 export(add_peebles_watermark)
