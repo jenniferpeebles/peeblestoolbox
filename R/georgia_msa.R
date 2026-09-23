@@ -78,18 +78,23 @@ set_peebles_state <- function(state) {
   invisible(state)
 }
 
-.msa_lookup <- function() {
-  path <- system.file(
+.msa_lookup <- function(path = system.file(
     "extdata",
     "msa_counties_2023.csv",
     package = "peeblestoolbox"
-  )
-
+  )) {
   if (!nzchar(path)) {
     stop("The national MSA lookup bundled with peeblestoolbox is missing.", call. = FALSE)
   }
 
-  lookup <- utils::read.csv(path, colClasses = "character", check.names = FALSE)
+  # Skip an optional BOM as bytes and keep text in UTF-8 rather than converting
+  # accented county names to the current locale's (possibly ASCII) encoding.
+  lines <- readLines(path, encoding = "UTF-8")
+  lines[1L] <- sub("^\ufeff", "", lines[1L], useBytes = TRUE)
+  lookup <- utils::read.csv(
+    text = lines, colClasses = "character", check.names = FALSE,
+    encoding = "UTF-8"
+  )
   names(lookup)[names(lookup) == "geoid"] <- "county_geoid"
   names(lookup)[names(lookup) == "county_or_equivalent"] <- "county"
   names(lookup)[names(lookup) == "state"] <- "state_name"

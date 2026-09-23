@@ -1,6 +1,8 @@
 # peeblestoolbox 0.3.0.9000
 
 - Development version following the v0.3.0 release.
+- Read the bundled MSA lookup as UTF-8 with optional BOM handling so the first
+  column remains `cbsa_code`, including on systems with a non-UTF-8 locale.
 - Restore the MIT license metadata file and exclude GitHub configuration from
   package builds to resolve the R CMD check license warning and hidden-file note.
 
