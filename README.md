@@ -118,6 +118,47 @@ distributed by the U.S. Census Bureau.
 
 Source: <https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files.html>
 
+### Atlanta Regional Commission footprint
+
+`arc_counties()` returns the 11 counties in ARC's regional commission footprint:
+Cherokee, Clayton, Cobb, DeKalb, Douglas, Fayette, Forsyth, Fulton, Gwinnett,
+Henry, and Rockdale. The lookup includes county names, three-digit county FIPS,
+five-digit county GEOIDs, and state identifiers, all stored as character values.
+It works offline and uses the definition verified on September 23, 2026 against
+[ARC's official county list](https://atlantaregional.org/about-arc/about-the-atlanta-region/).
+This is distinct from the Atlanta MSA and ARC's larger transportation planning
+area. The City of Atlanta is within the county footprint, not a twelfth county.
+These helpers are new in the development version after v0.3.0; install the
+updated package from a checkout containing this change to use them.
+
+```r
+arc_counties()
+
+# Georgia-only data: names may include "County" and use any capitalization.
+georgia <- data.frame(county = c("Fulton", "Forsyth County", "Lumpkin"),
+                      population = c(100, 200, 300))
+arc_data <- georgia[is_arc_county(georgia$county), ]
+
+# National data: full county GEOIDs include the state, so NC won't match GA.
+national <- data.frame(GEOID = c("13121", "37067", "13117", "13187"))
+arc_data <- national[is_arc_county(county_fips = national$GEOID), , drop = FALSE]
+
+# If using names in national data, supply the state for each row.
+national_names <- data.frame(county = c("Forsyth", "Forsyth", "Fulton"),
+                             state = c("NC", "GA", "GA"))
+arc_data <- national_names[
+  is_arc_county(national_names$county, state = national_names$state),
+]
+```
+
+`is_arc_county()` takes vectors of values, not quoted column names. Supply
+exactly one of `county` or `county_fips`. Names and county-only FIPS codes assume
+Georgia unless you supply `state`; this default is independent of
+`set_peebles_state()`. Five-digit GEOIDs identify their own state. Missing or
+unmatched counties return `FALSE`. Keep FIPS/GEOIDs as character values to
+preserve leading zeros. The logical result also works in `dplyr::filter()`;
+filtering retains matching rows in their original order, including duplicates.
+
 ### Census and boundaries
 
 The state-aware Census and boundary helpers use Georgia unless you select
@@ -252,7 +293,7 @@ copy, modify, publish, and distribute it subject to the license's notice and dis
 ## Function reference you can paste into an AI chat window
 
 Copy the entire block below into a chat when the AI cannot read this repository.
-It describes all 31 exported functions in the current package (development
+It describes all 33 exported functions in the current package (development
 version 0.3.0.9000), including the Georgia shortcuts. The examples and setup
 instructions elsewhere in this README provide additional context.
 
@@ -441,6 +482,34 @@ CHARTS, MAPS, AND FILE EXPORTS (5 functions)
     .geojson if needed, and write the file. Invisibly return its normalized
     path. Require a known source CRS and refuse to guess a missing CRS.
     Refuse to replace an existing file unless overwrite = TRUE.
+
+ATLANTA REGIONAL COMMISSION FOOTPRINT (2 functions)
+New after the v0.3.0 release; require an updated development installation.
+The bundled 11-county definition was verified on September 23, 2026 at
+https://atlantaregional.org/about-arc/about-the-atlanta-region/ and works offline.
+It covers Cherokee, Clayton, Cobb, DeKalb, Douglas, Fayette, Forsyth, Fulton,
+Gwinnett, Henry, and Rockdale in Georgia. It is distinct from the Atlanta MSA
+and ARC's transportation planning area. Atlanta is not an additional county.
+
+32. arc_counties()
+    Return an alphabetical 11-row lookup with character columns county,
+    county_fips (three digits), county_geoid (five digits), state_abbr, and
+    state_fips. This is a fixed footprint, not a historical membership series.
+33. is_arc_county(county = NULL, county_fips = NULL, state = "GA")
+    Return a logical vector for filtering. Supply exactly one vector of county
+    names or FIPS codes, not a quoted data-frame column name. Name matching
+    ignores case, punctuation, and a trailing "County". County-only codes
+    accept one to three digits and are padded internally. Names and county-only
+    codes require Georgia: state defaults to "GA" independently of the toolbox
+    state setting. Supply a scalar state or one state per row in national data.
+    States accept abbreviations, full names, or state FIPS. Full five-digit
+    GEOIDs carry their own state and determine membership without state matching.
+    Missing, blank, malformed, or unmatched county values return FALSE, not NA.
+    Missing states do not match names/county-only codes; invalid state labels
+    and mismatched vector lengths cause errors. Preserve GEOIDs as character.
+    Example: df[is_arc_county(county_fips = df$GEOID), , drop = FALSE].
+    Or: df[is_arc_county(df$county, state = df$state), , drop = FALSE].
+    Filtering preserves row order and duplicates; FALSE is not a validity check.
 
 When proposing code, choose the relevant helpers from this reference and use
 their actual argument names. Keep data-vintage choices explicit. Use ordinary
